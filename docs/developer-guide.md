@@ -7,7 +7,7 @@ checks, and how to do the things you are most likely to need to do.
 ## Setting up
 
 ```sh
-git clone https://github.com/YOUR-USERNAME/PlasmidBench.git
+git clone https://github.com/franci-ex/PlasmidBench.git
 cd PlasmidBench
 node build.js            # writes plasmidbench.html
 ```

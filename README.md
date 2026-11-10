@@ -10,8 +10,14 @@ unusually, knows what *your* freezer holds: it searches your own oligo
 inventory for tubes that can already read a region, and plans expression
 against the strains and plasmids you have.
 
+**If you just want to use it:** download the HTML file from the
+[latest release](https://github.com/franci-ex/PlasmidBench/releases) and open
+it. That is the whole installation.
+
+**To build it from source:**
+
 ```sh
-git clone https://github.com/YOUR-USERNAME/PlasmidBench.git
+git clone https://github.com/franci-ex/PlasmidBench.git
 cd PlasmidBench
 node build.js            # writes plasmidbench.html
 open plasmidbench.html   # or just double-click it
@@ -19,6 +25,10 @@ open plasmidbench.html   # or just double-click it
 
 Nothing else to install. `node` is needed only to join the source files;
 the file it produces has no dependencies at all.
+
+The built file is not committed — it is attached to each release instead, so
+that a result can be traced to the exact file that produced it and a change
+does not show up as a 1.4 MB diff.
 
 ---
 
