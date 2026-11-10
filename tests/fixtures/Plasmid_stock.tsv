@@ -4,24 +4,24 @@ FIX-0002	HRTA-PH.1	pFastBac1	Kan	N-MBP	hrta	PH	M. musculus	cloning intermediate	
 FIX-0003	ORVC.2	pET53	Tet	N-MBP	orvc		E. coli	mammalian expression	185	LAB-111	L3	WFIX-001	C6	Not tested	
 FIX-0004	ARTX.4	pET53	Amp	none	artx		Synthetic	mammalian expression	322	LAB-220	L4	WFIX-001	C8	Moderate, soluble	
 FIX-0005	EVRN-PH.4	pETDuet-1	Amp	N-GST	evrn	PH	S. cerevisiae	cloning intermediate	284	LAB-108	L4	WFIX-001	C4	High, soluble, LOBSTR	
-FIX-0006	UbV WDLK.2	pLVX	Amp	N-6his, C-strep tag II	wdlk		Synthetic	bacteria expression	161	LAB-167	L3	WFIX-001	I8	Low, inclusion bodies	sequenced
+FIX-0006	var WDLK.2	pLVX	Amp	N-6his, C-strep tag II	wdlk		Synthetic	bacteria expression	161	LAB-167	L3	WFIX-001	I8	Low, inclusion bodies	sequenced
 FIX-0007	PLTK-WD40.3	pETDuet-1	Str	N-6his, TEV	pltk	WD40	H. sapiens	bacteria expression	146	LAB-183	L2	WFIX-001	I2	Insoluble at 37, soluble at 18	
-FIX-0008	UbV YRBC-full length.1	pGEX-6P-1	Spec	none	yrbc	full length	M. musculus	insect expression	235	LAB-227	L2	WFIX-001	H1	Insoluble at 37, soluble at 18	
+FIX-0008	var YRBC-full length.1	pGEX-6P-1	Spec	none	yrbc	full length	M. musculus	insect expression	235	LAB-227	L2	WFIX-001	H1	Insoluble at 37, soluble at 18	
 FIX-0009	FKBX3-full length.2	pET21a	Amp	N-GST	fkbx3	full length	E. coli	cloning intermediate	329	LAB-132	L1	WFIX-001	H5	Insoluble at 37, soluble at 18	
 FIX-0010	NDLS-PH.3	pRSFDuet-1	Amp	C-strep tag II	ndls	PH	S. cerevisiae	insect expression	120	LAB-235	L3	WFIX-001	A9	Insoluble at 37, soluble at 18	
 FIX-0011	BLNK2.1	pET15b	Amp	C-strep tag II	blnk2		H. sapiens	insect expression	140	LAB-229	L2	WFIX-001	H4	High, soluble, BL21(DE3)	verify before use
 FIX-0012	VRLM-CTD.4	pBAD33	Str	none	vrlm	CTD	H. sapiens	mammalian expression	388	LAB-197	L4	WFIX-001	I9	Moderate, soluble	
-FIX-0013	UbV TQRP-WD40.2	pGEX-6P-1	Tet	N-6his, TEV	tqrp	WD40	E. coli	insect expression	165	LAB-203	L4	WFIX-001	H7	High, soluble, LOBSTR	
+FIX-0013	var TQRP-WD40.2	pGEX-6P-1	Tet	N-6his, TEV	tqrp	WD40	E. coli	insect expression	165	LAB-203	L4	WFIX-001	H7	High, soluble, LOBSTR	
 FIX-0014	USHN-PH.3	pCDFDuet-1	Tet	N-6his, TEV	ushn	PH	E. coli	bacteria expression	397	LAB-224	L1	WFIX-001	A2	High, soluble, LOBSTR	
 FIX-0015	FKBX3-WD40.4	pCDFDuet-1	Spec	N-MBP	fkbx3	WD40	M. musculus	entry clone	52	LAB-163	L4	WFIX-001	E3	High, soluble, BL21(DE3)	sequenced
 FIX-0016	PLTK-kinase.1	pCDFDuet-1	Str	N-MBP	pltk	kinase	E. coli	insect expression	149	LAB-116	L2	WFIX-001	D7	Moderate, soluble	
 FIX-0017	JNKL-full length.1	pQE30	Amp	C-6his	jnkl	full length	H. sapiens	mammalian expression	137	LAB-116	L2	WFIX-001	E9	Moderate, soluble	sequenced
 FIX-0018	EVRN-full length.4	pBAD33	Tet	N-GST	evrn	full length	H. sapiens	insect expression	368	LAB-214	L1	WFIX-001	E8	High, soluble, BL21(DE3)	
 FIX-0019	RVDX.2	pLVX	Spec	none	rvdx		M. musculus	mammalian expression	365	LAB-122	L4	WFIX-001	I5	Not tested	
-FIX-0020	UbV GLSN-SH3.2	pET21a	Kan	N-6his, C-strep tag II	glsn	SH3	E. coli	mammalian expression	414	LAB-133	L4	WFIX-001	C9	High, soluble, BL21(DE3)	
+FIX-0020	var GLSN-SH3.2	pET21a	Kan	N-6his, C-strep tag II	glsn	SH3	E. coli	mammalian expression	414	LAB-133	L4	WFIX-001	C9	High, soluble, BL21(DE3)	
 FIX-0021	HRTA.2	pLVX	Kan	C-strep tag II	hrta		M. musculus	bacteria expression	330	LAB-206	L4	WFIX-001	H4	Moderate, soluble	
 FIX-0022	BLNK2-kinase.1	pRARE2	Str	N-GST	blnk2	kinase	S. cerevisiae	mammalian expression	46	LAB-130	L4	WFIX-001	B7	Not tested	
-FIX-0023	UbV WDLK-SH3.1	pGEX-6P-1	Kan	N-GST	wdlk	SH3	Synthetic	cloning intermediate	150	LAB-139	L1	WFIX-001	A8	High, soluble, LOBSTR	
+FIX-0023	var WDLK-SH3.1	pGEX-6P-1	Kan	N-GST	wdlk	SH3	Synthetic	cloning intermediate	150	LAB-139	L1	WFIX-001	A8	High, soluble, LOBSTR	
 FIX-0024	LMNX-WD40.2	pLVX	Tet	C-strep tag II	lmnx	WD40	H. sapiens	bacteria expression	171	LAB-215	L4	WFIX-001	F4	Low, inclusion bodies	verify before use
 FIX-0025	EVRN-CTD.2	pCDFDuet-1	Str	C-strep tag II	evrn	CTD	H. sapiens	mammalian expression	396	LAB-166	L2	WFIX-001	G5	High, soluble, LOBSTR	
 FIX-0026	XNTP-kinase.2	pSUMO	Cm	N-6his, TEV	xntp	kinase	M. musculus	cloning intermediate	224	LAB-191	L3	WFIX-001	B2	High, soluble, LOBSTR	
@@ -35,11 +35,11 @@ FIX-0033	ARTX-full length.4	pET15b	Spec	N-6his	artx	full length	H. sapiens	entry
 FIX-0034	BLNK2.3	pTXB1	Str	C-6his	blnk2		E. coli	cloning intermediate	399	LAB-199	L4	WFIX-001	F5	Not tested	
 FIX-0035	GLSN.3	pBAD33	Amp	C-strep tag II	glsn		S. cerevisiae	bacteria expression	285	LAB-183	L3	WFIX-001	I2	High, soluble, BL21(DE3)	
 FIX-0036	QRSM-CTD.4	pMAL-c5X	Str	N-6his	qrsm	CTD	S. cerevisiae	bacteria expression	222	LAB-139	L4	WFIX-001	H8	Low, inclusion bodies	
-FIX-0037	UbV ZPLQ-NTD.2	pcDNA3.1	Spec	N-MBP	zplq	NTD	M. musculus	bacteria expression	182	LAB-186	L4	WFIX-001	A4	High, soluble, LOBSTR	
+FIX-0037	var ZPLQ-NTD.2	pcDNA3.1	Spec	N-MBP	zplq	NTD	M. musculus	bacteria expression	182	LAB-186	L4	WFIX-001	A4	High, soluble, LOBSTR	
 FIX-0038	EVRN.1	pBAD33	Kan	N-6his, C-strep tag II	evrn		E. coli	entry clone	279	LAB-119	L3	WFIX-001	D3	Not tested	
 FIX-0039	PLTK.2	pCDFDuet-1	Str	N-GST	pltk		Synthetic	mammalian expression	265	LAB-195	L2	WFIX-001	I1	Low, inclusion bodies	verify before use
 FIX-0040	IVSD.1	pSUMO	Tet	C-strep tag II	ivsd		Synthetic	cloning intermediate	84	LAB-222	L3	WFIX-001	C6	Low, inclusion bodies	
-FIX-0041	UbV DPLX-PH.1	pGro7	Str	C-6his	dplx	PH	S. cerevisiae	mammalian expression	100	LAB-112	L3	WFIX-001	C8	High, soluble, LOBSTR	W
+FIX-0041	var DPLX-PH.1	pGro7	Str	C-6his	dplx	PH	S. cerevisiae	mammalian expression	100	LAB-112	L3	WFIX-001	C8	High, soluble, LOBSTR	W
 FIX-0042	JNKL.2	pGEX-6P-1	Amp	N-6his, C-strep tag II	jnkl		M. musculus	mammalian expression	110	LAB-212	L1	WFIX-001	G2	Moderate, soluble	
 FIX-0043	PLTK.1	pSUMO	Spec	C-strep tag II	pltk		M. musculus	cloning intermediate	146	LAB-114	L1	WFIX-001	H1	Not tested	W
 FIX-0044	YRBC-SH3.1	pUC19	Str	N-6his, TEV	yrbc	SH3	E. coli	cloning intermediate	86	LAB-119	L4	WFIX-001	G4	Low, inclusion bodies	glycerol stock too
@@ -48,9 +48,9 @@ FIX-0046	VRLM-NTD.4	pGro7	Tet	N-GST	vrlm	NTD	H. sapiens	cloning intermediate	244
 FIX-0047	YRBC-PH.2	pLVX	Amp	N-6his, C-strep tag II	yrbc	PH	E. coli	mammalian expression	384	LAB-116	L1	WFIX-001	B1	High, soluble, LOBSTR	
 FIX-0048	USHN.2	pQE30	Str	N-6his, C-strep tag II	ushn		M. musculus	entry clone	120	LAB-160	L3	WFIX-001	H3	Not tested	
 FIX-0049	MRTF2-WD40.3	pMAL-c5X	Amp	N-GST	mrtf2	WD40	H. sapiens	cloning intermediate	80	LAB-239	L2	WFIX-001	B5	Insoluble at 37, soluble at 18	
-FIX-0050	UbV KPRB.1	pGB1	Tet	C-6his	kprb		M. musculus	entry clone	404	LAB-138	L1	WFIX-001	D9	Insoluble at 37, soluble at 18	
+FIX-0050	var KPRB.1	pGB1	Tet	C-6his	kprb		M. musculus	entry clone	404	LAB-138	L1	WFIX-001	D9	Insoluble at 37, soluble at 18	
 FIX-0051	FKBX3-NTD.1	pGB1	Tet	N-MBP	fkbx3	NTD	M. musculus	bacteria expression	138	LAB-187	L4	WFIX-001	F7	High, soluble, BL21(DE3)	verify before use
-FIX-0052	UbV YRBC-WD40.1	pGro7	Tet	N-6his	yrbc	WD40	M. musculus	insect expression	385	LAB-184	L3	WFIX-001	C4	High, soluble, BL21(DE3)	
+FIX-0052	var YRBC-WD40.1	pGro7	Tet	N-6his	yrbc	WD40	M. musculus	insect expression	385	LAB-184	L3	WFIX-001	C4	High, soluble, BL21(DE3)	
 FIX-0053	TQRP-full length.4	pRSFDuet-1	Str	N-SUMO	tqrp	full length	S. cerevisiae	cloning intermediate	100	LAB-241	L1	WFIX-001	C8	High, soluble, LOBSTR	
 FIX-0054	ARTX-PH.2	pCDFDuet-1	Spec	N-6his	artx	PH	Synthetic	bacteria expression	148	LAB-220	L4	WFIX-001	B3	High, soluble, BL21(DE3)	
 FIX-0055	QRSM-NTD.2	pFastBac1	Cm	N-6his, C-strep tag II	qrsm	NTD	H. sapiens	entry clone	335	LAB-222	L4	WFIX-001	B4	Low, inclusion bodies	
@@ -59,9 +59,9 @@ FIX-0057	CRDM.1	pET21a	Kan	N-GST	crdm		Synthetic	mammalian expression	184	LAB-22
 FIX-0058	JNKL-kinase.3	pACYCDuet-1	Str	none	jnkl	kinase	E. coli	entry clone	325	LAB-236	L2	WFIX-001	F7	Low, inclusion bodies	
 FIX-0059	XNTP-BRCT.2	pET28a	Kan	C-strep tag II	xntp	BRCT	M. musculus	mammalian expression	331	LAB-236	L1	WFIX-001	A2	High, soluble, BL21(DE3)	W
 FIX-0060	TQRP.2	pET28a	Tet	C-strep tag II	tqrp		Synthetic	mammalian expression	130	LAB-110	L1	WFIX-001	F9	Not tested	
-FIX-0061	UbV WDLK-SH3.3	pETDuet-1	Spec	N-GST	wdlk	SH3	M. musculus	entry clone	91	LAB-148	L2	WFIX-001	G5	Low, inclusion bodies	W
+FIX-0061	var WDLK-SH3.3	pETDuet-1	Spec	N-GST	wdlk	SH3	M. musculus	entry clone	91	LAB-148	L2	WFIX-001	G5	Low, inclusion bodies	W
 FIX-0062	EVRN.3	pSUMO	Str	none	evrn		E. coli	insect expression	123	LAB-106	L2	WFIX-001	F3	High, soluble, BL21(DE3)	verify before use
-FIX-0063	UbV FKBX3-NTD.2	pRSFDuet-1	Str	N-6his, C-strep tag II	fkbx3	NTD	S. cerevisiae	mammalian expression	44	LAB-101	L4	WFIX-001	I4	Moderate, soluble	glycerol stock too
+FIX-0063	var FKBX3-NTD.2	pRSFDuet-1	Str	N-6his, C-strep tag II	fkbx3	NTD	S. cerevisiae	mammalian expression	44	LAB-101	L4	WFIX-001	I4	Moderate, soluble	glycerol stock too
 FIX-0064	TQRP.2	pFastBac1	Spec	N-GST	tqrp		S. cerevisiae	entry clone	275	LAB-169	L4	WFIX-001	C2	High, soluble, LOBSTR	
 FIX-0065	ARTX-BRCT.4	pRSFDuet-1	Cm	C-6his	artx	BRCT	Synthetic	insect expression	320	LAB-114	L1	WFIX-001	C5	Insoluble at 37, soluble at 18	glycerol stock too
 FIX-0066	HRTA.3	pSUMO	Str	N-6his, TEV	hrta		S. cerevisiae	bacteria expression	314	LAB-203	L4	WFIX-001	E1	Insoluble at 37, soluble at 18	
@@ -74,14 +74,14 @@ FIX-0072	PLTK-kinase.3	pET15b	Kan	C-6his	pltk	kinase	M. musculus	entry clone	329
 FIX-0073	DPLX-kinase.1	pET53	Tet	N-6his, C-strep tag II	dplx	kinase	S. cerevisiae	cloning intermediate	104	LAB-164	L1	WFIX-001	F5	Insoluble at 37, soluble at 18	
 FIX-0074	YRBC-PH.1	pcDNA3.1	Cm	N-6his, C-strep tag II	yrbc	PH	H. sapiens	cloning intermediate	102	LAB-170	L3	WFIX-001	A5	Not tested	glycerol stock too
 FIX-0075	STLN4-SH3.4	pTXB1	Cm	N-GST	stln4	SH3	S. cerevisiae	entry clone	273	LAB-115	L4	WFIX-001	F4	Moderate, soluble	
-FIX-0076	UbV HRTA.2	pGro7	Spec	N-GST	hrta		E. coli	cloning intermediate	31	LAB-121	L1	WFIX-001	D9	Insoluble at 37, soluble at 18	
+FIX-0076	var HRTA.2	pGro7	Spec	N-GST	hrta		E. coli	cloning intermediate	31	LAB-121	L1	WFIX-001	D9	Insoluble at 37, soluble at 18	
 FIX-0077	IVSD.2	pGro7	Str	C-6his	ivsd		M. musculus	insect expression	75	LAB-162	L3	WFIX-001	F2	Moderate, soluble	W
 FIX-0078	HRTA-kinase.4	pUC19	Kan	none	hrta	kinase	M. musculus	entry clone	60	LAB-227	L1	WFIX-001	D2	High, soluble, LOBSTR	
 FIX-0079	VRLM-NTD.3	pET15b	Cm	C-strep tag II	vrlm	NTD	H. sapiens	entry clone	339	LAB-246	L3	WFIX-001	D6	Low, inclusion bodies	
 FIX-0080	IVSD.2	pBAD33	Kan	N-MBP	ivsd		E. coli	bacteria expression	302	LAB-218	L3	WFIX-001	H9	High, soluble, LOBSTR	
 FIX-0081	PLTK.3	pQE30	Str	none	pltk		M. musculus	bacteria expression	117	LAB-220	L1	WFIX-002	F5	Moderate, soluble	
 FIX-0082	LMNX.1	pGro7	Tet	C-6his	lmnx		Synthetic	cloning intermediate	363	LAB-243	L3	WFIX-002	G3	Low, inclusion bodies	
-FIX-0083	UbV ORVC-SH3.4	pLVX	Cm	none	orvc	SH3	S. cerevisiae	cloning intermediate	178	LAB-224	L2	WFIX-002	I4	High, soluble, LOBSTR	
+FIX-0083	var ORVC-SH3.4	pLVX	Cm	none	orvc	SH3	S. cerevisiae	cloning intermediate	178	LAB-224	L2	WFIX-002	I4	High, soluble, LOBSTR	
 FIX-0084	GLSN-NTD.4	pGro7	Tet	N-MBP	glsn	NTD	Synthetic	mammalian expression	384	LAB-119	L3	WFIX-002	G8	Not tested	
 FIX-0085	ORVC-BRCT.1	pQE30	Amp	N-6his, TEV	orvc	BRCT	M. musculus	cloning intermediate	258	LAB-210	L1	WFIX-002	G3	High, soluble, LOBSTR	glycerol stock too
 FIX-0086	VRLM.1	pSUMO	Kan	N-6his, TEV	vrlm		S. cerevisiae	insect expression	386	LAB-107	L2	WFIX-002	C5	Not tested	
@@ -96,13 +96,13 @@ FIX-0094	ORVC-PH.1	pCDFDuet-1	Amp	C-strep tag II	orvc	PH	E. coli	entry clone	24	
 FIX-0095	ARTX.2	pTXB1	Spec	N-6his, C-strep tag II	artx		H. sapiens	mammalian expression	149	LAB-151	L2	WFIX-002	F7	Insoluble at 37, soluble at 18	
 FIX-0096	NDLS-SH3.4	pSUMO	Spec	N-GST	ndls	SH3	E. coli	insect expression	262	LAB-163	L2	WFIX-002	H6	Moderate, soluble	
 FIX-0097	STLN4-SH3.3	pET53	Amp	N-MBP	stln4	SH3	E. coli	insect expression	318	LAB-133	L1	WFIX-002	F1	High, soluble, BL21(DE3)	W
-FIX-0098	UbV WDLK.3	pET21a	Amp	N-6his	wdlk		M. musculus	cloning intermediate	387	LAB-233	L2	WFIX-002	D4	High, soluble, LOBSTR	
+FIX-0098	var WDLK.3	pET21a	Amp	N-6his	wdlk		M. musculus	cloning intermediate	387	LAB-233	L2	WFIX-002	D4	High, soluble, LOBSTR	
 FIX-0099	QRSM.1	pET28a	Spec	C-6his	qrsm		M. musculus	cloning intermediate	125	LAB-194	L1	WFIX-002	G6	Low, inclusion bodies	
 FIX-0100	PLTK-full length.3	pGB1	Amp	N-SUMO	pltk	full length	E. coli	insect expression	166	LAB-102	L1	WFIX-002	H8	High, soluble, LOBSTR	
-FIX-0101	UbV ARTX.2	pMAL-c5X	Str	N-6his	artx		S. cerevisiae	entry clone	104	LAB-213	L2	WFIX-002	H2	Low, inclusion bodies	sequenced
+FIX-0101	var ARTX.2	pMAL-c5X	Str	N-6his	artx		S. cerevisiae	entry clone	104	LAB-213	L2	WFIX-002	H2	Low, inclusion bodies	sequenced
 FIX-0102	PLTK.3	pET15b	Str	N-6his, TEV	pltk		E. coli	mammalian expression	31	LAB-206	L3	WFIX-002	G9	High, soluble, BL21(DE3)	
 FIX-0103	ARTX.2	pRARE2	Kan	C-6his	artx		S. cerevisiae	bacteria expression	298	LAB-209	L3	WFIX-002	E5	Moderate, soluble	W
-FIX-0104	UbV MRTF2-SH3.2	pGEX-6P-1	Str	N-6his, C-strep tag II	mrtf2	SH3	H. sapiens	bacteria expression	82	LAB-103	L4	WFIX-002	G2	High, soluble, BL21(DE3)	W
+FIX-0104	var MRTF2-SH3.2	pGEX-6P-1	Str	N-6his, C-strep tag II	mrtf2	SH3	H. sapiens	bacteria expression	82	LAB-103	L4	WFIX-002	G2	High, soluble, BL21(DE3)	W
 FIX-0105	ORVC-NTD.1	pCDFDuet-1	Spec	N-GST	orvc	NTD	M. musculus	mammalian expression	301	LAB-231	L4	WFIX-002	C4	Moderate, soluble	
 FIX-0106	HRTA.3	pSUMO	Kan	N-SUMO	hrta		M. musculus	cloning intermediate	113	LAB-133	L3	WFIX-002	E8	Low, inclusion bodies	
 FIX-0107	GLSN.2	pMAL-c5X	Str	N-6his, C-strep tag II	glsn		H. sapiens	bacteria expression	327	LAB-211	L4	WFIX-002	C4	Not tested	
@@ -115,22 +115,22 @@ FIX-0113	LMNX-kinase.1	pGB1	Str	N-6his, C-strep tag II	lmnx	kinase	Synthetic	bac
 FIX-0114	TQRP-PH.2	pET15b	Str	none	tqrp	PH	S. cerevisiae	mammalian expression	240	LAB-109	L2	WFIX-002	H8	High, soluble, BL21(DE3)	verify before use
 FIX-0115	ORVC.1	pET21a	Spec	N-6his, TEV	orvc		S. cerevisiae	bacteria expression	165	LAB-176	L2	WFIX-002	C4	Not tested	
 FIX-0116	VRLM.4	pCDFDuet-1	Str	C-strep tag II	vrlm		Synthetic	bacteria expression	94	LAB-118	L3	WFIX-002	A3	High, soluble, LOBSTR	glycerol stock too
-FIX-0117	UbV ARTX.1	pET21a	Tet	N-6his	artx		Synthetic	mammalian expression	74	LAB-241	L4	WFIX-002	H4	Low, inclusion bodies	
-FIX-0118	UbV HRTA-CTD.2	pCDFDuet-1	Amp	none	hrta	CTD	Synthetic	entry clone	331	LAB-206	L1	WFIX-002	E6	High, soluble, BL21(DE3)	
+FIX-0117	var ARTX.1	pET21a	Tet	N-6his	artx		Synthetic	mammalian expression	74	LAB-241	L4	WFIX-002	H4	Low, inclusion bodies	
+FIX-0118	var HRTA-CTD.2	pCDFDuet-1	Amp	none	hrta	CTD	Synthetic	entry clone	331	LAB-206	L1	WFIX-002	E6	High, soluble, BL21(DE3)	
 FIX-0119	NDLS.4	pET28a	Cm	C-strep tag II	ndls		E. coli	bacteria expression	372	LAB-229	L2	WFIX-002	A5	Insoluble at 37, soluble at 18	
 FIX-0120	EVRN-SH3.1	pBAD33	Amp	N-6his, C-strep tag II	evrn	SH3	E. coli	bacteria expression	157	LAB-136	L3	WFIX-002	C9	Not tested	
-FIX-0121	UbV FKBX3-PH.2	pCDFDuet-1	Cm	none	fkbx3	PH	H. sapiens	bacteria expression	97	LAB-233	L1	WFIX-002	F9	High, soluble, LOBSTR	
+FIX-0121	var FKBX3-PH.2	pCDFDuet-1	Cm	none	fkbx3	PH	H. sapiens	bacteria expression	97	LAB-233	L1	WFIX-002	F9	High, soluble, LOBSTR	
 FIX-0122	IVSD.2	pDONR221	Amp	N-6his	ivsd		H. sapiens	bacteria expression	243	LAB-237	L2	WFIX-002	A6	High, soluble, BL21(DE3)	glycerol stock too
 FIX-0123	VRLM.1	pETDuet-1	Str	N-6his, TEV	vrlm		M. musculus	cloning intermediate	173	LAB-223	L4	WFIX-002	A2	Insoluble at 37, soluble at 18	glycerol stock too
-FIX-0124	UbV RVDX.4	pGEX-6P-1	Str	N-6his, C-strep tag II	rvdx		E. coli	mammalian expression	226	LAB-213	L3	WFIX-002	G6	High, soluble, BL21(DE3)	W
+FIX-0124	var RVDX.4	pGEX-6P-1	Str	N-6his, C-strep tag II	rvdx		E. coli	mammalian expression	226	LAB-213	L3	WFIX-002	G6	High, soluble, BL21(DE3)	W
 FIX-0125	QRSM.2	pACYCDuet-1	Cm	C-6his	qrsm		M. musculus	mammalian expression	327	LAB-156	L3	WFIX-002	E6	Not tested	
 FIX-0126	DPLX-NTD.3	pET53	Amp	N-6his, C-strep tag II	dplx	NTD	Synthetic	mammalian expression	375	LAB-167	L2	WFIX-002	C7	High, soluble, LOBSTR	
 FIX-0127	XNTP.4	pETDuet-1	Tet	N-GST	xntp		H. sapiens	entry clone	272	LAB-163	L2	WFIX-002	H7	Low, inclusion bodies	
-FIX-0128	UbV ZPLQ-PH.3	pDONR221	Cm	N-6his	zplq	PH	E. coli	cloning intermediate	316	LAB-138	L4	WFIX-002	F2	Moderate, soluble	
+FIX-0128	var ZPLQ-PH.3	pDONR221	Cm	N-6his	zplq	PH	E. coli	cloning intermediate	316	LAB-138	L4	WFIX-002	F2	Moderate, soluble	
 FIX-0129	KPRB.3	pSUMO	Str	N-6his	kprb		E. coli	entry clone	353	LAB-160	L4	WFIX-002	E6	Low, inclusion bodies	glycerol stock too
 FIX-0130	WDLK.4	pRSFDuet-1	Spec	N-SUMO	wdlk		M. musculus	bacteria expression	105	LAB-130	L4	WFIX-002	C4	Not tested	
 FIX-0131	NDLS.4	pQE30	Cm	C-strep tag II	ndls		Synthetic	mammalian expression	249	LAB-233	L1	WFIX-002	E7	Low, inclusion bodies	verify before use
-FIX-0132	UbV BLNK2.2	pUC19	Amp	N-GST	blnk2		E. coli	bacteria expression	341	LAB-215	L1	WFIX-002	D4	High, soluble, LOBSTR	sequenced
+FIX-0132	var BLNK2.2	pUC19	Amp	N-GST	blnk2		E. coli	bacteria expression	341	LAB-215	L1	WFIX-002	D4	High, soluble, LOBSTR	sequenced
 FIX-0133	HRTA-kinase.1	pCDFDuet-1	Str	none	hrta	kinase	Synthetic	insect expression	222	LAB-195	L2	WFIX-002	F5	High, soluble, LOBSTR	
 FIX-0134	FKBX3.1	pQE30	Str	C-strep tag II	fkbx3		M. musculus	cloning intermediate	343	LAB-192	L4	WFIX-002	B1	High, soluble, LOBSTR	
 FIX-0135	TQRP-WD40.3	pET15b	Cm	N-6his	tqrp	WD40	S. cerevisiae	insect expression	344	LAB-113	L2	WFIX-002	E1	Insoluble at 37, soluble at 18	
@@ -138,20 +138,20 @@ FIX-0136	WDLK-WD40.1	pET53	Str	N-SUMO	wdlk	WD40	E. coli	cloning intermediate	238
 FIX-0137	VRLM.4	pMAL-c5X	Tet	N-GST	vrlm		E. coli	insect expression	214	LAB-147	L2	WFIX-002	F5	Insoluble at 37, soluble at 18	
 FIX-0138	XNTP-WD40.2	pGB1	Str	N-SUMO	xntp	WD40	E. coli	insect expression	252	LAB-149	L2	WFIX-002	I4	Insoluble at 37, soluble at 18	sequenced
 FIX-0139	WDLK-BRCT.3	pGB1	Tet	C-strep tag II	wdlk	BRCT	S. cerevisiae	entry clone	380	LAB-191	L4	WFIX-002	C2	Insoluble at 37, soluble at 18	
-FIX-0140	UbV QRSM.3	pDONR221	Str	N-MBP	qrsm		M. musculus	mammalian expression	213	LAB-173	L1	WFIX-002	H1	Low, inclusion bodies	
+FIX-0140	var QRSM.3	pDONR221	Str	N-MBP	qrsm		M. musculus	mammalian expression	213	LAB-173	L1	WFIX-002	H1	Low, inclusion bodies	
 FIX-0141	JNKL.2	pET53	Cm	N-SUMO	jnkl		E. coli	entry clone	376	LAB-101	L1	WFIX-002	I2	High, soluble, LOBSTR	
 FIX-0142	XNTP-kinase.1	pTXB1	Tet	N-MBP	xntp	kinase	M. musculus	bacteria expression	333	LAB-242	L1	WFIX-002	E3	High, soluble, LOBSTR	
 FIX-0143	IVSD-WD40.4	pDONR221	Spec	N-SUMO	ivsd	WD40	E. coli	insect expression	282	LAB-144	L3	WFIX-002	F9	Insoluble at 37, soluble at 18	W
 FIX-0144	QRSM.3	pcDNA3.1	Amp	N-GST	qrsm		H. sapiens	mammalian expression	209	LAB-113	L4	WFIX-002	G8	High, soluble, BL21(DE3)	W
 FIX-0145	RVDX.1	pMAL-c5X	Tet	N-6his, C-strep tag II	rvdx		M. musculus	mammalian expression	350	LAB-100	L2	WFIX-002	H1	Not tested	
 FIX-0146	NDLS.4	pET28a	Kan	N-MBP	ndls		H. sapiens	entry clone	163	LAB-191	L4	WFIX-002	E4	High, soluble, LOBSTR	
-FIX-0147	UbV PLTK-CTD.3	pET28a	Kan	N-6his, C-strep tag II	pltk	CTD	M. musculus	insect expression	23	LAB-131	L2	WFIX-002	D4	High, soluble, LOBSTR	
-FIX-0148	UbV EVRN.4	pDONR221	Kan	N-SUMO	evrn		Synthetic	entry clone	270	LAB-210	L4	WFIX-002	H6	High, soluble, BL21(DE3)	
-FIX-0149	UbV MRTF2.1	pSUMO	Tet	none	mrtf2		M. musculus	mammalian expression	341	LAB-186	L4	WFIX-002	A4	Moderate, soluble	
-FIX-0150	UbV GLSN-PH.3	pFastBac1	Spec	C-6his	glsn	PH	H. sapiens	insect expression	164	LAB-216	L4	WFIX-002	B4	Low, inclusion bodies	
+FIX-0147	var PLTK-CTD.3	pET28a	Kan	N-6his, C-strep tag II	pltk	CTD	M. musculus	insect expression	23	LAB-131	L2	WFIX-002	D4	High, soluble, LOBSTR	
+FIX-0148	var EVRN.4	pDONR221	Kan	N-SUMO	evrn		Synthetic	entry clone	270	LAB-210	L4	WFIX-002	H6	High, soluble, BL21(DE3)	
+FIX-0149	var MRTF2.1	pSUMO	Tet	none	mrtf2		M. musculus	mammalian expression	341	LAB-186	L4	WFIX-002	A4	Moderate, soluble	
+FIX-0150	var GLSN-PH.3	pFastBac1	Spec	C-6his	glsn	PH	H. sapiens	insect expression	164	LAB-216	L4	WFIX-002	B4	Low, inclusion bodies	
 FIX-0151	QRSM.4	pQE30	Amp	N-SUMO	qrsm		E. coli	cloning intermediate	275	LAB-205	L1	WFIX-002	A2	Low, inclusion bodies	
 FIX-0152	BLNK2.3	pTXB1	Kan	none	blnk2		M. musculus	cloning intermediate	68	LAB-221	L2	WFIX-002	I4	Insoluble at 37, soluble at 18	
-FIX-0153	UbV IVSD.4	pDONR221	Str	C-strep tag II	ivsd		M. musculus	bacteria expression	124	LAB-206	L3	WFIX-002	I4	High, soluble, LOBSTR	
+FIX-0153	var IVSD.4	pDONR221	Str	C-strep tag II	ivsd		M. musculus	bacteria expression	124	LAB-206	L3	WFIX-002	I4	High, soluble, LOBSTR	
 FIX-0154	MRTF2.3	pSUMO	Kan	N-MBP	mrtf2		E. coli	insect expression	323	LAB-116	L1	WFIX-002	F4	High, soluble, BL21(DE3)	
 FIX-0155	XNTP.3	pSUMO	Cm	N-6his, TEV	xntp		M. musculus	cloning intermediate	66	LAB-133	L2	WFIX-002	B9	Insoluble at 37, soluble at 18	verify before use
 FIX-0156	GLSN.4	pcDNA3.1	Tet	N-6his, TEV	glsn		Synthetic	bacteria expression	295	LAB-218	L4	WFIX-002	H8	High, soluble, LOBSTR	
@@ -169,9 +169,9 @@ FIX-0167	MRTF2-PH.4	pUC19	Tet	N-GST	mrtf2	PH	Synthetic	bacteria expression	399	L
 FIX-0168	ZPLQ.3	pETDuet-1	Cm	N-SUMO	zplq		S. cerevisiae	entry clone	351	LAB-197	L1	WFIX-003	E5	Low, inclusion bodies	
 FIX-0169	TQRP-WD40.3	pUC19	Str	N-6his, C-strep tag II	tqrp	WD40	H. sapiens	mammalian expression	200	LAB-200	L4	WFIX-003	F1	Moderate, soluble	
 FIX-0170	TQRP.3	pET21a	Kan	N-MBP	tqrp		Synthetic	mammalian expression	91	LAB-111	L4	WFIX-003	A6	Moderate, soluble	W
-FIX-0171	UbV TQRP-PH.4	pUC19	Spec	C-6his	tqrp	PH	H. sapiens	mammalian expression	81	LAB-245	L2	WFIX-003	I7	High, soluble, BL21(DE3)	glycerol stock too
-FIX-0172	UbV JNKL.2	pRARE2	Kan	N-6his, C-strep tag II	jnkl		M. musculus	cloning intermediate	408	LAB-210	L3	WFIX-003	F2	High, soluble, BL21(DE3)	
-FIX-0173	UbV MRTF2.4	pSUMO	Cm	N-6his	mrtf2		M. musculus	cloning intermediate	179	LAB-231	L1	WFIX-003	H5	Low, inclusion bodies	
+FIX-0171	var TQRP-PH.4	pUC19	Spec	C-6his	tqrp	PH	H. sapiens	mammalian expression	81	LAB-245	L2	WFIX-003	I7	High, soluble, BL21(DE3)	glycerol stock too
+FIX-0172	var JNKL.2	pRARE2	Kan	N-6his, C-strep tag II	jnkl		M. musculus	cloning intermediate	408	LAB-210	L3	WFIX-003	F2	High, soluble, BL21(DE3)	
+FIX-0173	var MRTF2.4	pSUMO	Cm	N-6his	mrtf2		M. musculus	cloning intermediate	179	LAB-231	L1	WFIX-003	H5	Low, inclusion bodies	
 FIX-0174	WDLK-full length.1	pLVX	Str	none	wdlk	full length	S. cerevisiae	bacteria expression	277	LAB-145	L4	WFIX-003	D1	Low, inclusion bodies	sequenced
 FIX-0175	VRLM-BRCT.4	pQE30	Amp	N-6his, C-strep tag II	vrlm	BRCT	Synthetic	mammalian expression	73	LAB-170	L2	WFIX-003	G8	Not tested	
 FIX-0176	DPLX.2	pACYCDuet-1	Amp	N-SUMO	dplx		M. musculus	entry clone	188	LAB-124	L4	WFIX-003	C2	Not tested	
@@ -179,25 +179,25 @@ FIX-0177	USHN.4	pDONR221	Str	N-6his, TEV	ushn		M. musculus	insect expression	277
 FIX-0178	STLN4-SH3.3	pET15b	Amp	N-SUMO	stln4	SH3	S. cerevisiae	mammalian expression	341	LAB-121	L1	WFIX-003	E6	Low, inclusion bodies	
 FIX-0179	WDLK-BRCT.4	pET21a	Kan	none	wdlk	BRCT	Synthetic	insect expression	50	LAB-132	L4	WFIX-003	E7	Not tested	
 FIX-0180	STLN4-PH.4	pTXB1	Cm	N-SUMO	stln4	PH	H. sapiens	entry clone	396	LAB-246	L1	WFIX-003	B1	Low, inclusion bodies	sequenced
-FIX-0181	UbV YRBC-NTD.4	pCDFDuet-1	Cm	none	yrbc	NTD	H. sapiens	entry clone	262	LAB-195	L3	WFIX-003	A4	Low, inclusion bodies	
+FIX-0181	var YRBC-NTD.4	pCDFDuet-1	Cm	none	yrbc	NTD	H. sapiens	entry clone	262	LAB-195	L3	WFIX-003	A4	Low, inclusion bodies	
 FIX-0182	EVRN.1	pSUMO	Cm	none	evrn		H. sapiens	bacteria expression	140	LAB-102	L1	WFIX-003	D1	Moderate, soluble	
 FIX-0183	RVDX-full length.3	pcDNA3.1	Spec	N-6his, C-strep tag II	rvdx	full length	E. coli	cloning intermediate	307	LAB-191	L3	WFIX-003	E1	Moderate, soluble	glycerol stock too
 FIX-0184	CRDM-WD40.3	pTXB1	Kan	N-6his	crdm	WD40	Synthetic	entry clone	185	LAB-102	L2	WFIX-003	D6	High, soluble, LOBSTR	
-FIX-0185	UbV TQRP.2	pCDFDuet-1	Amp	C-6his	tqrp		S. cerevisiae	insect expression	334	LAB-178	L4	WFIX-003	B9	Low, inclusion bodies	verify before use
+FIX-0185	var TQRP.2	pCDFDuet-1	Amp	C-6his	tqrp		S. cerevisiae	insect expression	334	LAB-178	L4	WFIX-003	B9	Low, inclusion bodies	verify before use
 FIX-0186	VRLM-SH3.2	pLVX	Kan	N-MBP	vrlm	SH3	M. musculus	insect expression	295	LAB-174	L3	WFIX-003	I3	Moderate, soluble	
-FIX-0187	UbV YRBC-full length.3	pRSFDuet-1	Kan	none	yrbc	full length	Synthetic	insect expression	225	LAB-231	L1	WFIX-003	C7	High, soluble, BL21(DE3)	
+FIX-0187	var YRBC-full length.3	pRSFDuet-1	Kan	none	yrbc	full length	Synthetic	insect expression	225	LAB-231	L1	WFIX-003	C7	High, soluble, BL21(DE3)	
 FIX-0188	FKBX3.3	pACYCDuet-1	Tet	N-6his, TEV	fkbx3		E. coli	bacteria expression	112	LAB-138	L4	WFIX-003	A4	Not tested	glycerol stock too
-FIX-0189	UbV HRTA.2	pGEX-6P-1	Amp	N-6his	hrta		S. cerevisiae	entry clone	362	LAB-133	L4	WFIX-003	C1	Not tested	
+FIX-0189	var HRTA.2	pGEX-6P-1	Amp	N-6his	hrta		S. cerevisiae	entry clone	362	LAB-133	L4	WFIX-003	C1	Not tested	
 FIX-0190	PLTK.1	pGB1	Spec	N-MBP	pltk		M. musculus	mammalian expression	211	LAB-153	L2	WFIX-003	D6	Insoluble at 37, soluble at 18	
 FIX-0191	IVSD-kinase.1	pET21a	Spec	N-GST	ivsd	kinase	H. sapiens	bacteria expression	79	LAB-214	L3	WFIX-003	F9	Moderate, soluble	W
-FIX-0192	UbV WDLK.1	pBAD33	Str	N-6his, TEV	wdlk		M. musculus	bacteria expression	92	LAB-134	L3	WFIX-003	F1	High, soluble, BL21(DE3)	
+FIX-0192	var WDLK.1	pBAD33	Str	N-6his, TEV	wdlk		M. musculus	bacteria expression	92	LAB-134	L3	WFIX-003	F1	High, soluble, BL21(DE3)	
 FIX-0193	ORVC-BRCT.3	pGEX-6P-1	Spec	N-SUMO	orvc	BRCT	E. coli	entry clone	118	LAB-121	L2	WFIX-003	H5	High, soluble, LOBSTR	
 FIX-0194	BLNK2.2	pDONR221	Tet	N-SUMO	blnk2		E. coli	mammalian expression	357	LAB-181	L4	WFIX-003	A4	Low, inclusion bodies	verify before use
 FIX-0195	FKBX3-CTD.4	pSUMO	Cm	N-SUMO	fkbx3	CTD	M. musculus	bacteria expression	25	LAB-215	L1	WFIX-003	H6	Low, inclusion bodies	
 FIX-0196	XNTP.3	pCDFDuet-1	Amp	N-SUMO	xntp		Synthetic	bacteria expression	161	LAB-179	L1	WFIX-003	F7	High, soluble, LOBSTR	
 FIX-0197	JNKL-PH.4	pMAL-c5X	Spec	none	jnkl	PH	H. sapiens	entry clone	29	LAB-199	L4	WFIX-003	B9	Moderate, soluble	
 FIX-0198	PLTK-BRCT.1	pRSFDuet-1	Kan	N-SUMO	pltk	BRCT	Synthetic	bacteria expression	315	LAB-152	L4	WFIX-003	D9	Insoluble at 37, soluble at 18	
-FIX-0199	UbV USHN-SH3.1	pRARE2	Cm	C-6his	ushn	SH3	Synthetic	insect expression	248	LAB-161	L2	WFIX-003	A8	Low, inclusion bodies	
+FIX-0199	var USHN-SH3.1	pRARE2	Cm	C-6his	ushn	SH3	Synthetic	insect expression	248	LAB-161	L2	WFIX-003	A8	Low, inclusion bodies	
 FIX-0200	VRLM-WD40.2	pBAD33	Spec	N-GST	vrlm	WD40	S. cerevisiae	bacteria expression	33	LAB-189	L2	WFIX-003	F2	High, soluble, BL21(DE3)	verify before use
 FIX-0201	XNTP-SH3.2	pET21a	Spec	none	xntp	SH3	H. sapiens	entry clone	246	LAB-109	L3	WFIX-003	A9	Low, inclusion bodies	
 FIX-0202	CRDM-NTD.1	pcDNA3.1	Spec	N-6his, C-strep tag II	crdm	NTD	Synthetic	bacteria expression	361	LAB-226	L4	WFIX-003	B8	Insoluble at 37, soluble at 18	
@@ -206,25 +206,25 @@ FIX-0204	ZPLQ-WD40.1	pFastBac1	Tet	C-strep tag II	zplq	WD40	S. cerevisiae	mammal
 FIX-0205	USHN.3	pLVX	Cm	N-6his, C-strep tag II	ushn		H. sapiens	insect expression	142	LAB-143	L4	WFIX-003	E1	Moderate, soluble	
 FIX-0206	EVRN.3	pSUMO	Str	N-6his, TEV	evrn		M. musculus	mammalian expression	122	LAB-222	L1	WFIX-003	D1	Not tested	glycerol stock too
 FIX-0207	FKBX3-BRCT.3	pRARE2	Cm	none	fkbx3	BRCT	H. sapiens	mammalian expression	275	LAB-120	L1	WFIX-003	I7	Low, inclusion bodies	
-FIX-0208	UbV GLSN.1	pcDNA3.1	Cm	N-MBP	glsn		Synthetic	cloning intermediate	173	LAB-247	L1	WFIX-003	F8	Insoluble at 37, soluble at 18	
-FIX-0209	UbV XNTP-PH.1	pET21a	Cm	none	xntp	PH	H. sapiens	insect expression	120	LAB-196	L2	WFIX-003	G9	Insoluble at 37, soluble at 18	verify before use
-FIX-0210	UbV FKBX3.4	pET53	Cm	N-MBP	fkbx3		H. sapiens	insect expression	132	LAB-130	L4	WFIX-003	G4	Low, inclusion bodies	glycerol stock too
+FIX-0208	var GLSN.1	pcDNA3.1	Cm	N-MBP	glsn		Synthetic	cloning intermediate	173	LAB-247	L1	WFIX-003	F8	Insoluble at 37, soluble at 18	
+FIX-0209	var XNTP-PH.1	pET21a	Cm	none	xntp	PH	H. sapiens	insect expression	120	LAB-196	L2	WFIX-003	G9	Insoluble at 37, soluble at 18	verify before use
+FIX-0210	var FKBX3.4	pET53	Cm	N-MBP	fkbx3		H. sapiens	insect expression	132	LAB-130	L4	WFIX-003	G4	Low, inclusion bodies	glycerol stock too
 FIX-0211	TQRP.1	pGB1	Tet	none	tqrp		M. musculus	bacteria expression	84	LAB-230	L4	WFIX-003	D9	Insoluble at 37, soluble at 18	
 FIX-0212	NDLS-PH.2	pQE30	Kan	N-SUMO	ndls	PH	S. cerevisiae	cloning intermediate	200	LAB-113	L2	WFIX-003	I8	Low, inclusion bodies	verify before use
 FIX-0213	KPRB.2	pET28a	Str	C-6his	kprb		E. coli	insect expression	269	LAB-142	L1	WFIX-003	B5	Low, inclusion bodies	
 FIX-0214	MRTF2.2	pLVX	Amp	C-strep tag II	mrtf2		H. sapiens	mammalian expression	260	LAB-137	L3	WFIX-003	F7	Moderate, soluble	
 FIX-0215	USHN-NTD.4	pCDFDuet-1	Tet	N-MBP	ushn	NTD	H. sapiens	bacteria expression	87	LAB-219	L1	WFIX-003	G9	Insoluble at 37, soluble at 18	
-FIX-0216	UbV BLNK2.2	pUC19	Kan	N-6his, TEV	blnk2		Synthetic	entry clone	359	LAB-226	L3	WFIX-003	D8	Not tested	
+FIX-0216	var BLNK2.2	pUC19	Kan	N-6his, TEV	blnk2		Synthetic	entry clone	359	LAB-226	L3	WFIX-003	D8	Not tested	
 FIX-0217	JNKL-SH3.3	pET28a	Spec	N-GST	jnkl	SH3	Synthetic	mammalian expression	184	LAB-201	L2	WFIX-003	D7	High, soluble, BL21(DE3)	
 FIX-0218	PLTK-kinase.3	pUC19	Kan	N-6his, C-strep tag II	pltk	kinase	H. sapiens	insect expression	325	LAB-129	L2	WFIX-003	A2	Not tested	
-FIX-0219	UbV DPLX.3	pRARE2	Cm	N-6his, TEV	dplx		Synthetic	cloning intermediate	395	LAB-209	L4	WFIX-003	I4	Low, inclusion bodies	
-FIX-0220	UbV TQRP.3	pRSFDuet-1	Amp	C-6his	tqrp		S. cerevisiae	cloning intermediate	231	LAB-134	L4	WFIX-003	I4	Moderate, soluble	
+FIX-0219	var DPLX.3	pRARE2	Cm	N-6his, TEV	dplx		Synthetic	cloning intermediate	395	LAB-209	L4	WFIX-003	I4	Low, inclusion bodies	
+FIX-0220	var TQRP.3	pRSFDuet-1	Amp	C-6his	tqrp		S. cerevisiae	cloning intermediate	231	LAB-134	L4	WFIX-003	I4	Moderate, soluble	
 FIX-0221	LMNX.2	pCDFDuet-1	Amp	N-6his	lmnx		S. cerevisiae	mammalian expression	148	LAB-158	L1	WFIX-003	B5	Low, inclusion bodies	
 FIX-0222	STLN4-SH3.1	pACYCDuet-1	Str	N-6his, C-strep tag II	stln4	SH3	H. sapiens	entry clone	107	LAB-137	L3	WFIX-003	I7	High, soluble, BL21(DE3)	glycerol stock too
 FIX-0223	LMNX.1	pGro7	Str	C-strep tag II	lmnx		S. cerevisiae	mammalian expression	106	LAB-185	L2	WFIX-003	C3	Low, inclusion bodies	sequenced
 FIX-0224	YRBC.3	pETDuet-1	Amp	N-MBP	yrbc		H. sapiens	mammalian expression	396	LAB-206	L3	WFIX-003	B1	Moderate, soluble	
-FIX-0225	UbV LMNX.4	pCDFDuet-1	Cm	N-GST	lmnx		M. musculus	insect expression	63	LAB-121	L4	WFIX-003	B9	Not tested	
-FIX-0226	UbV BLNK2.1	pQE30	Spec	C-strep tag II	blnk2		E. coli	entry clone	99	LAB-135	L4	WFIX-003	A3	Insoluble at 37, soluble at 18	
+FIX-0225	var LMNX.4	pCDFDuet-1	Cm	N-GST	lmnx		M. musculus	insect expression	63	LAB-121	L4	WFIX-003	B9	Not tested	
+FIX-0226	var BLNK2.1	pQE30	Spec	C-strep tag II	blnk2		E. coli	entry clone	99	LAB-135	L4	WFIX-003	A3	Insoluble at 37, soluble at 18	
 FIX-0227	JNKL.1	pFastBac1	Tet	N-6his, TEV	jnkl		M. musculus	insect expression	211	LAB-107	L3	WFIX-003	I9	Low, inclusion bodies	sequenced
 FIX-0228	QRSM.4	pGB1	Spec	N-SUMO	qrsm		H. sapiens	mammalian expression	407	LAB-220	L2	WFIX-003	I8	Moderate, soluble	
 FIX-0229	TQRP.2	pQE30	Kan	N-6his	tqrp		S. cerevisiae	insect expression	216	LAB-120	L2	WFIX-003	C9	High, soluble, LOBSTR	
@@ -235,36 +235,36 @@ FIX-0233	HRTA-CTD.4	pQE30	Tet	N-SUMO	hrta	CTD	E. coli	mammalian expression	352	L
 FIX-0234	HRTA-NTD.4	pET21a	Amp	N-SUMO	hrta	NTD	S. cerevisiae	mammalian expression	338	LAB-181	L4	WFIX-003	I8	Insoluble at 37, soluble at 18	sequenced
 FIX-0235	VRLM-BRCT.3	pGEX-6P-1	Amp	N-SUMO	vrlm	BRCT	E. coli	cloning intermediate	297	LAB-169	L3	WFIX-003	B2	Low, inclusion bodies	verify before use
 FIX-0236	ARTX.2	pMAL-c5X	Str	N-SUMO	artx		M. musculus	mammalian expression	218	LAB-242	L3	WFIX-003	H5	Not tested	
-FIX-0237	UbV PLTK-CTD.1	pCDFDuet-1	Str	N-MBP	pltk	CTD	S. cerevisiae	mammalian expression	403	LAB-172	L1	WFIX-003	H3	Not tested	
+FIX-0237	var PLTK-CTD.1	pCDFDuet-1	Str	N-MBP	pltk	CTD	S. cerevisiae	mammalian expression	403	LAB-172	L1	WFIX-003	H3	Not tested	
 FIX-0238	HRTA.2	pET28a	Tet	N-GST	hrta		H. sapiens	entry clone	291	LAB-107	L1	WFIX-003	B1	High, soluble, BL21(DE3)	glycerol stock too
 FIX-0239	FKBX3.1	pSUMO	Tet	N-6his	fkbx3		E. coli	insect expression	232	LAB-220	L2	WFIX-003	C4	Not tested	
 FIX-0240	CRDM.1	pET53	Kan	N-MBP	crdm		M. musculus	bacteria expression	356	LAB-196	L3	WFIX-003	G3	High, soluble, LOBSTR	
 FIX-0241	VRLM.3	pFastBac1	Cm	C-strep tag II	vrlm		E. coli	cloning intermediate	16	LAB-216	L3	WFIX-003	I5	Insoluble at 37, soluble at 18	W
 FIX-0242	LMNX-CTD.4	pET28a	Tet	N-MBP	lmnx	CTD	S. cerevisiae	cloning intermediate	368	LAB-102	L2	WFIX-003	E3	Moderate, soluble	verify before use
 FIX-0243	ZPLQ-WD40.4	pDONR221	Str	none	zplq	WD40	M. musculus	bacteria expression	370	LAB-117	L4	WFIX-004	I7	Not tested	
-FIX-0244	UbV WDLK-kinase.4	pET53	Amp	N-SUMO	wdlk	kinase	H. sapiens	cloning intermediate	238	LAB-240	L1	WFIX-004	C2	Moderate, soluble	glycerol stock too
+FIX-0244	var WDLK-kinase.4	pET53	Amp	N-SUMO	wdlk	kinase	H. sapiens	cloning intermediate	238	LAB-240	L1	WFIX-004	C2	Moderate, soluble	glycerol stock too
 FIX-0245	GLSN.1	pET53	Spec	C-6his	glsn		M. musculus	insect expression	334	LAB-235	L3	WFIX-004	H5	High, soluble, LOBSTR	
-FIX-0246	UbV CRDM.2	pTXB1	Kan	C-strep tag II	crdm		E. coli	bacteria expression	40	LAB-131	L2	WFIX-004	A7	High, soluble, LOBSTR	sequenced
+FIX-0246	var CRDM.2	pTXB1	Kan	C-strep tag II	crdm		E. coli	bacteria expression	40	LAB-131	L2	WFIX-004	A7	High, soluble, LOBSTR	sequenced
 FIX-0247	LMNX-SH3.4	pGB1	Str	N-MBP	lmnx	SH3	Synthetic	cloning intermediate	16	LAB-184	L4	WFIX-004	G2	Low, inclusion bodies	
 FIX-0248	USHN.2	pTXB1	Kan	C-strep tag II	ushn		H. sapiens	insect expression	360	LAB-199	L3	WFIX-004	B2	Low, inclusion bodies	
 FIX-0249	GLSN-kinase.3	pGEX-6P-1	Cm	C-strep tag II	glsn	kinase	E. coli	cloning intermediate	203	LAB-104	L4	WFIX-004	G2	Low, inclusion bodies	verify before use
 FIX-0250	FKBX3.2	pRSFDuet-1	Str	N-GST	fkbx3		S. cerevisiae	insect expression	249	LAB-247	L2	WFIX-004	H9	Insoluble at 37, soluble at 18	
 FIX-0251	FKBX3-CTD.1	pUC19	Spec	N-MBP	fkbx3	CTD	M. musculus	insect expression	81	LAB-117	L4	WFIX-004	C2	High, soluble, LOBSTR	W
-FIX-0252	UbV PLTK-BRCT.1	pGB1	Str	N-GST	pltk	BRCT	S. cerevisiae	cloning intermediate	167	LAB-188	L3	WFIX-004	H5	Not tested	
+FIX-0252	var PLTK-BRCT.1	pGB1	Str	N-GST	pltk	BRCT	S. cerevisiae	cloning intermediate	167	LAB-188	L3	WFIX-004	H5	Not tested	
 FIX-0253	STLN4.3	pET28a	Tet	N-SUMO	stln4		H. sapiens	cloning intermediate	307	LAB-147	L2	WFIX-004	D2	Insoluble at 37, soluble at 18	W
-FIX-0254	UbV EVRN.3	pGB1	Spec	N-MBP	evrn		E. coli	cloning intermediate	270	LAB-193	L1	WFIX-004	A8	Not tested	
-FIX-0255	UbV EVRN-WD40.1	pMAL-c5X	Amp	N-SUMO	evrn	WD40	S. cerevisiae	cloning intermediate	173	LAB-139	L2	WFIX-004	F1	High, soluble, LOBSTR	verify before use
+FIX-0254	var EVRN.3	pGB1	Spec	N-MBP	evrn		E. coli	cloning intermediate	270	LAB-193	L1	WFIX-004	A8	Not tested	
+FIX-0255	var EVRN-WD40.1	pMAL-c5X	Amp	N-SUMO	evrn	WD40	S. cerevisiae	cloning intermediate	173	LAB-139	L2	WFIX-004	F1	High, soluble, LOBSTR	verify before use
 FIX-0256	EVRN.1	pMAL-c5X	Tet	N-MBP	evrn		M. musculus	entry clone	302	LAB-234	L2	WFIX-004	A8	Not tested	glycerol stock too
 FIX-0257	DPLX-WD40.3	pMAL-c5X	Cm	C-6his	dplx	WD40	M. musculus	entry clone	206	LAB-181	L1	WFIX-004	D3	Low, inclusion bodies	
-FIX-0258	UbV XNTP.2	pTXB1	Spec	N-MBP	xntp		M. musculus	cloning intermediate	149	LAB-174	L2	WFIX-004	F1	High, soluble, LOBSTR	
+FIX-0258	var XNTP.2	pTXB1	Spec	N-MBP	xntp		M. musculus	cloning intermediate	149	LAB-174	L2	WFIX-004	F1	High, soluble, LOBSTR	
 FIX-0259	TQRP-PH.3	pGro7	Amp	N-GST	tqrp	PH	Synthetic	entry clone	26	LAB-182	L4	WFIX-004	A8	Moderate, soluble	
 FIX-0260	DPLX.3	pCDFDuet-1	Kan	N-SUMO	dplx		Synthetic	insect expression	215	LAB-212	L3	WFIX-004	A7	Not tested	sequenced
 FIX-0261	FKBX3-PH.3	pcDNA3.1	Amp	N-6his, C-strep tag II	fkbx3	PH	S. cerevisiae	insect expression	174	LAB-167	L2	WFIX-004	G4	Low, inclusion bodies	sequenced
-FIX-0262	UbV FKBX3-NTD.4	pET21a	Amp	C-strep tag II	fkbx3	NTD	M. musculus	cloning intermediate	164	LAB-131	L4	WFIX-004	C8	High, soluble, BL21(DE3)	
+FIX-0262	var FKBX3-NTD.4	pET21a	Amp	C-strep tag II	fkbx3	NTD	M. musculus	cloning intermediate	164	LAB-131	L4	WFIX-004	C8	High, soluble, BL21(DE3)	
 FIX-0263	BLNK2-BRCT.4	pET15b	Amp	C-strep tag II	blnk2	BRCT	E. coli	entry clone	312	LAB-130	L4	WFIX-004	H2	Not tested	
-FIX-0264	UbV FKBX3.1	pET53	Str	N-6his, TEV	fkbx3		E. coli	mammalian expression	344	LAB-248	L2	WFIX-004	E2	Low, inclusion bodies	
+FIX-0264	var FKBX3.1	pET53	Str	N-6his, TEV	fkbx3		E. coli	mammalian expression	344	LAB-248	L2	WFIX-004	E2	Low, inclusion bodies	
 FIX-0265	GLSN.3	pCDFDuet-1	Cm	N-SUMO	glsn		H. sapiens	entry clone	292	LAB-190	L3	WFIX-004	F8	High, soluble, LOBSTR	
-FIX-0266	UbV TQRP.3	pCDFDuet-1	Spec	N-GST	tqrp		M. musculus	bacteria expression	216	LAB-149	L3	WFIX-004	F9	High, soluble, LOBSTR	W
+FIX-0266	var TQRP.3	pCDFDuet-1	Spec	N-GST	tqrp		M. musculus	bacteria expression	216	LAB-149	L3	WFIX-004	F9	High, soluble, LOBSTR	W
 FIX-0267	ARTX-BRCT.3	pLVX	Tet	none	artx	BRCT	S. cerevisiae	mammalian expression	182	LAB-247	L4	WFIX-004	D9	Moderate, soluble	W
 FIX-0268	BLNK2-BRCT.3	pGro7	Amp	N-6his, C-strep tag II	blnk2	BRCT	M. musculus	cloning intermediate	339	LAB-145	L1	WFIX-004	D7	Not tested	
 FIX-0269	CRDM-BRCT.3	pcDNA3.1	Amp	N-6his, C-strep tag II	crdm	BRCT	H. sapiens	cloning intermediate	96	LAB-218	L1	WFIX-004	I8	Low, inclusion bodies	
@@ -277,7 +277,7 @@ FIX-0275	VRLM.3	pCDFDuet-1	Cm	C-strep tag II	vrlm		S. cerevisiae	insect expressi
 FIX-0276	IVSD.2	pGEX-6P-1	Tet	N-6his	ivsd		M. musculus	mammalian expression	18	LAB-137	L2	WFIX-004	H8	Not tested	sequenced
 FIX-0277	ARTX.2	pACYCDuet-1	Kan	N-6his, TEV	artx		S. cerevisiae	entry clone	160	LAB-157	L3	WFIX-004	B3	High, soluble, BL21(DE3)	
 FIX-0278	FKBX3-BRCT.1	pUC19	Spec	N-6his, C-strep tag II	fkbx3	BRCT	S. cerevisiae	bacteria expression	22	LAB-186	L3	WFIX-004	A6	High, soluble, LOBSTR	
-FIX-0279	UbV JNKL.3	pACYCDuet-1	Kan	C-6his	jnkl		Synthetic	mammalian expression	104	LAB-147	L2	WFIX-004	B8	Moderate, soluble	verify before use
+FIX-0279	var JNKL.3	pACYCDuet-1	Kan	C-6his	jnkl		Synthetic	mammalian expression	104	LAB-147	L2	WFIX-004	B8	Moderate, soluble	verify before use
 FIX-0280	TQRP-CTD.2	pACYCDuet-1	Tet	N-GST	tqrp	CTD	E. coli	insect expression	82	LAB-249	L1	WFIX-004	D1	High, soluble, LOBSTR	
 FIX-0281	EVRN.2	pACYCDuet-1	Spec	N-GST	evrn		H. sapiens	insect expression	131	LAB-242	L2	WFIX-004	I8	Insoluble at 37, soluble at 18	glycerol stock too
 FIX-0282	GLSN-WD40.2	pET28a	Tet	C-6his	glsn	WD40	H. sapiens	cloning intermediate	288	LAB-227	L4	WFIX-004	A7	Low, inclusion bodies	
@@ -291,37 +291,37 @@ FIX-0289	XNTP-BRCT.3	pACYCDuet-1	Cm	none	xntp	BRCT	E. coli	cloning intermediate	
 FIX-0290	STLN4.4	pDONR221	Kan	N-MBP	stln4		Synthetic	bacteria expression	357	LAB-241	L3	WFIX-004	A1	Not tested	
 FIX-0291	DPLX.2	pLVX	Str	N-6his, C-strep tag II	dplx		S. cerevisiae	entry clone	69	LAB-140	L4	WFIX-004	C9	High, soluble, LOBSTR	
 FIX-0292	LMNX.1	pCDFDuet-1	Cm	N-GST	lmnx		H. sapiens	mammalian expression	209	LAB-185	L2	WFIX-004	F7	Not tested	sequenced
-FIX-0293	UbV MRTF2-kinase.4	pCDFDuet-1	Kan	C-6his	mrtf2	kinase	H. sapiens	cloning intermediate	59	LAB-230	L4	WFIX-004	F6	Moderate, soluble	
+FIX-0293	var MRTF2-kinase.4	pCDFDuet-1	Kan	C-6his	mrtf2	kinase	H. sapiens	cloning intermediate	59	LAB-230	L4	WFIX-004	F6	Moderate, soluble	
 FIX-0294	VRLM-SH3.1	pMAL-c5X	Str	N-6his	vrlm	SH3	E. coli	cloning intermediate	24	LAB-109	L2	WFIX-004	F1	Insoluble at 37, soluble at 18	
 FIX-0295	DPLX-kinase.4	pGB1	Spec	C-6his	dplx	kinase	H. sapiens	cloning intermediate	165	LAB-217	L2	WFIX-004	C6	High, soluble, LOBSTR	
 FIX-0296	VRLM-SH3.2	pLVX	Spec	C-6his	vrlm	SH3	E. coli	mammalian expression	400	LAB-219	L3	WFIX-004	E8	Low, inclusion bodies	
 FIX-0297	GLSN.3	pFastBac1	Kan	C-6his	glsn		E. coli	cloning intermediate	61	LAB-246	L2	WFIX-004	E6	Insoluble at 37, soluble at 18	
-FIX-0298	UbV RVDX-BRCT.1	pET28a	Spec	N-MBP	rvdx	BRCT	E. coli	cloning intermediate	45	LAB-211	L2	WFIX-004	C3	Moderate, soluble	
+FIX-0298	var RVDX-BRCT.1	pET28a	Spec	N-MBP	rvdx	BRCT	E. coli	cloning intermediate	45	LAB-211	L2	WFIX-004	C3	Moderate, soluble	
 FIX-0299	STLN4.1	pET21a	Cm	C-strep tag II	stln4		M. musculus	cloning intermediate	292	LAB-116	L2	WFIX-004	E3	High, soluble, LOBSTR	
 FIX-0300	ORVC.4	pGB1	Str	N-MBP	orvc		E. coli	mammalian expression	297	LAB-219	L4	WFIX-004	G7	Not tested	
-FIX-0301	UbV IVSD-NTD.2	pET53	Cm	N-GST	ivsd	NTD	S. cerevisiae	mammalian expression	80	LAB-210	L1	WFIX-004	G4	Low, inclusion bodies	
+FIX-0301	var IVSD-NTD.2	pET53	Cm	N-GST	ivsd	NTD	S. cerevisiae	mammalian expression	80	LAB-210	L1	WFIX-004	G4	Low, inclusion bodies	
 FIX-0302	MRTF2-SH3.1	pcDNA3.1	Kan	N-GST	mrtf2	SH3	Synthetic	mammalian expression	91	LAB-206	L2	WFIX-004	I8	Moderate, soluble	
-FIX-0303	UbV BLNK2-kinase.4	pGEX-6P-1	Amp	C-strep tag II	blnk2	kinase	H. sapiens	entry clone	169	LAB-130	L4	WFIX-004	I8	Insoluble at 37, soluble at 18	
+FIX-0303	var BLNK2-kinase.4	pGEX-6P-1	Amp	C-strep tag II	blnk2	kinase	H. sapiens	entry clone	169	LAB-130	L4	WFIX-004	I8	Insoluble at 37, soluble at 18	
 FIX-0304	GLSN.2	pET53	Amp	N-6his	glsn		S. cerevisiae	mammalian expression	237	LAB-133	L4	WFIX-004	I1	High, soluble, LOBSTR	sequenced
 FIX-0305	FKBX3.1	pBAD33	Str	none	fkbx3		E. coli	bacteria expression	77	LAB-135	L3	WFIX-004	E8	Not tested	
 FIX-0306	LMNX-CTD.3	pRARE2	Cm	none	lmnx	CTD	H. sapiens	bacteria expression	39	LAB-130	L4	WFIX-004	I7	Moderate, soluble	
 FIX-0307	QRSM-full length.3	pMAL-c5X	Tet	N-SUMO	qrsm	full length	Synthetic	cloning intermediate	27	LAB-190	L2	WFIX-004	C6	High, soluble, BL21(DE3)	
 FIX-0308	LMNX.3	pMAL-c5X	Str	C-strep tag II	lmnx		S. cerevisiae	entry clone	238	LAB-242	L2	WFIX-004	G6	Moderate, soluble	
-FIX-0309	UbV NDLS-full length.2	pBAD33	Cm	N-6his, TEV	ndls	full length	M. musculus	entry clone	351	LAB-212	L1	WFIX-004	G7	Moderate, soluble	W
+FIX-0309	var NDLS-full length.2	pBAD33	Cm	N-6his, TEV	ndls	full length	M. musculus	entry clone	351	LAB-212	L1	WFIX-004	G7	Moderate, soluble	W
 FIX-0310	XNTP.3	pTXB1	Cm	N-SUMO	xntp		Synthetic	mammalian expression	167	LAB-201	L4	WFIX-004	F5	Insoluble at 37, soluble at 18	
 FIX-0311	ORVC-SH3.1	pDONR221	Amp	N-6his, TEV	orvc	SH3	Synthetic	insect expression	414	LAB-164	L1	WFIX-004	E1	Low, inclusion bodies	
 FIX-0312	VRLM-CTD.3	pBAD33	Kan	N-MBP	vrlm	CTD	Synthetic	insect expression	272	LAB-167	L3	WFIX-004	C1	Moderate, soluble	
 FIX-0313	RVDX-NTD.4	pQE30	Cm	N-6his	rvdx	NTD	S. cerevisiae	insect expression	99	LAB-134	L3	WFIX-004	C7	Insoluble at 37, soluble at 18	
 FIX-0314	ZPLQ-PH.4	pFastBac1	Cm	C-strep tag II	zplq	PH	M. musculus	bacteria expression	33	LAB-136	L4	WFIX-004	E9	High, soluble, BL21(DE3)	
-FIX-0315	UbV ORVC.2	pUC19	Cm	none	orvc		E. coli	mammalian expression	15	LAB-176	L4	WFIX-004	E6	Low, inclusion bodies	verify before use
+FIX-0315	var ORVC.2	pUC19	Cm	none	orvc		E. coli	mammalian expression	15	LAB-176	L4	WFIX-004	E6	Low, inclusion bodies	verify before use
 FIX-0316	TQRP.4	pSUMO	Kan	N-6his	tqrp		E. coli	bacteria expression	362	LAB-206	L1	WFIX-004	D7	Not tested	
 FIX-0317	CRDM.1	pSUMO	Kan	C-strep tag II	crdm		S. cerevisiae	entry clone	396	LAB-112	L4	WFIX-004	C9	Moderate, soluble	
 FIX-0318	STLN4.1	pRARE2	Cm	N-6his	stln4		M. musculus	mammalian expression	382	LAB-200	L2	WFIX-004	B6	Insoluble at 37, soluble at 18	
 FIX-0319	VRLM-full length.3	pQE30	Str	none	vrlm	full length	Synthetic	entry clone	282	LAB-116	L2	WFIX-004	H6	Not tested	W
 FIX-0320	CRDM.2	pRARE2	Spec	N-6his	crdm		Synthetic	mammalian expression	126	LAB-124	L3	WFIX-004	C2	Not tested	
-FIX-0321	UbV PLTK.1	pFastBac1	Tet	N-MBP	pltk		S. cerevisiae	mammalian expression	384	LAB-144	L3	WFIX-004	F4	High, soluble, BL21(DE3)	
+FIX-0321	var PLTK.1	pFastBac1	Tet	N-MBP	pltk		S. cerevisiae	mammalian expression	384	LAB-144	L3	WFIX-004	F4	High, soluble, BL21(DE3)	
 FIX-0322	LMNX.1	pBAD33	Cm	N-MBP	lmnx		H. sapiens	cloning intermediate	134	LAB-233	L4	WFIX-004	C7	Insoluble at 37, soluble at 18	
-FIX-0323	UbV ARTX-SH3.2	pET21a	Amp	none	artx	SH3	M. musculus	mammalian expression	274	LAB-197	L2	WFIX-004	B7	Low, inclusion bodies	
+FIX-0323	var ARTX-SH3.2	pET21a	Amp	none	artx	SH3	M. musculus	mammalian expression	274	LAB-197	L2	WFIX-004	B7	Low, inclusion bodies	
 FIX-0324	ARTX-NTD.3	pLVX	Tet	C-6his	artx	NTD	E. coli	insect expression	251	LAB-235	L4	WFIX-005	D1	Low, inclusion bodies	
 FIX-0325	HRTA-full length.2	pET28a	Kan	N-GST	hrta	full length	S. cerevisiae	bacteria expression	324	LAB-173	L1	WFIX-005	C8	High, soluble, BL21(DE3)	
 FIX-0326	GLSN.1	pDONR221	Spec	C-6his	glsn		S. cerevisiae	cloning intermediate	339	LAB-152	L4	WFIX-005	H4	Not tested	
@@ -332,7 +332,7 @@ FIX-0330	EVRN-PH.3	pET53	Kan	C-6his	evrn	PH	S. cerevisiae	entry clone	355	LAB-22
 FIX-0331	GLSN-full length.1	pLVX	Tet	C-strep tag II	glsn	full length	M. musculus	bacteria expression	66	LAB-111	L4	WFIX-005	A3	Not tested	W
 FIX-0332	QRSM.2	pQE30	Spec	N-6his, TEV	qrsm		S. cerevisiae	mammalian expression	168	LAB-220	L2	WFIX-005	F1	Low, inclusion bodies	
 FIX-0333	USHN-CTD.3	pQE30	Kan	N-6his	ushn	CTD	S. cerevisiae	bacteria expression	149	LAB-187	L4	WFIX-005	C9	Moderate, soluble	
-FIX-0334	UbV EVRN-CTD.1	pACYCDuet-1	Str	N-6his, C-strep tag II	evrn	CTD	M. musculus	bacteria expression	59	LAB-185	L1	WFIX-005	G6	Insoluble at 37, soluble at 18	glycerol stock too
+FIX-0334	var EVRN-CTD.1	pACYCDuet-1	Str	N-6his, C-strep tag II	evrn	CTD	M. musculus	bacteria expression	59	LAB-185	L1	WFIX-005	G6	Insoluble at 37, soluble at 18	glycerol stock too
 FIX-0335	WDLK.4	pGro7	Kan	C-strep tag II	wdlk		S. cerevisiae	mammalian expression	327	LAB-122	L3	WFIX-005	I4	High, soluble, BL21(DE3)	
 FIX-0336	DPLX.4	pGB1	Cm	N-6his, TEV	dplx		S. cerevisiae	entry clone	255	LAB-183	L1	WFIX-005	A5	High, soluble, LOBSTR	
 FIX-0337	IVSD.3	pET28a	Cm	N-6his, TEV	ivsd		S. cerevisiae	mammalian expression	132	LAB-142	L4	WFIX-005	B1	Insoluble at 37, soluble at 18	
@@ -344,52 +344,52 @@ FIX-0342	IVSD-kinase.3	pLVX	Amp	N-SUMO	ivsd	kinase	H. sapiens	mammalian expressi
 FIX-0343	USHN-NTD.2	pCDFDuet-1	Str	N-MBP	ushn	NTD	Synthetic	insect expression	254	LAB-158	L2	WFIX-005	A5	Low, inclusion bodies	sequenced
 FIX-0344	TQRP-PH.4	pBAD33	Kan	N-MBP	tqrp	PH	H. sapiens	entry clone	122	LAB-132	L1	WFIX-005	C8	Not tested	
 FIX-0345	STLN4-NTD.4	pSUMO	Kan	N-6his, C-strep tag II	stln4	NTD	E. coli	insect expression	368	LAB-204	L4	WFIX-005	H1	Moderate, soluble	
-FIX-0346	UbV LMNX-PH.2	pGro7	Str	C-strep tag II	lmnx	PH	S. cerevisiae	mammalian expression	408	LAB-142	L3	WFIX-005	G7	Insoluble at 37, soluble at 18	
-FIX-0347	UbV TQRP.1	pET21a	Kan	N-6his, C-strep tag II	tqrp		S. cerevisiae	cloning intermediate	39	LAB-163	L1	WFIX-005	E2	Insoluble at 37, soluble at 18	glycerol stock too
+FIX-0346	var LMNX-PH.2	pGro7	Str	C-strep tag II	lmnx	PH	S. cerevisiae	mammalian expression	408	LAB-142	L3	WFIX-005	G7	Insoluble at 37, soluble at 18	
+FIX-0347	var TQRP.1	pET21a	Kan	N-6his, C-strep tag II	tqrp		S. cerevisiae	cloning intermediate	39	LAB-163	L1	WFIX-005	E2	Insoluble at 37, soluble at 18	glycerol stock too
 FIX-0348	FKBX3-WD40.4	pET15b	Kan	N-6his	fkbx3	WD40	S. cerevisiae	cloning intermediate	345	LAB-223	L1	WFIX-005	C1	Low, inclusion bodies	
 FIX-0349	FKBX3.4	pLVX	Tet	C-strep tag II	fkbx3		S. cerevisiae	entry clone	362	LAB-102	L4	WFIX-005	E3	Insoluble at 37, soluble at 18	
 FIX-0350	NDLS.4	pMAL-c5X	Spec	N-GST	ndls		S. cerevisiae	cloning intermediate	244	LAB-145	L1	WFIX-005	G4	Not tested	sequenced
 FIX-0351	FKBX3-WD40.3	pRARE2	Str	C-6his	fkbx3	WD40	M. musculus	insect expression	402	LAB-108	L3	WFIX-005	G7	Not tested	
 FIX-0352	VRLM.1	pET21a	Tet	C-6his	vrlm		H. sapiens	cloning intermediate	323	LAB-119	L3	WFIX-005	H2	Moderate, soluble	sequenced
 FIX-0353	BLNK2-BRCT.2	pACYCDuet-1	Amp	N-MBP	blnk2	BRCT	H. sapiens	cloning intermediate	75	LAB-118	L4	WFIX-005	H9	Insoluble at 37, soluble at 18	sequenced
-FIX-0354	UbV ZPLQ.4	pSUMO	Str	none	zplq		Synthetic	cloning intermediate	169	LAB-228	L3	WFIX-005	D4	High, soluble, LOBSTR	sequenced
-FIX-0355	UbV XNTP.2	pSUMO	Amp	N-6his, C-strep tag II	xntp		E. coli	bacteria expression	403	LAB-206	L1	WFIX-005	D9	Insoluble at 37, soluble at 18	
+FIX-0354	var ZPLQ.4	pSUMO	Str	none	zplq		Synthetic	cloning intermediate	169	LAB-228	L3	WFIX-005	D4	High, soluble, LOBSTR	sequenced
+FIX-0355	var XNTP.2	pSUMO	Amp	N-6his, C-strep tag II	xntp		E. coli	bacteria expression	403	LAB-206	L1	WFIX-005	D9	Insoluble at 37, soluble at 18	
 FIX-0356	JNKL-full length.4	pSUMO	Cm	N-MBP	jnkl	full length	H. sapiens	bacteria expression	305	LAB-211	L4	WFIX-005	C2	High, soluble, LOBSTR	
 FIX-0357	ARTX-kinase.4	pRSFDuet-1	Cm	none	artx	kinase	Synthetic	cloning intermediate	156	LAB-158	L3	WFIX-005	A9	Low, inclusion bodies	
 FIX-0358	MRTF2.2	pFastBac1	Str	N-SUMO	mrtf2		M. musculus	insect expression	400	LAB-156	L2	WFIX-005	E1	Insoluble at 37, soluble at 18	
 FIX-0359	MRTF2-SH3.3	pTXB1	Cm	N-SUMO	mrtf2	SH3	M. musculus	insect expression	283	LAB-137	L1	WFIX-005	H2	Moderate, soluble	verify before use
-FIX-0360	UbV WDLK-full length.1	pRSFDuet-1	Cm	N-MBP	wdlk	full length	M. musculus	entry clone	50	LAB-118	L1	WFIX-005	B6	High, soluble, LOBSTR	
+FIX-0360	var WDLK-full length.1	pRSFDuet-1	Cm	N-MBP	wdlk	full length	M. musculus	entry clone	50	LAB-118	L1	WFIX-005	B6	High, soluble, LOBSTR	
 FIX-0361	ORVC-BRCT.3	pLVX	Kan	N-6his	orvc	BRCT	Synthetic	cloning intermediate	258	LAB-209	L3	WFIX-005	E4	Moderate, soluble	
 FIX-0362	ZPLQ-PH.2	pSUMO	Spec	N-GST	zplq	PH	E. coli	entry clone	161	LAB-237	L1	WFIX-005	C4	Insoluble at 37, soluble at 18	sequenced
 FIX-0363	VRLM-full length.2	pDONR221	Amp	N-6his	vrlm	full length	H. sapiens	mammalian expression	244	LAB-238	L1	WFIX-005	I3	Insoluble at 37, soluble at 18	
 FIX-0364	JNKL.3	pGB1	Amp	N-MBP	jnkl		Synthetic	insect expression	57	LAB-116	L4	WFIX-005	B4	High, soluble, LOBSTR	
 FIX-0365	ZPLQ-WD40.1	pUC19	Amp	N-MBP	zplq	WD40	M. musculus	entry clone	370	LAB-225	L2	WFIX-005	G8	Not tested	
 FIX-0366	QRSM.2	pTXB1	Spec	C-strep tag II	qrsm		H. sapiens	bacteria expression	59	LAB-236	L4	WFIX-005	C9	Low, inclusion bodies	
-FIX-0367	UbV GLSN-kinase.1	pRSFDuet-1	Kan	N-6his, TEV	glsn	kinase	Synthetic	entry clone	163	LAB-223	L1	WFIX-005	E4	Low, inclusion bodies	
+FIX-0367	var GLSN-kinase.1	pRSFDuet-1	Kan	N-6his, TEV	glsn	kinase	Synthetic	entry clone	163	LAB-223	L1	WFIX-005	E4	Low, inclusion bodies	
 FIX-0368	PLTK-NTD.2	pGEX-6P-1	Str	N-MBP	pltk	NTD	M. musculus	insect expression	131	LAB-119	L3	WFIX-005	B4	High, soluble, BL21(DE3)	
 FIX-0369	EVRN.1	pACYCDuet-1	Tet	N-SUMO	evrn		E. coli	mammalian expression	277	LAB-137	L4	WFIX-005	B9	High, soluble, BL21(DE3)	
 FIX-0370	XNTP-CTD.3	pTXB1	Spec	C-strep tag II	xntp	CTD	M. musculus	insect expression	127	LAB-142	L1	WFIX-005	F3	Insoluble at 37, soluble at 18	glycerol stock too
 FIX-0371	ORVC-full length.1	pRSFDuet-1	Amp	N-SUMO	orvc	full length	S. cerevisiae	entry clone	289	LAB-151	L1	WFIX-005	F1	Insoluble at 37, soluble at 18	
-FIX-0372	UbV EVRN.3	pACYCDuet-1	Tet	C-strep tag II	evrn		M. musculus	insect expression	206	LAB-214	L2	WFIX-005	F1	Insoluble at 37, soluble at 18	
+FIX-0372	var EVRN.3	pACYCDuet-1	Tet	C-strep tag II	evrn		M. musculus	insect expression	206	LAB-214	L2	WFIX-005	F1	Insoluble at 37, soluble at 18	
 FIX-0373	MRTF2-kinase.3	pCDFDuet-1	Str	N-GST	mrtf2	kinase	E. coli	bacteria expression	77	LAB-136	L2	WFIX-005	C6	Not tested	W
-FIX-0374	UbV EVRN-WD40.1	pGEX-6P-1	Cm	none	evrn	WD40	E. coli	mammalian expression	309	LAB-244	L4	WFIX-005	F7	High, soluble, BL21(DE3)	verify before use
+FIX-0374	var EVRN-WD40.1	pGEX-6P-1	Cm	none	evrn	WD40	E. coli	mammalian expression	309	LAB-244	L4	WFIX-005	F7	High, soluble, BL21(DE3)	verify before use
 FIX-0375	MRTF2.1	pGro7	Tet	N-SUMO	mrtf2		Synthetic	entry clone	220	LAB-116	L1	WFIX-005	E1	Moderate, soluble	
 FIX-0376	JNKL-SH3.3	pET21a	Spec	C-6his	jnkl	SH3	H. sapiens	insect expression	344	LAB-143	L4	WFIX-005	D6	Insoluble at 37, soluble at 18	W
 FIX-0377	TQRP.2	pLVX	Kan	N-6his, TEV	tqrp		Synthetic	bacteria expression	117	LAB-240	L1	WFIX-005	F1	Not tested	
 FIX-0378	DPLX.1	pGEX-6P-1	Str	N-MBP	dplx		E. coli	entry clone	233	LAB-136	L4	WFIX-005	D9	High, soluble, BL21(DE3)	
 FIX-0379	HRTA.3	pET15b	Spec	C-strep tag II	hrta		E. coli	mammalian expression	258	LAB-119	L1	WFIX-005	C9	High, soluble, BL21(DE3)	glycerol stock too
 FIX-0380	JNKL-kinase.3	pMAL-c5X	Kan	C-6his	jnkl	kinase	H. sapiens	bacteria expression	339	LAB-235	L4	WFIX-005	H5	High, soluble, LOBSTR	
-FIX-0381	UbV QRSM-WD40.2	pCDFDuet-1	Tet	none	qrsm	WD40	H. sapiens	mammalian expression	285	LAB-163	L3	WFIX-005	H7	High, soluble, BL21(DE3)	W
-FIX-0382	UbV JNKL.4	pQE30	Str	N-SUMO	jnkl		H. sapiens	entry clone	254	LAB-159	L1	WFIX-005	I3	Not tested	
+FIX-0381	var QRSM-WD40.2	pCDFDuet-1	Tet	none	qrsm	WD40	H. sapiens	mammalian expression	285	LAB-163	L3	WFIX-005	H7	High, soluble, BL21(DE3)	W
+FIX-0382	var JNKL.4	pQE30	Str	N-SUMO	jnkl		H. sapiens	entry clone	254	LAB-159	L1	WFIX-005	I3	Not tested	
 FIX-0383	TQRP.4	pcDNA3.1	Amp	C-6his	tqrp		Synthetic	mammalian expression	302	LAB-123	L3	WFIX-005	I2	Low, inclusion bodies	
-FIX-0384	UbV CRDM-WD40.1	pFastBac1	Kan	C-strep tag II	crdm	WD40	E. coli	mammalian expression	293	LAB-174	L3	WFIX-005	B5	High, soluble, LOBSTR	glycerol stock too
+FIX-0384	var CRDM-WD40.1	pFastBac1	Kan	C-strep tag II	crdm	WD40	E. coli	mammalian expression	293	LAB-174	L3	WFIX-005	B5	High, soluble, LOBSTR	glycerol stock too
 FIX-0385	IVSD.2	pGEX-6P-1	Str	N-SUMO	ivsd		S. cerevisiae	cloning intermediate	409	LAB-195	L2	WFIX-005	F2	High, soluble, LOBSTR	
-FIX-0386	UbV PLTK.3	pCDFDuet-1	Spec	N-GST	pltk		H. sapiens	cloning intermediate	329	LAB-137	L2	WFIX-005	G1	Not tested	
+FIX-0386	var PLTK.3	pCDFDuet-1	Spec	N-GST	pltk		H. sapiens	cloning intermediate	329	LAB-137	L2	WFIX-005	G1	Not tested	
 FIX-0387	ORVC-SH3.2	pGro7	Str	C-strep tag II	orvc	SH3	Synthetic	entry clone	293	LAB-114	L4	WFIX-005	F7	High, soluble, BL21(DE3)	
-FIX-0388	UbV USHN.3	pMAL-c5X	Kan	none	ushn		S. cerevisiae	entry clone	87	LAB-150	L2	WFIX-005	C7	Not tested	
+FIX-0388	var USHN.3	pMAL-c5X	Kan	none	ushn		S. cerevisiae	entry clone	87	LAB-150	L2	WFIX-005	C7	Not tested	
 FIX-0389	PLTK.1	pCDFDuet-1	Tet	N-GST	pltk		M. musculus	mammalian expression	48	LAB-123	L4	WFIX-005	I2	Low, inclusion bodies	
 FIX-0390	GLSN.3	pET15b	Amp	none	glsn		M. musculus	entry clone	140	LAB-130	L3	WFIX-005	G8	High, soluble, LOBSTR	
-FIX-0391	UbV KPRB.1	pETDuet-1	Amp	N-MBP	kprb		Synthetic	insect expression	295	LAB-236	L2	WFIX-005	B9	Moderate, soluble	
+FIX-0391	var KPRB.1	pETDuet-1	Amp	N-MBP	kprb		Synthetic	insect expression	295	LAB-236	L2	WFIX-005	B9	Moderate, soluble	
 FIX-0392	ZPLQ-PH.3	pET21a	Kan	N-6his	zplq	PH	E. coli	cloning intermediate	349	LAB-236	L2	WFIX-005	H8	High, soluble, BL21(DE3)	
 FIX-0393	YRBC.3	pBAD33	Amp	N-6his	yrbc		S. cerevisiae	mammalian expression	325	LAB-146	L1	WFIX-005	H2	Moderate, soluble	
 FIX-0394	EVRN-full length.3	pBAD33	Tet	N-6his, C-strep tag II	evrn	full length	E. coli	entry clone	322	LAB-194	L4	WFIX-005	D7	High, soluble, LOBSTR	
@@ -397,27 +397,27 @@ FIX-0395	USHN.4	pMAL-c5X	Tet	N-6his	ushn		H. sapiens	entry clone	132	LAB-223	L4	
 FIX-0396	JNKL.4	pACYCDuet-1	Str	N-6his, C-strep tag II	jnkl		S. cerevisiae	mammalian expression	98	LAB-111	L3	WFIX-005	D1	Low, inclusion bodies	
 FIX-0397	LMNX-WD40.3	pMAL-c5X	Kan	N-SUMO	lmnx	WD40	M. musculus	cloning intermediate	237	LAB-200	L2	WFIX-005	A5	High, soluble, BL21(DE3)	W
 FIX-0398	PLTK.4	pcDNA3.1	Str	N-6his	pltk		M. musculus	entry clone	131	LAB-131	L4	WFIX-005	I1	Moderate, soluble	
-FIX-0399	UbV STLN4-WD40.4	pGEX-6P-1	Tet	N-6his, C-strep tag II	stln4	WD40	M. musculus	cloning intermediate	43	LAB-191	L3	WFIX-005	D3	Moderate, soluble	sequenced
+FIX-0399	var STLN4-WD40.4	pGEX-6P-1	Tet	N-6his, C-strep tag II	stln4	WD40	M. musculus	cloning intermediate	43	LAB-191	L3	WFIX-005	D3	Moderate, soluble	sequenced
 FIX-0400	RVDX-full length.2	pTXB1	Kan	C-6his	rvdx	full length	H. sapiens	cloning intermediate	276	LAB-165	L3	WFIX-005	F9	Low, inclusion bodies	
-FIX-0401	UbV VRLM-BRCT.4	pUC19	Str	none	vrlm	BRCT	E. coli	insect expression	58	LAB-115	L1	WFIX-005	F2	Moderate, soluble	
-FIX-0402	UbV MRTF2.4	pET28a	Kan	none	mrtf2		M. musculus	mammalian expression	171	LAB-189	L2	WFIX-005	I8	High, soluble, LOBSTR	
+FIX-0401	var VRLM-BRCT.4	pUC19	Str	none	vrlm	BRCT	E. coli	insect expression	58	LAB-115	L1	WFIX-005	F2	Moderate, soluble	
+FIX-0402	var MRTF2.4	pET28a	Kan	none	mrtf2		M. musculus	mammalian expression	171	LAB-189	L2	WFIX-005	I8	High, soluble, LOBSTR	
 FIX-0403	GLSN.4	pCDFDuet-1	Amp	N-MBP	glsn		M. musculus	mammalian expression	309	LAB-201	L4	WFIX-005	B3	Low, inclusion bodies	
 FIX-0404	FKBX3.2	pCDFDuet-1	Cm	N-6his, TEV	fkbx3		M. musculus	mammalian expression	181	LAB-127	L3	WFIX-005	B2	High, soluble, BL21(DE3)	
 FIX-0405	JNKL-CTD.3	pUC19	Cm	N-MBP	jnkl	CTD	H. sapiens	bacteria expression	125	LAB-180	L4	WFIX-006	I3	Low, inclusion bodies	W
 FIX-0406	HRTA.2	pACYCDuet-1	Spec	C-6his	hrta		E. coli	insect expression	100	LAB-198	L4	WFIX-006	I8	High, soluble, LOBSTR	
 FIX-0407	YRBC-SH3.2	pRSFDuet-1	Kan	C-6his	yrbc	SH3	M. musculus	entry clone	126	LAB-189	L1	WFIX-006	A2	Moderate, soluble	
-FIX-0408	UbV ORVC-full length.3	pTXB1	Amp	N-6his, C-strep tag II	orvc	full length	H. sapiens	bacteria expression	377	LAB-144	L2	WFIX-006	F2	Moderate, soluble	
+FIX-0408	var ORVC-full length.3	pTXB1	Amp	N-6his, C-strep tag II	orvc	full length	H. sapiens	bacteria expression	377	LAB-144	L2	WFIX-006	F2	Moderate, soluble	
 FIX-0409	CRDM.1	pMAL-c5X	Tet	C-strep tag II	crdm		S. cerevisiae	insect expression	265	LAB-170	L2	WFIX-006	E3	Moderate, soluble	
 FIX-0410	NDLS-NTD.3	pFastBac1	Spec	N-SUMO	ndls	NTD	M. musculus	entry clone	412	LAB-230	L4	WFIX-006	D5	Moderate, soluble	
 FIX-0411	USHN.4	pMAL-c5X	Cm	N-6his, TEV	ushn		Synthetic	cloning intermediate	220	LAB-230	L3	WFIX-006	G5	High, soluble, BL21(DE3)	
-FIX-0412	UbV IVSD.1	pACYCDuet-1	Amp	C-6his	ivsd		Synthetic	mammalian expression	138	LAB-211	L4	WFIX-006	A3	Not tested	W
+FIX-0412	var IVSD.1	pACYCDuet-1	Amp	C-6his	ivsd		Synthetic	mammalian expression	138	LAB-211	L4	WFIX-006	A3	Not tested	W
 FIX-0413	EVRN.4	pGro7	Kan	C-6his	evrn		E. coli	bacteria expression	150	LAB-216	L3	WFIX-006	D7	Insoluble at 37, soluble at 18	verify before use
 FIX-0414	VRLM-full length.4	pACYCDuet-1	Spec	N-6his	vrlm	full length	S. cerevisiae	insect expression	324	LAB-161	L2	WFIX-006	B2	High, soluble, LOBSTR	
 FIX-0415	TQRP.3	pCDFDuet-1	Str	C-strep tag II	tqrp		E. coli	cloning intermediate	240	LAB-105	L1	WFIX-006	F4	Insoluble at 37, soluble at 18	
 FIX-0416	ARTX-PH.2	pGro7	Kan	N-6his	artx	PH	H. sapiens	insect expression	177	LAB-127	L4	WFIX-006	I3	Low, inclusion bodies	
 FIX-0417	JNKL-WD40.4	pET28a	Spec	N-MBP	jnkl	WD40	E. coli	cloning intermediate	166	LAB-178	L4	WFIX-006	F8	Moderate, soluble	sequenced
 FIX-0418	LMNX-CTD.1	pET21a	Str	C-strep tag II	lmnx	CTD	E. coli	cloning intermediate	281	LAB-143	L3	WFIX-006	H4	Not tested	sequenced
-FIX-0419	UbV LMNX-NTD.2	pcDNA3.1	Spec	C-6his	lmnx	NTD	Synthetic	bacteria expression	188	LAB-247	L3	WFIX-006	F7	High, soluble, BL21(DE3)	
+FIX-0419	var LMNX-NTD.2	pcDNA3.1	Spec	C-6his	lmnx	NTD	Synthetic	bacteria expression	188	LAB-247	L3	WFIX-006	F7	High, soluble, BL21(DE3)	
 FIX-0420	USHN-WD40.4	pDONR221	Cm	C-6his	ushn	WD40	M. musculus	entry clone	93	LAB-119	L3	WFIX-006	H3	Moderate, soluble	glycerol stock too
 FIX-0421	HRTA-SH3.2	pMAL-c5X	Tet	C-6his	hrta	SH3	S. cerevisiae	cloning intermediate	152	LAB-200	L2	WFIX-006	H5	Low, inclusion bodies	verify before use
 FIX-0422	EVRN.2	pCDFDuet-1	Spec	N-MBP	evrn		H. sapiens	bacteria expression	410	LAB-143	L2	WFIX-006	I1	High, soluble, BL21(DE3)	sequenced
@@ -430,7 +430,7 @@ FIX-0428	RVDX-CTD.2	pET21a	Tet	N-6his, TEV	rvdx	CTD	E. coli	insect expression	27
 FIX-0429	TQRP.1	pSUMO	Cm	none	tqrp		S. cerevisiae	insect expression	365	LAB-156	L1	WFIX-006	C5	Moderate, soluble	
 FIX-0430	JNKL.3	pET15b	Amp	N-MBP	jnkl		M. musculus	mammalian expression	123	LAB-197	L4	WFIX-006	F5	Low, inclusion bodies	
 FIX-0431	JNKL-WD40.3	pSUMO	Cm	N-MBP	jnkl	WD40	S. cerevisiae	mammalian expression	251	LAB-152	L4	WFIX-006	H9	Low, inclusion bodies	
-FIX-0432	UbV ZPLQ.1	pGEX-6P-1	Amp	none	zplq		H. sapiens	entry clone	81	LAB-200	L2	WFIX-006	D8	Moderate, soluble	glycerol stock too
+FIX-0432	var ZPLQ.1	pGEX-6P-1	Amp	none	zplq		H. sapiens	entry clone	81	LAB-200	L2	WFIX-006	D8	Moderate, soluble	glycerol stock too
 FIX-0433	DPLX-BRCT.2	pBAD33	Amp	N-MBP	dplx	BRCT	Synthetic	mammalian expression	100	LAB-132	L2	WFIX-006	I6	High, soluble, LOBSTR	verify before use
 FIX-0434	TQRP.3	pUC19	Spec	N-MBP	tqrp		S. cerevisiae	bacteria expression	93	LAB-148	L2	WFIX-006	F7	High, soluble, BL21(DE3)	verify before use
 FIX-0435	ZPLQ-WD40.3	pUC19	Str	N-6his	zplq	WD40	H. sapiens	insect expression	367	LAB-160	L1	WFIX-006	H6	Not tested	sequenced
@@ -440,10 +440,10 @@ FIX-0438	CRDM-NTD.2	pTXB1	Str	none	crdm	NTD	S. cerevisiae	mammalian expression	2
 FIX-0439	VRLM.3	pGB1	Cm	N-SUMO	vrlm		Synthetic	entry clone	191	LAB-184	L4	WFIX-006	A2	Low, inclusion bodies	
 FIX-0440	CRDM.2	pMAL-c5X	Spec	N-GST	crdm		S. cerevisiae	bacteria expression	195	LAB-249	L1	WFIX-006	I8	Moderate, soluble	
 FIX-0441	KPRB-SH3.4	pET28a	Str	N-6his	kprb	SH3	H. sapiens	bacteria expression	160	LAB-246	L4	WFIX-006	I3	High, soluble, LOBSTR	verify before use
-FIX-0442	UbV CRDM.3	pRSFDuet-1	Str	C-6his	crdm		M. musculus	mammalian expression	370	LAB-111	L4	WFIX-006	F4	Not tested	
+FIX-0442	var CRDM.3	pRSFDuet-1	Str	C-6his	crdm		M. musculus	mammalian expression	370	LAB-111	L4	WFIX-006	F4	Not tested	
 FIX-0443	EVRN.1	pSUMO	Kan	N-SUMO	evrn		M. musculus	mammalian expression	37	LAB-209	L3	WFIX-006	F2	Moderate, soluble	
 FIX-0444	EVRN-SH3.1	pGEX-6P-1	Amp	N-6his, C-strep tag II	evrn	SH3	Synthetic	insect expression	33	LAB-200	L2	WFIX-006	E8	High, soluble, BL21(DE3)	
-FIX-0445	UbV RVDX-BRCT.1	pSUMO	Amp	C-strep tag II	rvdx	BRCT	S. cerevisiae	insect expression	173	LAB-244	L3	WFIX-006	G2	High, soluble, BL21(DE3)	
+FIX-0445	var RVDX-BRCT.1	pSUMO	Amp	C-strep tag II	rvdx	BRCT	S. cerevisiae	insect expression	173	LAB-244	L3	WFIX-006	G2	High, soluble, BL21(DE3)	
 FIX-0446	STLN4-NTD.3	pET28a	Tet	N-SUMO	stln4	NTD	E. coli	bacteria expression	403	LAB-231	L1	WFIX-006	G3	Moderate, soluble	
 FIX-0447	HRTA.4	pDONR221	Amp	C-6his	hrta		H. sapiens	cloning intermediate	138	LAB-186	L2	WFIX-006	G2	Moderate, soluble	
 FIX-0448	NDLS-full length.2	pACYCDuet-1	Cm	N-SUMO	ndls	full length	H. sapiens	mammalian expression	290	LAB-155	L3	WFIX-006	D6	Not tested	
@@ -453,43 +453,43 @@ FIX-0451	RVDX-SH3.1	pETDuet-1	Cm	C-6his	rvdx	SH3	Synthetic	insect expression	236
 FIX-0452	YRBC-PH.3	pQE30	Tet	N-6his, C-strep tag II	yrbc	PH	S. cerevisiae	mammalian expression	199	LAB-136	L1	WFIX-006	I9	High, soluble, LOBSTR	
 FIX-0453	FKBX3-WD40.3	pGro7	Str	N-6his, C-strep tag II	fkbx3	WD40	E. coli	entry clone	172	LAB-229	L4	WFIX-006	F1	High, soluble, LOBSTR	
 FIX-0454	STLN4-full length.1	pET53	Kan	none	stln4	full length	Synthetic	entry clone	393	LAB-171	L2	WFIX-006	E5	High, soluble, BL21(DE3)	
-FIX-0455	UbV BLNK2.4	pcDNA3.1	Amp	C-strep tag II	blnk2		Synthetic	cloning intermediate	263	LAB-192	L4	WFIX-006	F1	Insoluble at 37, soluble at 18	
+FIX-0455	var BLNK2.4	pcDNA3.1	Amp	C-strep tag II	blnk2		Synthetic	cloning intermediate	263	LAB-192	L4	WFIX-006	F1	Insoluble at 37, soluble at 18	
 FIX-0456	WDLK.3	pETDuet-1	Str	none	wdlk		H. sapiens	bacteria expression	341	LAB-101	L3	WFIX-006	C2	Moderate, soluble	glycerol stock too
-FIX-0457	UbV EVRN-PH.1	pRSFDuet-1	Cm	C-6his	evrn	PH	Synthetic	cloning intermediate	359	LAB-217	L1	WFIX-006	F7	High, soluble, LOBSTR	
+FIX-0457	var EVRN-PH.1	pRSFDuet-1	Cm	C-6his	evrn	PH	Synthetic	cloning intermediate	359	LAB-217	L1	WFIX-006	F7	High, soluble, LOBSTR	
 FIX-0458	VRLM.1	pET21a	Amp	N-MBP	vrlm		H. sapiens	cloning intermediate	111	LAB-119	L3	WFIX-006	H9	Insoluble at 37, soluble at 18	
 FIX-0459	EVRN.4	pDONR221	Cm	N-MBP	evrn		Synthetic	insect expression	114	LAB-182	L4	WFIX-006	B2	Insoluble at 37, soluble at 18	
-FIX-0460	UbV USHN-full length.4	pET53	Spec	N-6his, C-strep tag II	ushn	full length	E. coli	bacteria expression	93	LAB-201	L3	WFIX-006	I8	High, soluble, BL21(DE3)	
+FIX-0460	var USHN-full length.4	pET53	Spec	N-6his, C-strep tag II	ushn	full length	E. coli	bacteria expression	93	LAB-201	L3	WFIX-006	I8	High, soluble, BL21(DE3)	
 FIX-0461	MRTF2-NTD.2	pTXB1	Str	N-SUMO	mrtf2	NTD	Synthetic	mammalian expression	178	LAB-131	L1	WFIX-006	H2	Moderate, soluble	
 FIX-0462	PLTK-SH3.1	pETDuet-1	Amp	N-6his, C-strep tag II	pltk	SH3	E. coli	mammalian expression	117	LAB-124	L1	WFIX-006	G1	Not tested	
 FIX-0463	IVSD-kinase.2	pcDNA3.1	Amp	C-strep tag II	ivsd	kinase	E. coli	mammalian expression	69	LAB-128	L1	WFIX-006	F4	High, soluble, BL21(DE3)	
-FIX-0464	UbV TQRP.3	pCDFDuet-1	Kan	N-6his, C-strep tag II	tqrp		H. sapiens	mammalian expression	190	LAB-237	L1	WFIX-006	E4	Moderate, soluble	
+FIX-0464	var TQRP.3	pCDFDuet-1	Kan	N-6his, C-strep tag II	tqrp		H. sapiens	mammalian expression	190	LAB-237	L1	WFIX-006	E4	Moderate, soluble	
 FIX-0465	CRDM-BRCT.2	pSUMO	Str	N-6his	crdm	BRCT	H. sapiens	mammalian expression	77	LAB-108	L3	WFIX-006	C7	Not tested	
 FIX-0466	NDLS.4	pGro7	Amp	none	ndls		Synthetic	insect expression	99	LAB-200	L4	WFIX-006	D4	Moderate, soluble	
-FIX-0467	UbV DPLX.3	pTXB1	Amp	N-MBP	dplx		E. coli	insect expression	54	LAB-137	L1	WFIX-006	E2	High, soluble, BL21(DE3)	W
+FIX-0467	var DPLX.3	pTXB1	Amp	N-MBP	dplx		E. coli	insect expression	54	LAB-137	L1	WFIX-006	E2	High, soluble, BL21(DE3)	W
 FIX-0468	WDLK-kinase.1	pGro7	Kan	N-6his, C-strep tag II	wdlk	kinase	S. cerevisiae	mammalian expression	388	LAB-245	L3	WFIX-006	F6	Moderate, soluble	
 FIX-0469	ORVC-NTD.4	pET53	Cm	C-strep tag II	orvc	NTD	H. sapiens	mammalian expression	82	LAB-204	L4	WFIX-006	D9	Not tested	
 FIX-0470	EVRN.3	pACYCDuet-1	Str	N-6his, C-strep tag II	evrn		E. coli	insect expression	166	LAB-165	L1	WFIX-006	E7	High, soluble, BL21(DE3)	
-FIX-0471	UbV CRDM.1	pFastBac1	Tet	N-6his, C-strep tag II	crdm		M. musculus	cloning intermediate	298	LAB-221	L2	WFIX-006	C6	Not tested	sequenced
+FIX-0471	var CRDM.1	pFastBac1	Tet	N-6his, C-strep tag II	crdm		M. musculus	cloning intermediate	298	LAB-221	L2	WFIX-006	C6	Not tested	sequenced
 FIX-0472	PLTK-SH3.2	pBAD33	Amp	N-MBP	pltk	SH3	Synthetic	cloning intermediate	27	LAB-229	L2	WFIX-006	C5	Low, inclusion bodies	
 FIX-0473	XNTP.3	pRARE2	Kan	C-strep tag II	xntp		E. coli	insect expression	270	LAB-118	L3	WFIX-006	A1	High, soluble, BL21(DE3)	
 FIX-0474	ORVC-CTD.3	pLVX	Amp	N-GST	orvc	CTD	Synthetic	insect expression	317	LAB-231	L4	WFIX-006	H9	High, soluble, BL21(DE3)	
-FIX-0475	UbV ORVC-NTD.2	pTXB1	Cm	N-SUMO	orvc	NTD	H. sapiens	insect expression	178	LAB-240	L3	WFIX-006	B4	Low, inclusion bodies	W
-FIX-0476	UbV LMNX.1	pETDuet-1	Amp	N-SUMO	lmnx		S. cerevisiae	cloning intermediate	115	LAB-189	L2	WFIX-006	D6	Insoluble at 37, soluble at 18	sequenced
+FIX-0475	var ORVC-NTD.2	pTXB1	Cm	N-SUMO	orvc	NTD	H. sapiens	insect expression	178	LAB-240	L3	WFIX-006	B4	Low, inclusion bodies	W
+FIX-0476	var LMNX.1	pETDuet-1	Amp	N-SUMO	lmnx		S. cerevisiae	cloning intermediate	115	LAB-189	L2	WFIX-006	D6	Insoluble at 37, soluble at 18	sequenced
 FIX-0477	ARTX.2	pRSFDuet-1	Str	N-GST	artx		H. sapiens	entry clone	215	LAB-231	L4	WFIX-006	G8	Not tested	
 FIX-0478	EVRN-full length.4	pBAD33	Tet	N-6his	evrn	full length	H. sapiens	cloning intermediate	190	LAB-189	L2	WFIX-006	B3	Insoluble at 37, soluble at 18	
 FIX-0479	ZPLQ-full length.2	pGB1	Tet	N-6his	zplq	full length	E. coli	insect expression	342	LAB-160	L1	WFIX-006	F6	Low, inclusion bodies	W
-FIX-0480	UbV HRTA.1	pBAD33	Spec	N-SUMO	hrta		H. sapiens	cloning intermediate	257	LAB-231	L3	WFIX-006	G3	Not tested	
+FIX-0480	var HRTA.1	pBAD33	Spec	N-SUMO	hrta		H. sapiens	cloning intermediate	257	LAB-231	L3	WFIX-006	G3	Not tested	
 FIX-0481	PLTK-CTD.3	pcDNA3.1	Cm	N-MBP	pltk	CTD	Synthetic	bacteria expression	90	LAB-177	L3	WFIX-006	C4	High, soluble, LOBSTR	
-FIX-0482	UbV ZPLQ-WD40.1	pET28a	Spec	N-SUMO	zplq	WD40	E. coli	cloning intermediate	292	LAB-235	L3	WFIX-006	I3	High, soluble, BL21(DE3)	
-FIX-0483	UbV BLNK2-kinase.3	pET28a	Cm	N-SUMO	blnk2	kinase	E. coli	bacteria expression	166	LAB-241	L1	WFIX-006	E6	High, soluble, BL21(DE3)	
-FIX-0484	UbV LMNX-NTD.1	pET21a	Kan	none	lmnx	NTD	Synthetic	entry clone	309	LAB-184	L3	WFIX-006	H5	High, soluble, LOBSTR	
+FIX-0482	var ZPLQ-WD40.1	pET28a	Spec	N-SUMO	zplq	WD40	E. coli	cloning intermediate	292	LAB-235	L3	WFIX-006	I3	High, soluble, BL21(DE3)	
+FIX-0483	var BLNK2-kinase.3	pET28a	Cm	N-SUMO	blnk2	kinase	E. coli	bacteria expression	166	LAB-241	L1	WFIX-006	E6	High, soluble, BL21(DE3)	
+FIX-0484	var LMNX-NTD.1	pET21a	Kan	none	lmnx	NTD	Synthetic	entry clone	309	LAB-184	L3	WFIX-006	H5	High, soluble, LOBSTR	
 FIX-0485	HRTA-NTD.1	pET53	Str	N-6his	hrta	NTD	Synthetic	entry clone	347	LAB-228	L1	WFIX-006	D2	High, soluble, LOBSTR	
 FIX-0486	STLN4-NTD.2	pACYCDuet-1	Spec	C-6his	stln4	NTD	M. musculus	cloning intermediate	239	LAB-207	L1	WFIX-007	A5	Low, inclusion bodies	
 FIX-0487	FKBX3.4	pRSFDuet-1	Cm	N-SUMO	fkbx3		S. cerevisiae	bacteria expression	301	LAB-114	L3	WFIX-007	A6	Low, inclusion bodies	W
 FIX-0488	GLSN.2	pGro7	Tet	N-GST	glsn		S. cerevisiae	insect expression	355	LAB-159	L1	WFIX-007	C2	Moderate, soluble	
 FIX-0489	MRTF2-full length.2	pGB1	Kan	N-MBP	mrtf2	full length	M. musculus	entry clone	161	LAB-160	L3	WFIX-007	B5	Insoluble at 37, soluble at 18	
 FIX-0490	RVDX.1	pET15b	Amp	N-6his	rvdx		E. coli	bacteria expression	161	LAB-108	L1	WFIX-007	C2	High, soluble, BL21(DE3)	
-FIX-0491	UbV FKBX3-WD40.3	pTXB1	Kan	N-SUMO	fkbx3	WD40	M. musculus	cloning intermediate	209	LAB-150	L3	WFIX-007	B4	High, soluble, BL21(DE3)	
+FIX-0491	var FKBX3-WD40.3	pTXB1	Kan	N-SUMO	fkbx3	WD40	M. musculus	cloning intermediate	209	LAB-150	L3	WFIX-007	B4	High, soluble, BL21(DE3)	
 FIX-0492	JNKL.3	pET21a	Cm	N-SUMO	jnkl		M. musculus	cloning intermediate	347	LAB-215	L2	WFIX-007	F9	High, soluble, BL21(DE3)	verify before use
 FIX-0493	VRLM.1	pET15b	Tet	C-strep tag II	vrlm		E. coli	bacteria expression	212	LAB-140	L2	WFIX-007	H8	Low, inclusion bodies	
 FIX-0494	YRBC-kinase.2	pCDFDuet-1	Amp	N-6his	yrbc	kinase	E. coli	insect expression	313	LAB-117	L3	WFIX-007	B7	Not tested	glycerol stock too
@@ -504,11 +504,11 @@ FIX-0502	TQRP-kinase.4	pETDuet-1	Amp	C-strep tag II	tqrp	kinase	S. cerevisiae	in
 FIX-0503	DPLX-CTD.3	pMAL-c5X	Cm	N-6his	dplx	CTD	Synthetic	cloning intermediate	199	LAB-242	L2	WFIX-007	B3	High, soluble, LOBSTR	
 FIX-0504	WDLK-WD40.1	pFastBac1	Tet	N-6his, C-strep tag II	wdlk	WD40	H. sapiens	cloning intermediate	236	LAB-174	L2	WFIX-007	B5	Moderate, soluble	W
 FIX-0505	PLTK.1	pQE30	Cm	N-6his, TEV	pltk		S. cerevisiae	mammalian expression	315	LAB-112	L2	WFIX-007	A8	Moderate, soluble	W
-FIX-0506	UbV BLNK2.1	pDONR221	Str	N-SUMO	blnk2		Synthetic	entry clone	375	LAB-126	L2	WFIX-007	A2	Low, inclusion bodies	
+FIX-0506	var BLNK2.1	pDONR221	Str	N-SUMO	blnk2		Synthetic	entry clone	375	LAB-126	L2	WFIX-007	A2	Low, inclusion bodies	
 FIX-0507	PLTK.3	pET21a	Tet	N-GST	pltk		S. cerevisiae	insect expression	351	LAB-181	L2	WFIX-007	C2	High, soluble, BL21(DE3)	
 FIX-0508	FKBX3-SH3.2	pSUMO	Str	N-6his, TEV	fkbx3	SH3	M. musculus	mammalian expression	118	LAB-226	L3	WFIX-007	A7	Low, inclusion bodies	
 FIX-0509	IVSD-WD40.4	pET53	Cm	C-strep tag II	ivsd	WD40	E. coli	mammalian expression	292	LAB-122	L3	WFIX-007	A8	Not tested	
-FIX-0510	UbV XNTP.2	pET28a	Tet	C-6his	xntp		H. sapiens	insect expression	148	LAB-152	L1	WFIX-007	D5	Not tested	sequenced
+FIX-0510	var XNTP.2	pET28a	Tet	C-6his	xntp		H. sapiens	insect expression	148	LAB-152	L1	WFIX-007	D5	Not tested	sequenced
 FIX-0511	CRDM.3	pET21a	Amp	C-6his	crdm		S. cerevisiae	insect expression	346	LAB-249	L2	WFIX-007	G6	High, soluble, LOBSTR	
 FIX-0512	GLSN.1	pACYCDuet-1	Cm	N-6his, C-strep tag II	glsn		Synthetic	mammalian expression	112	LAB-126	L1	WFIX-007	G5	Insoluble at 37, soluble at 18	sequenced
 FIX-0513	MRTF2.3	pCDFDuet-1	Amp	N-6his, TEV	mrtf2		H. sapiens	entry clone	184	LAB-145	L4	WFIX-007	I5	High, soluble, BL21(DE3)	verify before use
@@ -529,10 +529,10 @@ FIX-0527	XNTP-CTD.3	pFastBac1	Kan	N-6his, TEV	xntp	CTD	H. sapiens	entry clone	29
 FIX-0528	HRTA.2	pCDFDuet-1	Kan	none	hrta		Synthetic	insect expression	300	LAB-226	L2	WFIX-007	H5	Insoluble at 37, soluble at 18	verify before use
 FIX-0529	ORVC-NTD.4	pLVX	Spec	none	orvc	NTD	E. coli	mammalian expression	277	LAB-235	L2	WFIX-007	C4	High, soluble, BL21(DE3)	
 FIX-0530	VRLM.2	pET28a	Str	N-MBP	vrlm		H. sapiens	insect expression	328	LAB-162	L1	WFIX-007	C1	Moderate, soluble	sequenced
-FIX-0531	UbV KPRB-NTD.2	pLVX	Tet	none	kprb	NTD	Synthetic	insect expression	348	LAB-102	L2	WFIX-007	F4	Not tested	sequenced
+FIX-0531	var KPRB-NTD.2	pLVX	Tet	none	kprb	NTD	Synthetic	insect expression	348	LAB-102	L2	WFIX-007	F4	Not tested	sequenced
 FIX-0532	IVSD.1	pGB1	Amp	N-SUMO	ivsd		Synthetic	mammalian expression	52	LAB-198	L2	WFIX-007	I3	Low, inclusion bodies	
 FIX-0533	ARTX-WD40.3	pTXB1	Tet	N-MBP	artx	WD40	M. musculus	mammalian expression	27	LAB-109	L4	WFIX-007	H8	Not tested	
-FIX-0534	UbV TQRP.3	pRARE2	Amp	C-6his	tqrp		H. sapiens	bacteria expression	392	LAB-201	L4	WFIX-007	I5	High, soluble, LOBSTR	
+FIX-0534	var TQRP.3	pRARE2	Amp	C-6his	tqrp		H. sapiens	bacteria expression	392	LAB-201	L4	WFIX-007	I5	High, soluble, LOBSTR	
 FIX-0535	VRLM-full length.3	pUC19	Amp	N-GST	vrlm	full length	M. musculus	insect expression	359	LAB-166	L2	WFIX-007	C3	Low, inclusion bodies	verify before use
 FIX-0536	STLN4-PH.2	pMAL-c5X	Kan	N-SUMO	stln4	PH	H. sapiens	bacteria expression	186	LAB-199	L4	WFIX-007	A7	High, soluble, BL21(DE3)	
 FIX-0537	XNTP.4	pFastBac1	Cm	none	xntp		Synthetic	mammalian expression	130	LAB-166	L3	WFIX-007	A3	High, soluble, LOBSTR	verify before use
@@ -553,15 +553,15 @@ FIX-0551	YRBC-full length.1	pETDuet-1	Str	C-6his	yrbc	full length	S. cerevisiae	
 FIX-0552	PLTK.2	pRARE2	Spec	N-6his	pltk		S. cerevisiae	insect expression	231	LAB-130	L3	WFIX-007	B5	High, soluble, LOBSTR	
 FIX-0553	LMNX-NTD.1	pMAL-c5X	Tet	N-GST	lmnx	NTD	H. sapiens	bacteria expression	117	LAB-202	L4	WFIX-007	A2	Moderate, soluble	
 FIX-0554	XNTP.4	pGro7	Str	N-6his	xntp		E. coli	bacteria expression	373	LAB-179	L3	WFIX-007	G7	High, soluble, BL21(DE3)	
-FIX-0555	UbV GLSN.3	pcDNA3.1	Str	C-6his	glsn		Synthetic	cloning intermediate	67	LAB-131	L1	WFIX-007	F2	Moderate, soluble	
+FIX-0555	var GLSN.3	pcDNA3.1	Str	C-6his	glsn		Synthetic	cloning intermediate	67	LAB-131	L1	WFIX-007	F2	Moderate, soluble	
 FIX-0556	USHN.4	pCDFDuet-1	Str	N-GST	ushn		Synthetic	mammalian expression	372	LAB-205	L1	WFIX-007	I7	High, soluble, BL21(DE3)	
 FIX-0557	ARTX.3	pETDuet-1	Str	C-6his	artx		M. musculus	cloning intermediate	95	LAB-248	L3	WFIX-007	I4	High, soluble, BL21(DE3)	
-FIX-0558	UbV HRTA-PH.3	pET53	Tet	N-SUMO	hrta	PH	H. sapiens	cloning intermediate	293	LAB-102	L1	WFIX-007	D8	Not tested	
+FIX-0558	var HRTA-PH.3	pET53	Tet	N-SUMO	hrta	PH	H. sapiens	cloning intermediate	293	LAB-102	L1	WFIX-007	D8	Not tested	
 FIX-0559	MRTF2-NTD.1	pUC19	Tet	N-6his	mrtf2	NTD	Synthetic	cloning intermediate	391	LAB-171	L3	WFIX-007	I4	Insoluble at 37, soluble at 18	verify before use
 FIX-0560	KPRB-WD40.1	pGro7	Kan	N-SUMO	kprb	WD40	E. coli	entry clone	409	LAB-228	L4	WFIX-007	G8	Not tested	
 FIX-0561	ZPLQ.3	pET21a	Kan	C-strep tag II	zplq		H. sapiens	insect expression	407	LAB-171	L4	WFIX-007	A8	Not tested	
 FIX-0562	TQRP-full length.2	pET28a	Kan	N-6his, TEV	tqrp	full length	Synthetic	bacteria expression	131	LAB-213	L3	WFIX-007	A8	Not tested	
-FIX-0563	UbV DPLX.2	pMAL-c5X	Spec	N-SUMO	dplx		S. cerevisiae	bacteria expression	150	LAB-142	L2	WFIX-007	A6	High, soluble, BL21(DE3)	
+FIX-0563	var DPLX.2	pMAL-c5X	Spec	N-SUMO	dplx		S. cerevisiae	bacteria expression	150	LAB-142	L2	WFIX-007	A6	High, soluble, BL21(DE3)	
 FIX-0564	EVRN-BRCT.2	pET21a	Spec	N-MBP	evrn	BRCT	H. sapiens	entry clone	180	LAB-116	L3	WFIX-007	F1	High, soluble, BL21(DE3)	
 FIX-0565	ARTX.2	pGro7	Cm	C-strep tag II	artx		S. cerevisiae	mammalian expression	100	LAB-207	L3	WFIX-007	G4	Insoluble at 37, soluble at 18	W
 FIX-0566	CRDM.3	pUC19	Spec	N-SUMO	crdm		E. coli	cloning intermediate	103	LAB-157	L1	WFIX-007	F4	Moderate, soluble	
@@ -574,18 +574,18 @@ FIX-0572	JNKL.2	pETDuet-1	Amp	N-SUMO	jnkl		H. sapiens	insect expression	122	LAB-
 FIX-0573	CRDM.2	pFastBac1	Amp	C-6his	crdm		E. coli	entry clone	149	LAB-110	L3	WFIX-008	E9	High, soluble, LOBSTR	
 FIX-0574	RVDX.4	pACYCDuet-1	Kan	none	rvdx		H. sapiens	cloning intermediate	89	LAB-247	L3	WFIX-008	A3	Insoluble at 37, soluble at 18	sequenced
 FIX-0575	PLTK-kinase.3	pETDuet-1	Tet	C-strep tag II	pltk	kinase	M. musculus	entry clone	194	LAB-215	L4	WFIX-008	I6	High, soluble, LOBSTR	
-FIX-0576	UbV MRTF2.2	pGEX-6P-1	Amp	N-6his, C-strep tag II	mrtf2		M. musculus	insect expression	229	LAB-210	L3	WFIX-008	I6	High, soluble, LOBSTR	W
-FIX-0577	UbV FKBX3.2	pCDFDuet-1	Amp	C-6his	fkbx3		H. sapiens	mammalian expression	127	LAB-207	L2	WFIX-008	A1	High, soluble, LOBSTR	
+FIX-0576	var MRTF2.2	pGEX-6P-1	Amp	N-6his, C-strep tag II	mrtf2		M. musculus	insect expression	229	LAB-210	L3	WFIX-008	I6	High, soluble, LOBSTR	W
+FIX-0577	var FKBX3.2	pCDFDuet-1	Amp	C-6his	fkbx3		H. sapiens	mammalian expression	127	LAB-207	L2	WFIX-008	A1	High, soluble, LOBSTR	
 FIX-0578	BLNK2.2	pBAD33	Amp	N-SUMO	blnk2		S. cerevisiae	insect expression	264	LAB-207	L3	WFIX-008	A4	Not tested	verify before use
 FIX-0579	ORVC.2	pSUMO	Spec	N-GST	orvc		M. musculus	mammalian expression	221	LAB-198	L3	WFIX-008	H6	High, soluble, BL21(DE3)	
 FIX-0580	NDLS.1	pGEX-6P-1	Tet	none	ndls		H. sapiens	bacteria expression	342	LAB-111	L2	WFIX-008	D7	Not tested	
-FIX-0581	UbV CRDM.2	pCDFDuet-1	Kan	N-6his	crdm		S. cerevisiae	cloning intermediate	244	LAB-235	L2	WFIX-008	I3	High, soluble, LOBSTR	
+FIX-0581	var CRDM.2	pCDFDuet-1	Kan	N-6his	crdm		S. cerevisiae	cloning intermediate	244	LAB-235	L2	WFIX-008	I3	High, soluble, LOBSTR	
 FIX-0582	TQRP.4	pQE30	Kan	C-strep tag II	tqrp		M. musculus	cloning intermediate	203	LAB-238	L2	WFIX-008	A7	High, soluble, LOBSTR	
 FIX-0583	RVDX.1	pSUMO	Spec	N-6his, TEV	rvdx		S. cerevisiae	entry clone	101	LAB-168	L4	WFIX-008	H6	Not tested	
-FIX-0584	UbV LMNX.2	pSUMO	Str	N-SUMO	lmnx		H. sapiens	cloning intermediate	222	LAB-137	L2	WFIX-008	C2	Low, inclusion bodies	
+FIX-0584	var LMNX.2	pSUMO	Str	N-SUMO	lmnx		H. sapiens	cloning intermediate	222	LAB-137	L2	WFIX-008	C2	Low, inclusion bodies	
 FIX-0585	QRSM-PH.2	pBAD33	Kan	N-6his, C-strep tag II	qrsm	PH	M. musculus	bacteria expression	392	LAB-178	L4	WFIX-008	C3	Not tested	glycerol stock too
 FIX-0586	DPLX-BRCT.1	pMAL-c5X	Tet	N-MBP	dplx	BRCT	Synthetic	entry clone	237	LAB-249	L2	WFIX-008	C8	Low, inclusion bodies	sequenced
-FIX-0587	UbV IVSD.4	pET21a	Spec	N-SUMO	ivsd		Synthetic	insect expression	283	LAB-216	L4	WFIX-008	B4	Low, inclusion bodies	glycerol stock too
+FIX-0587	var IVSD.4	pET21a	Spec	N-SUMO	ivsd		Synthetic	insect expression	283	LAB-216	L4	WFIX-008	B4	Low, inclusion bodies	glycerol stock too
 FIX-0588	XNTP-BRCT.3	pUC19	Cm	N-MBP	xntp	BRCT	M. musculus	entry clone	269	LAB-189	L3	WFIX-008	C5	High, soluble, BL21(DE3)	sequenced
 FIX-0589	BLNK2.2	pRARE2	Cm	N-6his, TEV	blnk2		E. coli	mammalian expression	211	LAB-243	L1	WFIX-008	B2	Moderate, soluble	
 FIX-0590	ARTX.2	pRARE2	Tet	N-SUMO	artx		S. cerevisiae	insect expression	90	LAB-240	L2	WFIX-008	E5	Insoluble at 37, soluble at 18	glycerol stock too
@@ -602,10 +602,10 @@ FIX-0600	EVRN-full length.3	pET28a	Str	N-GST	evrn	full length	Synthetic	cloning 
 FIX-0601	VRLM-full length.3	pACYCDuet-1	Amp	N-SUMO	vrlm	full length	E. coli	bacteria expression	128	LAB-148	L3	WFIX-008	F1	Insoluble at 37, soluble at 18	
 FIX-0602	JNKL.3	pRSFDuet-1	Tet	N-GST	jnkl		H. sapiens	bacteria expression	155	LAB-231	L1	WFIX-008	I6	Not tested	glycerol stock too
 FIX-0603	VRLM.4	pGB1	Tet	N-6his	vrlm		M. musculus	bacteria expression	67	LAB-190	L4	WFIX-008	A2	High, soluble, BL21(DE3)	
-FIX-0604	UbV YRBC-NTD.2	pET21a	Str	N-SUMO	yrbc	NTD	S. cerevisiae	entry clone	374	LAB-108	L2	WFIX-008	H1	Insoluble at 37, soluble at 18	
+FIX-0604	var YRBC-NTD.2	pET21a	Str	N-SUMO	yrbc	NTD	S. cerevisiae	entry clone	374	LAB-108	L2	WFIX-008	H1	Insoluble at 37, soluble at 18	
 FIX-0605	VRLM-BRCT.4	pETDuet-1	Spec	N-MBP	vrlm	BRCT	H. sapiens	bacteria expression	353	LAB-127	L1	WFIX-008	B7	High, soluble, LOBSTR	
-FIX-0606	UbV ARTX.4	pGro7	Cm	N-GST	artx		Synthetic	entry clone	196	LAB-109	L2	WFIX-008	F2	Low, inclusion bodies	
-FIX-0607	UbV ZPLQ.3	pcDNA3.1	Spec	N-6his, C-strep tag II	zplq		M. musculus	insect expression	67	LAB-243	L1	WFIX-008	I7	High, soluble, BL21(DE3)	
+FIX-0606	var ARTX.4	pGro7	Cm	N-GST	artx		Synthetic	entry clone	196	LAB-109	L2	WFIX-008	F2	Low, inclusion bodies	
+FIX-0607	var ZPLQ.3	pcDNA3.1	Spec	N-6his, C-strep tag II	zplq		M. musculus	insect expression	67	LAB-243	L1	WFIX-008	I7	High, soluble, BL21(DE3)	
 FIX-0608	JNKL-kinase.3	pFastBac1	Amp	N-6his, C-strep tag II	jnkl	kinase	M. musculus	cloning intermediate	329	LAB-205	L4	WFIX-008	I5	High, soluble, LOBSTR	
 FIX-0609	JNKL.2	pCDFDuet-1	Spec	C-6his	jnkl		Synthetic	insect expression	299	LAB-175	L2	WFIX-008	C3	Not tested	verify before use
 FIX-0610	BLNK2-full length.2	pGro7	Kan	N-6his	blnk2	full length	E. coli	mammalian expression	385	LAB-179	L4	WFIX-008	E9	High, soluble, LOBSTR	
@@ -621,9 +621,9 @@ FIX-0619	QRSM-WD40.3	pCDFDuet-1	Str	N-GST	qrsm	WD40	M. musculus	entry clone	353	
 FIX-0620	GLSN-PH.4	pET53	Cm	N-6his	glsn	PH	M. musculus	entry clone	36	LAB-142	L3	WFIX-008	D8	High, soluble, BL21(DE3)	
 FIX-0621	STLN4.2	pCDFDuet-1	Kan	N-6his	stln4		H. sapiens	cloning intermediate	44	LAB-175	L1	WFIX-008	B2	Insoluble at 37, soluble at 18	
 FIX-0622	MRTF2.3	pBAD33	Cm	N-6his, C-strep tag II	mrtf2		Synthetic	insect expression	97	LAB-136	L4	WFIX-008	H7	Low, inclusion bodies	
-FIX-0623	UbV NDLS.2	pQE30	Str	N-6his, TEV	ndls		H. sapiens	bacteria expression	196	LAB-199	L1	WFIX-008	G9	Insoluble at 37, soluble at 18	
+FIX-0623	var NDLS.2	pQE30	Str	N-6his, TEV	ndls		H. sapiens	bacteria expression	196	LAB-199	L1	WFIX-008	G9	Insoluble at 37, soluble at 18	
 FIX-0624	KPRB-SH3.3	pDONR221	Kan	N-MBP	kprb	SH3	M. musculus	cloning intermediate	387	LAB-123	L4	WFIX-008	C5	Low, inclusion bodies	
-FIX-0625	UbV ORVC-full length.1	pcDNA3.1	Amp	N-6his, TEV	orvc	full length	M. musculus	cloning intermediate	118	LAB-103	L2	WFIX-008	F5	High, soluble, BL21(DE3)	
+FIX-0625	var ORVC-full length.1	pcDNA3.1	Amp	N-6his, TEV	orvc	full length	M. musculus	cloning intermediate	118	LAB-103	L2	WFIX-008	F5	High, soluble, BL21(DE3)	
 FIX-0626	KPRB-SH3.2	pFastBac1	Spec	N-6his, C-strep tag II	kprb	SH3	S. cerevisiae	entry clone	359	LAB-126	L3	WFIX-008	G3	Insoluble at 37, soluble at 18	
 FIX-0627	LMNX.1	pET53	Tet	N-MBP	lmnx		Synthetic	bacteria expression	62	LAB-113	L3	WFIX-008	G3	High, soluble, BL21(DE3)	
 FIX-0628	RVDX.4	pDONR221	Tet	N-MBP	rvdx		S. cerevisiae	mammalian expression	349	LAB-185	L3	WFIX-008	H8	Insoluble at 37, soluble at 18	sequenced
@@ -640,10 +640,10 @@ FIX-0638	USHN-kinase.1	pFastBac1	Tet	N-MBP	ushn	kinase	M. musculus	entry clone	2
 FIX-0639	CRDM-NTD.1	pET28a	Amp	C-strep tag II	crdm	NTD	E. coli	insect expression	290	LAB-205	L4	WFIX-008	A6	Insoluble at 37, soluble at 18	
 FIX-0640	MRTF2-PH.2	pBAD33	Tet	C-strep tag II	mrtf2	PH	H. sapiens	entry clone	15	LAB-235	L4	WFIX-008	E9	Insoluble at 37, soluble at 18	W
 FIX-0641	FKBX3-SH3.2	pUC19	Tet	N-6his, TEV	fkbx3	SH3	M. musculus	entry clone	210	LAB-200	L4	WFIX-008	H7	Moderate, soluble	sequenced
-FIX-0642	UbV ARTX.2	pUC19	Cm	N-6his	artx		S. cerevisiae	cloning intermediate	270	LAB-121	L1	WFIX-008	G8	High, soluble, LOBSTR	
+FIX-0642	var ARTX.2	pUC19	Cm	N-6his	artx		S. cerevisiae	cloning intermediate	270	LAB-121	L1	WFIX-008	G8	High, soluble, LOBSTR	
 FIX-0643	USHN-CTD.4	pET15b	Tet	N-6his, TEV	ushn	CTD	S. cerevisiae	entry clone	167	LAB-232	L1	WFIX-008	B5	High, soluble, BL21(DE3)	
 FIX-0644	BLNK2-NTD.4	pFastBac1	Str	N-MBP	blnk2	NTD	Synthetic	entry clone	159	LAB-150	L3	WFIX-008	D7	Not tested	
-FIX-0645	UbV MRTF2-kinase.4	pACYCDuet-1	Tet	N-SUMO	mrtf2	kinase	H. sapiens	entry clone	24	LAB-232	L2	WFIX-008	D1	Low, inclusion bodies	
+FIX-0645	var MRTF2-kinase.4	pACYCDuet-1	Tet	N-SUMO	mrtf2	kinase	H. sapiens	entry clone	24	LAB-232	L2	WFIX-008	D1	Low, inclusion bodies	
 FIX-0646	YRBC-CTD.4	pRARE2	Cm	N-6his	yrbc	CTD	M. musculus	entry clone	236	LAB-241	L2	WFIX-008	E7	Low, inclusion bodies	
 FIX-0647	KPRB.1	pRARE2	Spec	N-GST	kprb		Synthetic	bacteria expression	159	LAB-174	L3	WFIX-008	H8	Moderate, soluble	
 FIX-0648	IVSD.4	pcDNA3.1	Str	N-6his, C-strep tag II	ivsd		Synthetic	cloning intermediate	28	LAB-218	L4	WFIX-009	H2	Not tested	
@@ -658,21 +658,21 @@ FIX-0656	PLTK-BRCT.4	pUC19	Str	N-6his, TEV	pltk	BRCT	S. cerevisiae	entry clone	1
 FIX-0657	STLN4-full length.1	pQE30	Spec	N-6his, C-strep tag II	stln4	full length	E. coli	cloning intermediate	102	LAB-155	L2	WFIX-009	B2	Not tested	
 FIX-0658	XNTP-PH.4	pUC19	Kan	N-6his	xntp	PH	H. sapiens	entry clone	404	LAB-106	L4	WFIX-009	G1	Low, inclusion bodies	
 FIX-0659	EVRN.3	pACYCDuet-1	Spec	N-6his, TEV	evrn		M. musculus	insect expression	189	LAB-133	L1	WFIX-009	I3	Low, inclusion bodies	
-FIX-0660	UbV GLSN-WD40.4	pQE30	Spec	N-6his, TEV	glsn	WD40	E. coli	mammalian expression	382	LAB-198	L3	WFIX-009	A4	Not tested	
+FIX-0660	var GLSN-WD40.4	pQE30	Spec	N-6his, TEV	glsn	WD40	E. coli	mammalian expression	382	LAB-198	L3	WFIX-009	A4	Not tested	
 FIX-0661	IVSD.4	pET53	Kan	N-GST	ivsd		H. sapiens	mammalian expression	331	LAB-140	L4	WFIX-009	I5	Insoluble at 37, soluble at 18	
-FIX-0662	UbV ORVC-kinase.2	pFastBac1	Cm	C-strep tag II	orvc	kinase	M. musculus	cloning intermediate	414	LAB-239	L3	WFIX-009	A8	High, soluble, LOBSTR	
+FIX-0662	var ORVC-kinase.2	pFastBac1	Cm	C-strep tag II	orvc	kinase	M. musculus	cloning intermediate	414	LAB-239	L3	WFIX-009	A8	High, soluble, LOBSTR	
 FIX-0663	JNKL-full length.1	pET28a	Spec	none	jnkl	full length	Synthetic	mammalian expression	334	LAB-156	L1	WFIX-009	G7	High, soluble, BL21(DE3)	verify before use
 FIX-0664	FKBX3-CTD.4	pETDuet-1	Str	none	fkbx3	CTD	Synthetic	cloning intermediate	276	LAB-142	L4	WFIX-009	C2	Not tested	
 FIX-0665	MRTF2.3	pET28a	Cm	C-strep tag II	mrtf2		Synthetic	mammalian expression	270	LAB-216	L4	WFIX-009	D4	High, soluble, LOBSTR	
 FIX-0666	STLN4-WD40.1	pGB1	Tet	N-6his, C-strep tag II	stln4	WD40	S. cerevisiae	insect expression	289	LAB-221	L1	WFIX-009	H9	Low, inclusion bodies	verify before use
-FIX-0667	UbV RVDX.4	pACYCDuet-1	Cm	N-6his	rvdx		M. musculus	mammalian expression	359	LAB-159	L2	WFIX-009	H4	High, soluble, BL21(DE3)	
+FIX-0667	var RVDX.4	pACYCDuet-1	Cm	N-6his	rvdx		M. musculus	mammalian expression	359	LAB-159	L2	WFIX-009	H4	High, soluble, BL21(DE3)	
 FIX-0668	USHN.4	pTXB1	Kan	C-6his	ushn		H. sapiens	insect expression	112	LAB-168	L4	WFIX-009	E9	High, soluble, BL21(DE3)	
 FIX-0669	DPLX-kinase.1	pETDuet-1	Spec	C-6his	dplx	kinase	E. coli	insect expression	306	LAB-139	L4	WFIX-009	A1	High, soluble, LOBSTR	sequenced
 FIX-0670	NDLS.1	pRSFDuet-1	Tet	N-SUMO	ndls		S. cerevisiae	bacteria expression	40	LAB-140	L1	WFIX-009	C1	Moderate, soluble	sequenced
 FIX-0671	USHN.3	pCDFDuet-1	Kan	N-6his	ushn		E. coli	entry clone	376	LAB-191	L2	WFIX-009	C2	Not tested	
-FIX-0672	UbV PLTK.3	pET28a	Amp	N-SUMO	pltk		E. coli	entry clone	373	LAB-224	L2	WFIX-009	E1	Low, inclusion bodies	
+FIX-0672	var PLTK.3	pET28a	Amp	N-SUMO	pltk		E. coli	entry clone	373	LAB-224	L2	WFIX-009	E1	Low, inclusion bodies	
 FIX-0673	YRBC.1	pQE30	Kan	none	yrbc		E. coli	entry clone	345	LAB-241	L2	WFIX-009	E2	High, soluble, BL21(DE3)	glycerol stock too
-FIX-0674	UbV WDLK.3	pGB1	Spec	N-6his, C-strep tag II	wdlk		H. sapiens	entry clone	165	LAB-221	L1	WFIX-009	A1	Insoluble at 37, soluble at 18	
+FIX-0674	var WDLK.3	pGB1	Spec	N-6his, C-strep tag II	wdlk		H. sapiens	entry clone	165	LAB-221	L1	WFIX-009	A1	Insoluble at 37, soluble at 18	
 FIX-0675	DPLX-full length.3	pET28a	Kan	N-6his, TEV	dplx	full length	Synthetic	mammalian expression	30	LAB-168	L3	WFIX-009	B8	Not tested	
 FIX-0676	QRSM-NTD.2	pCDFDuet-1	Tet	N-MBP	qrsm	NTD	H. sapiens	insect expression	211	LAB-231	L2	WFIX-009	E4	Low, inclusion bodies	
 FIX-0677	IVSD-PH.3	pFastBac1	Amp	none	ivsd	PH	E. coli	cloning intermediate	275	LAB-160	L4	WFIX-009	C1	High, soluble, LOBSTR	glycerol stock too
@@ -683,7 +683,7 @@ FIX-0681	JNKL-CTD.1	pQE30	Cm	N-6his, C-strep tag II	jnkl	CTD	S. cerevisiae	entry
 FIX-0682	CRDM.3	pGB1	Cm	N-GST	crdm		H. sapiens	bacteria expression	117	LAB-149	L4	WFIX-009	D2	Low, inclusion bodies	
 FIX-0683	NDLS-kinase.2	pGB1	Kan	C-6his	ndls	kinase	S. cerevisiae	insect expression	339	LAB-117	L3	WFIX-009	D5	Insoluble at 37, soluble at 18	
 FIX-0684	VRLM-BRCT.1	pMAL-c5X	Kan	C-6his	vrlm	BRCT	H. sapiens	entry clone	232	LAB-203	L1	WFIX-009	C4	Low, inclusion bodies	sequenced
-FIX-0685	UbV STLN4-CTD.2	pETDuet-1	Spec	N-6his, TEV	stln4	CTD	E. coli	insect expression	187	LAB-198	L1	WFIX-009	E4	High, soluble, BL21(DE3)	sequenced
+FIX-0685	var STLN4-CTD.2	pETDuet-1	Spec	N-6his, TEV	stln4	CTD	E. coli	insect expression	187	LAB-198	L1	WFIX-009	E4	High, soluble, BL21(DE3)	sequenced
 FIX-0686	STLN4.2	pTXB1	Kan	none	stln4		H. sapiens	mammalian expression	55	LAB-198	L1	WFIX-009	H6	High, soluble, BL21(DE3)	
 FIX-0687	CRDM-kinase.3	pCDFDuet-1	Kan	N-SUMO	crdm	kinase	H. sapiens	cloning intermediate	298	LAB-200	L1	WFIX-009	F3	Low, inclusion bodies	glycerol stock too
 FIX-0688	ORVC-CTD.3	pcDNA3.1	Kan	N-6his, C-strep tag II	orvc	CTD	S. cerevisiae	insect expression	267	LAB-212	L1	WFIX-009	I7	High, soluble, LOBSTR	
@@ -691,28 +691,28 @@ FIX-0689	KPRB-WD40.2	pLVX	Amp	N-SUMO	kprb	WD40	M. musculus	insect expression	285
 FIX-0690	CRDM-PH.2	pQE30	Tet	N-6his	crdm	PH	H. sapiens	insect expression	296	LAB-206	L4	WFIX-009	B7	Low, inclusion bodies	
 FIX-0691	TQRP-WD40.3	pRSFDuet-1	Tet	N-GST	tqrp	WD40	H. sapiens	entry clone	251	LAB-207	L3	WFIX-009	A6	Insoluble at 37, soluble at 18	W
 FIX-0692	QRSM-CTD.1	pDONR221	Str	C-6his	qrsm	CTD	E. coli	mammalian expression	192	LAB-137	L2	WFIX-009	I9	High, soluble, BL21(DE3)	
-FIX-0693	UbV CRDM-NTD.1	pET15b	Str	C-6his	crdm	NTD	E. coli	insect expression	402	LAB-104	L4	WFIX-009	I2	Low, inclusion bodies	glycerol stock too
+FIX-0693	var CRDM-NTD.1	pET15b	Str	C-6his	crdm	NTD	E. coli	insect expression	402	LAB-104	L4	WFIX-009	I2	Low, inclusion bodies	glycerol stock too
 FIX-0694	QRSM-NTD.3	pDONR221	Spec	N-GST	qrsm	NTD	E. coli	cloning intermediate	398	LAB-240	L3	WFIX-009	C4	High, soluble, BL21(DE3)	
 FIX-0695	YRBC.1	pET53	Str	N-6his, TEV	yrbc		S. cerevisiae	mammalian expression	49	LAB-194	L2	WFIX-009	C5	Not tested	glycerol stock too
 FIX-0696	ORVC-WD40.2	pTXB1	Tet	N-GST	orvc	WD40	M. musculus	mammalian expression	340	LAB-109	L3	WFIX-009	D7	High, soluble, BL21(DE3)	
 FIX-0697	NDLS-CTD.1	pET28a	Str	N-6his	ndls	CTD	Synthetic	entry clone	224	LAB-235	L2	WFIX-009	D7	Low, inclusion bodies	
 FIX-0698	USHN-NTD.1	pTXB1	Tet	N-MBP	ushn	NTD	Synthetic	mammalian expression	110	LAB-231	L3	WFIX-009	E3	Moderate, soluble	verify before use
-FIX-0699	UbV IVSD-BRCT.3	pRSFDuet-1	Cm	N-SUMO	ivsd	BRCT	E. coli	insect expression	378	LAB-238	L1	WFIX-009	G7	High, soluble, BL21(DE3)	
+FIX-0699	var IVSD-BRCT.3	pRSFDuet-1	Cm	N-SUMO	ivsd	BRCT	E. coli	insect expression	378	LAB-238	L1	WFIX-009	G7	High, soluble, BL21(DE3)	
 FIX-0700	PLTK-PH.2	pETDuet-1	Spec	N-6his, TEV	pltk	PH	S. cerevisiae	insect expression	156	LAB-116	L4	WFIX-009	D6	Not tested	
 FIX-0701	XNTP-NTD.2	pMAL-c5X	Tet	none	xntp	NTD	Synthetic	cloning intermediate	59	LAB-248	L2	WFIX-009	D8	High, soluble, LOBSTR	
 FIX-0702	RVDX.4	pGEX-6P-1	Spec	N-SUMO	rvdx		M. musculus	entry clone	190	LAB-100	L1	WFIX-009	H6	Moderate, soluble	
-FIX-0703	UbV PLTK.3	pET15b	Str	none	pltk		Synthetic	mammalian expression	142	LAB-101	L2	WFIX-009	B7	Insoluble at 37, soluble at 18	
+FIX-0703	var PLTK.3	pET15b	Str	none	pltk		Synthetic	mammalian expression	142	LAB-101	L2	WFIX-009	B7	Insoluble at 37, soluble at 18	
 FIX-0704	GLSN-CTD.1	pMAL-c5X	Spec	N-6his, TEV	glsn	CTD	Synthetic	bacteria expression	169	LAB-231	L3	WFIX-009	H2	High, soluble, LOBSTR	
-FIX-0705	UbV EVRN-WD40.4	pET15b	Spec	N-6his, C-strep tag II	evrn	WD40	S. cerevisiae	bacteria expression	366	LAB-147	L3	WFIX-009	D1	Low, inclusion bodies	glycerol stock too
+FIX-0705	var EVRN-WD40.4	pET15b	Spec	N-6his, C-strep tag II	evrn	WD40	S. cerevisiae	bacteria expression	366	LAB-147	L3	WFIX-009	D1	Low, inclusion bodies	glycerol stock too
 FIX-0706	YRBC.4	pRARE2	Str	N-MBP	yrbc		E. coli	entry clone	394	LAB-151	L4	WFIX-009	H4	High, soluble, LOBSTR	W
-FIX-0707	UbV YRBC.4	pGEX-6P-1	Spec	N-6his, C-strep tag II	yrbc		Synthetic	bacteria expression	173	LAB-218	L4	WFIX-009	F5	Low, inclusion bodies	verify before use
-FIX-0708	UbV PLTK-SH3.2	pMAL-c5X	Spec	N-MBP	pltk	SH3	M. musculus	cloning intermediate	45	LAB-233	L3	WFIX-009	E6	Not tested	sequenced
+FIX-0707	var YRBC.4	pGEX-6P-1	Spec	N-6his, C-strep tag II	yrbc		Synthetic	bacteria expression	173	LAB-218	L4	WFIX-009	F5	Low, inclusion bodies	verify before use
+FIX-0708	var PLTK-SH3.2	pMAL-c5X	Spec	N-MBP	pltk	SH3	M. musculus	cloning intermediate	45	LAB-233	L3	WFIX-009	E6	Not tested	sequenced
 FIX-0709	BLNK2-NTD.3	pET21a	Amp	N-6his, C-strep tag II	blnk2	NTD	M. musculus	insect expression	217	LAB-221	L4	WFIX-009	H8	High, soluble, BL21(DE3)	
 FIX-0710	HRTA.3	pACYCDuet-1	Spec	N-GST	hrta		H. sapiens	mammalian expression	199	LAB-191	L2	WFIX-009	C8	Low, inclusion bodies	W
 FIX-0711	RVDX.4	pETDuet-1	Str	N-6his	rvdx		S. cerevisiae	insect expression	281	LAB-124	L2	WFIX-009	E9	Insoluble at 37, soluble at 18	glycerol stock too
 FIX-0712	PLTK.3	pGB1	Kan	N-6his	pltk		M. musculus	insect expression	57	LAB-197	L2	WFIX-009	E2	Moderate, soluble	
 FIX-0713	EVRN-BRCT.2	pCDFDuet-1	Amp	none	evrn	BRCT	E. coli	entry clone	359	LAB-161	L1	WFIX-009	I3	Moderate, soluble	
-FIX-0714	UbV ORVC.1	pUC19	Str	N-GST	orvc		E. coli	insect expression	254	LAB-131	L2	WFIX-009	F4	High, soluble, LOBSTR	W
+FIX-0714	var ORVC.1	pUC19	Str	N-GST	orvc		E. coli	insect expression	254	LAB-131	L2	WFIX-009	F4	High, soluble, LOBSTR	W
 FIX-0715	CRDM.4	pLVX	Kan	none	crdm		Synthetic	mammalian expression	356	LAB-239	L1	WFIX-009	H9	High, soluble, LOBSTR	
 FIX-0716	CRDM.3	pLVX	Cm	C-strep tag II	crdm		M. musculus	insect expression	345	LAB-220	L2	WFIX-009	H5	High, soluble, BL21(DE3)	
 FIX-0717	ARTX.1	pQE30	Spec	N-SUMO	artx		S. cerevisiae	entry clone	19	LAB-161	L3	WFIX-009	D3	Not tested	
@@ -731,9 +731,9 @@ FIX-0729	USHN-PH.3	pSUMO	Tet	N-MBP	ushn	PH	E. coli	mammalian expression	278	LAB-
 FIX-0730	KPRB-CTD.3	pQE30	Str	N-6his	kprb	CTD	Synthetic	entry clone	41	LAB-141	L2	WFIX-010	G9	High, soluble, LOBSTR	
 FIX-0731	ORVC-NTD.4	pLVX	Str	N-6his, TEV	orvc	NTD	M. musculus	entry clone	408	LAB-122	L1	WFIX-010	D8	Low, inclusion bodies	sequenced
 FIX-0732	JNKL-full length.2	pET28a	Amp	N-6his	jnkl	full length	Synthetic	mammalian expression	325	LAB-136	L3	WFIX-010	F3	Insoluble at 37, soluble at 18	
-FIX-0733	UbV VRLM.1	pGro7	Spec	C-strep tag II	vrlm		E. coli	cloning intermediate	314	LAB-148	L3	WFIX-010	G6	Moderate, soluble	
+FIX-0733	var VRLM.1	pGro7	Spec	C-strep tag II	vrlm		E. coli	cloning intermediate	314	LAB-148	L3	WFIX-010	G6	Moderate, soluble	
 FIX-0734	YRBC-kinase.4	pRARE2	Spec	none	yrbc	kinase	Synthetic	insect expression	226	LAB-197	L2	WFIX-010	C3	Low, inclusion bodies	W
-FIX-0735	UbV EVRN-BRCT.3	pETDuet-1	Tet	N-SUMO	evrn	BRCT	Synthetic	cloning intermediate	84	LAB-157	L4	WFIX-010	D8	Insoluble at 37, soluble at 18	
+FIX-0735	var EVRN-BRCT.3	pETDuet-1	Tet	N-SUMO	evrn	BRCT	Synthetic	cloning intermediate	84	LAB-157	L4	WFIX-010	D8	Insoluble at 37, soluble at 18	
 FIX-0736	MRTF2-SH3.1	pET28a	Spec	N-SUMO	mrtf2	SH3	H. sapiens	cloning intermediate	346	LAB-138	L2	WFIX-010	E8	Insoluble at 37, soluble at 18	W
 FIX-0737	WDLK.3	pMAL-c5X	Tet	C-6his	wdlk		H. sapiens	entry clone	326	LAB-235	L4	WFIX-010	E6	Moderate, soluble	
 FIX-0738	MRTF2.4	pSUMO	Spec	N-6his	mrtf2		M. musculus	insect expression	346	LAB-223	L3	WFIX-010	C1	Low, inclusion bodies	
@@ -741,13 +741,13 @@ FIX-0739	WDLK.3	pLVX	Cm	N-SUMO	wdlk		Synthetic	bacteria expression	268	LAB-191	L
 FIX-0740	EVRN.1	pQE30	Amp	C-6his	evrn		S. cerevisiae	bacteria expression	216	LAB-108	L3	WFIX-010	G7	Moderate, soluble	
 FIX-0741	PLTK.1	pET21a	Str	N-6his, C-strep tag II	pltk		Synthetic	bacteria expression	164	LAB-204	L3	WFIX-010	C9	Not tested	glycerol stock too
 FIX-0742	ZPLQ-NTD.3	pGro7	Cm	none	zplq	NTD	S. cerevisiae	cloning intermediate	36	LAB-114	L2	WFIX-010	F1	High, soluble, LOBSTR	sequenced
-FIX-0743	UbV STLN4.2	pETDuet-1	Str	N-SUMO	stln4		H. sapiens	cloning intermediate	336	LAB-151	L4	WFIX-010	C7	Insoluble at 37, soluble at 18	sequenced
+FIX-0743	var STLN4.2	pETDuet-1	Str	N-SUMO	stln4		H. sapiens	cloning intermediate	336	LAB-151	L4	WFIX-010	C7	Insoluble at 37, soluble at 18	sequenced
 FIX-0744	HRTA-WD40.1	pBAD33	Cm	N-MBP	hrta	WD40	S. cerevisiae	cloning intermediate	259	LAB-155	L3	WFIX-010	D4	Low, inclusion bodies	
 FIX-0745	YRBC-NTD.2	pETDuet-1	Tet	none	yrbc	NTD	H. sapiens	mammalian expression	315	LAB-143	L3	WFIX-010	A1	Insoluble at 37, soluble at 18	glycerol stock too
 FIX-0746	USHN-WD40.2	pMAL-c5X	Tet	N-6his, TEV	ushn	WD40	S. cerevisiae	bacteria expression	170	LAB-196	L1	WFIX-010	B9	Insoluble at 37, soluble at 18	
 FIX-0747	IVSD.4	pGB1	Cm	N-MBP	ivsd		H. sapiens	cloning intermediate	37	LAB-132	L3	WFIX-010	B5	Low, inclusion bodies	
 FIX-0748	VRLM-kinase.3	pDONR221	Amp	C-strep tag II	vrlm	kinase	S. cerevisiae	bacteria expression	386	LAB-183	L1	WFIX-010	H6	Not tested	
-FIX-0749	UbV JNKL-WD40.2	pQE30	Spec	N-6his	jnkl	WD40	Synthetic	entry clone	145	LAB-196	L4	WFIX-010	C2	Moderate, soluble	
+FIX-0749	var JNKL-WD40.2	pQE30	Spec	N-6his	jnkl	WD40	Synthetic	entry clone	145	LAB-196	L4	WFIX-010	C2	Moderate, soluble	
 FIX-0750	BLNK2.1	pETDuet-1	Str	none	blnk2		S. cerevisiae	cloning intermediate	73	LAB-118	L2	WFIX-010	D7	High, soluble, BL21(DE3)	
 FIX-0751	STLN4-PH.3	pGro7	Kan	N-6his	stln4	PH	H. sapiens	insect expression	205	LAB-127	L2	WFIX-010	B2	High, soluble, BL21(DE3)	
 FIX-0752	ORVC.3	pMAL-c5X	Amp	N-GST	orvc		S. cerevisiae	bacteria expression	179	LAB-145	L1	WFIX-010	E6	High, soluble, BL21(DE3)	
@@ -757,49 +757,49 @@ FIX-0755	TQRP-NTD.2	pGB1	Kan	N-6his, C-strep tag II	tqrp	NTD	S. cerevisiae	mamma
 FIX-0756	YRBC-kinase.2	pDONR221	Str	N-MBP	yrbc	kinase	H. sapiens	mammalian expression	175	LAB-197	L3	WFIX-010	G9	Moderate, soluble	W
 FIX-0757	ARTX.4	pcDNA3.1	Amp	N-6his	artx		S. cerevisiae	bacteria expression	36	LAB-186	L1	WFIX-010	G4	High, soluble, BL21(DE3)	
 FIX-0758	PLTK-full length.2	pTXB1	Spec	N-6his	pltk	full length	E. coli	bacteria expression	134	LAB-100	L4	WFIX-010	H9	High, soluble, BL21(DE3)	verify before use
-FIX-0759	UbV ZPLQ.2	pCDFDuet-1	Str	N-6his, C-strep tag II	zplq		E. coli	bacteria expression	410	LAB-233	L4	WFIX-010	G5	High, soluble, LOBSTR	
+FIX-0759	var ZPLQ.2	pCDFDuet-1	Str	N-6his, C-strep tag II	zplq		E. coli	bacteria expression	410	LAB-233	L4	WFIX-010	G5	High, soluble, LOBSTR	
 FIX-0760	EVRN.4	pGB1	Str	C-6his	evrn		M. musculus	bacteria expression	274	LAB-198	L3	WFIX-010	I8	High, soluble, LOBSTR	W
 FIX-0761	XNTP.2	pDONR221	Str	none	xntp		H. sapiens	entry clone	79	LAB-239	L4	WFIX-010	B4	High, soluble, BL21(DE3)	
 FIX-0762	GLSN-WD40.1	pETDuet-1	Str	N-SUMO	glsn	WD40	Synthetic	insect expression	80	LAB-165	L4	WFIX-010	B6	Moderate, soluble	
 FIX-0763	EVRN.4	pET15b	Amp	none	evrn		S. cerevisiae	bacteria expression	385	LAB-159	L4	WFIX-010	C6	High, soluble, LOBSTR	
-FIX-0764	UbV STLN4.2	pET53	Str	C-6his	stln4		H. sapiens	cloning intermediate	367	LAB-103	L2	WFIX-010	C5	Moderate, soluble	sequenced
-FIX-0765	UbV TQRP-WD40.3	pFastBac1	Kan	N-MBP	tqrp	WD40	E. coli	insect expression	312	LAB-135	L4	WFIX-010	D6	Low, inclusion bodies	verify before use
+FIX-0764	var STLN4.2	pET53	Str	C-6his	stln4		H. sapiens	cloning intermediate	367	LAB-103	L2	WFIX-010	C5	Moderate, soluble	sequenced
+FIX-0765	var TQRP-WD40.3	pFastBac1	Kan	N-MBP	tqrp	WD40	E. coli	insect expression	312	LAB-135	L4	WFIX-010	D6	Low, inclusion bodies	verify before use
 FIX-0766	RVDX.1	pGB1	Kan	N-6his, TEV	rvdx		E. coli	mammalian expression	398	LAB-181	L2	WFIX-010	F4	High, soluble, LOBSTR	W
 FIX-0767	ARTX.4	pSUMO	Str	N-MBP	artx		E. coli	mammalian expression	98	LAB-183	L2	WFIX-010	H1	Not tested	
 FIX-0768	QRSM-PH.3	pDONR221	Amp	none	qrsm	PH	S. cerevisiae	insect expression	244	LAB-163	L2	WFIX-010	A1	High, soluble, BL21(DE3)	sequenced
 FIX-0769	ARTX.4	pBAD33	Tet	C-strep tag II	artx		H. sapiens	entry clone	360	LAB-123	L4	WFIX-010	C1	High, soluble, LOBSTR	
-FIX-0770	UbV MRTF2-CTD.3	pCDFDuet-1	Str	C-strep tag II	mrtf2	CTD	S. cerevisiae	bacteria expression	398	LAB-141	L1	WFIX-010	I3	Not tested	
+FIX-0770	var MRTF2-CTD.3	pCDFDuet-1	Str	C-strep tag II	mrtf2	CTD	S. cerevisiae	bacteria expression	398	LAB-141	L1	WFIX-010	I3	Not tested	
 FIX-0771	FKBX3-CTD.3	pDONR221	Kan	N-6his, TEV	fkbx3	CTD	M. musculus	mammalian expression	21	LAB-149	L4	WFIX-010	A9	Low, inclusion bodies	
 FIX-0772	STLN4-full length.2	pETDuet-1	Amp	C-strep tag II	stln4	full length	H. sapiens	cloning intermediate	174	LAB-194	L3	WFIX-010	F7	Not tested	W
-FIX-0773	UbV ARTX.3	pSUMO	Spec	N-6his	artx		E. coli	bacteria expression	45	LAB-115	L3	WFIX-010	B4	Low, inclusion bodies	
+FIX-0773	var ARTX.3	pSUMO	Spec	N-6his	artx		E. coli	bacteria expression	45	LAB-115	L3	WFIX-010	B4	Low, inclusion bodies	
 FIX-0774	CRDM.2	pGEX-6P-1	Spec	N-SUMO	crdm		M. musculus	bacteria expression	212	LAB-160	L1	WFIX-010	B1	Not tested	
-FIX-0775	UbV VRLM.2	pACYCDuet-1	Str	none	vrlm		H. sapiens	cloning intermediate	209	LAB-230	L2	WFIX-010	B1	Not tested	sequenced
+FIX-0775	var VRLM.2	pACYCDuet-1	Str	none	vrlm		H. sapiens	cloning intermediate	209	LAB-230	L2	WFIX-010	B1	Not tested	sequenced
 FIX-0776	VRLM.2	pLVX	Tet	C-6his	vrlm		M. musculus	cloning intermediate	39	LAB-198	L4	WFIX-010	H5	High, soluble, LOBSTR	
 FIX-0777	DPLX-SH3.2	pGEX-6P-1	Amp	N-6his, TEV	dplx	SH3	E. coli	insect expression	143	LAB-222	L4	WFIX-010	E1	Moderate, soluble	
 FIX-0778	NDLS.3	pGro7	Cm	C-6his	ndls		H. sapiens	cloning intermediate	342	LAB-242	L4	WFIX-010	D2	Insoluble at 37, soluble at 18	
 FIX-0779	CRDM.1	pET21a	Cm	N-6his	crdm		Synthetic	bacteria expression	108	LAB-160	L3	WFIX-010	D3	Insoluble at 37, soluble at 18	glycerol stock too
 FIX-0780	HRTA.2	pET53	Spec	none	hrta		Synthetic	bacteria expression	394	LAB-203	L2	WFIX-010	F7	Moderate, soluble	verify before use
-FIX-0781	UbV HRTA-full length.4	pETDuet-1	Amp	C-strep tag II	hrta	full length	Synthetic	entry clone	87	LAB-206	L3	WFIX-010	B5	Low, inclusion bodies	
+FIX-0781	var HRTA-full length.4	pETDuet-1	Amp	C-strep tag II	hrta	full length	Synthetic	entry clone	87	LAB-206	L3	WFIX-010	B5	Low, inclusion bodies	
 FIX-0782	CRDM.2	pQE30	Tet	N-6his	crdm		E. coli	mammalian expression	155	LAB-148	L4	WFIX-010	H8	Not tested	
 FIX-0783	HRTA-SH3.1	pTXB1	Amp	N-MBP	hrta	SH3	M. musculus	mammalian expression	252	LAB-244	L4	WFIX-010	F6	Not tested	
 FIX-0784	RVDX-WD40.2	pRARE2	Tet	N-GST	rvdx	WD40	H. sapiens	cloning intermediate	268	LAB-100	L3	WFIX-010	H8	Low, inclusion bodies	
-FIX-0785	UbV JNKL.3	pACYCDuet-1	Spec	N-6his, TEV	jnkl		E. coli	cloning intermediate	16	LAB-202	L1	WFIX-010	B9	High, soluble, BL21(DE3)	
+FIX-0785	var JNKL.3	pACYCDuet-1	Spec	N-6his, TEV	jnkl		E. coli	cloning intermediate	16	LAB-202	L1	WFIX-010	B9	High, soluble, BL21(DE3)	
 FIX-0786	XNTP.4	pGEX-6P-1	Kan	N-SUMO	xntp		Synthetic	cloning intermediate	305	LAB-230	L1	WFIX-010	D5	Not tested	
 FIX-0787	CRDM-kinase.2	pRSFDuet-1	Cm	N-6his, C-strep tag II	crdm	kinase	H. sapiens	cloning intermediate	43	LAB-170	L1	WFIX-010	A9	High, soluble, BL21(DE3)	
 FIX-0788	EVRN-PH.4	pUC19	Spec	N-SUMO	evrn	PH	S. cerevisiae	mammalian expression	367	LAB-239	L3	WFIX-010	G7	Not tested	
 FIX-0789	MRTF2-CTD.4	pSUMO	Tet	C-strep tag II	mrtf2	CTD	E. coli	bacteria expression	143	LAB-119	L4	WFIX-010	H5	Moderate, soluble	
-FIX-0790	UbV IVSD-full length.3	pFastBac1	Str	N-6his, C-strep tag II	ivsd	full length	E. coli	mammalian expression	90	LAB-236	L1	WFIX-010	G1	Not tested	glycerol stock too
-FIX-0791	UbV JNKL-SH3.1	pFastBac1	Amp	N-SUMO	jnkl	SH3	Synthetic	entry clone	173	LAB-215	L1	WFIX-010	A8	Low, inclusion bodies	
+FIX-0790	var IVSD-full length.3	pFastBac1	Str	N-6his, C-strep tag II	ivsd	full length	E. coli	mammalian expression	90	LAB-236	L1	WFIX-010	G1	Not tested	glycerol stock too
+FIX-0791	var JNKL-SH3.1	pFastBac1	Amp	N-SUMO	jnkl	SH3	Synthetic	entry clone	173	LAB-215	L1	WFIX-010	A8	Low, inclusion bodies	
 FIX-0792	ZPLQ.3	pLVX	Kan	none	zplq		S. cerevisiae	cloning intermediate	128	LAB-112	L3	WFIX-010	B8	Low, inclusion bodies	
 FIX-0793	ZPLQ.4	pBAD33	Str	N-SUMO	zplq		E. coli	entry clone	380	LAB-196	L1	WFIX-010	A3	High, soluble, BL21(DE3)	
-FIX-0794	UbV FKBX3.3	pGEX-6P-1	Tet	N-6his	fkbx3		M. musculus	mammalian expression	88	LAB-181	L3	WFIX-010	C9	Low, inclusion bodies	glycerol stock too
+FIX-0794	var FKBX3.3	pGEX-6P-1	Tet	N-6his	fkbx3		M. musculus	mammalian expression	88	LAB-181	L3	WFIX-010	C9	Low, inclusion bodies	glycerol stock too
 FIX-0795	HRTA.3	pQE30	Str	N-SUMO	hrta		S. cerevisiae	mammalian expression	15	LAB-199	L4	WFIX-010	I3	High, soluble, BL21(DE3)	glycerol stock too
 FIX-0796	MRTF2.4	pQE30	Cm	N-6his	mrtf2		M. musculus	entry clone	114	LAB-169	L3	WFIX-010	F5	Moderate, soluble	W
 FIX-0797	EVRN-CTD.2	pRSFDuet-1	Kan	C-6his	evrn	CTD	E. coli	bacteria expression	208	LAB-105	L2	WFIX-010	A6	High, soluble, BL21(DE3)	glycerol stock too
-FIX-0798	UbV GLSN-CTD.1	pET15b	Tet	N-SUMO	glsn	CTD	H. sapiens	mammalian expression	133	LAB-165	L2	WFIX-010	E4	High, soluble, BL21(DE3)	sequenced
+FIX-0798	var GLSN-CTD.1	pET15b	Tet	N-SUMO	glsn	CTD	H. sapiens	mammalian expression	133	LAB-165	L2	WFIX-010	E4	High, soluble, BL21(DE3)	sequenced
 FIX-0799	MRTF2.4	pLVX	Str	C-6his	mrtf2		E. coli	bacteria expression	391	LAB-172	L2	WFIX-010	B6	Moderate, soluble	verify before use
 FIX-0800	HRTA.4	pMAL-c5X	Tet	N-MBP	hrta		S. cerevisiae	insect expression	178	LAB-157	L3	WFIX-010	E6	Insoluble at 37, soluble at 18	
-FIX-0801	UbV MRTF2-SH3.3	pDONR221	Tet	N-6his	mrtf2	SH3	E. coli	entry clone	377	LAB-217	L1	WFIX-010	F7	Moderate, soluble	W
+FIX-0801	var MRTF2-SH3.3	pDONR221	Tet	N-6his	mrtf2	SH3	E. coli	entry clone	377	LAB-217	L1	WFIX-010	F7	Moderate, soluble	W
 FIX-0802	LMNX.1	pUC19	Kan	N-GST	lmnx		S. cerevisiae	cloning intermediate	284	LAB-152	L2	WFIX-010	C2	Not tested	glycerol stock too
 FIX-0803	LMNX-kinase.4	pSUMO	Tet	N-6his, C-strep tag II	lmnx	kinase	S. cerevisiae	insect expression	143	LAB-191	L3	WFIX-010	E5	High, soluble, BL21(DE3)	
 FIX-0804	ORVC-CTD.4	pGB1	Kan	C-strep tag II	orvc	CTD	M. musculus	entry clone	377	LAB-193	L4	WFIX-010	D3	Insoluble at 37, soluble at 18	verify before use
@@ -812,34 +812,34 @@ FIX-0810	WDLK-SH3.2	pGro7	Amp	N-MBP	wdlk	SH3	H. sapiens	entry clone	332	LAB-224	
 FIX-0811	IVSD.1	pGro7	Cm	N-6his, C-strep tag II	ivsd		M. musculus	mammalian expression	382	LAB-241	L3	WFIX-011	I5	Insoluble at 37, soluble at 18	
 FIX-0812	GLSN.1	pET28a	Cm	C-6his	glsn		E. coli	insect expression	170	LAB-159	L3	WFIX-011	G4	High, soluble, BL21(DE3)	verify before use
 FIX-0813	STLN4-full length.3	pQE30	Str	N-SUMO	stln4	full length	E. coli	mammalian expression	198	LAB-122	L4	WFIX-011	F1	Insoluble at 37, soluble at 18	sequenced
-FIX-0814	UbV USHN.3	pcDNA3.1	Str	N-6his, C-strep tag II	ushn		H. sapiens	entry clone	319	LAB-128	L1	WFIX-011	I6	Low, inclusion bodies	
+FIX-0814	var USHN.3	pcDNA3.1	Str	N-6his, C-strep tag II	ushn		H. sapiens	entry clone	319	LAB-128	L1	WFIX-011	I6	Low, inclusion bodies	
 FIX-0815	HRTA.3	pUC19	Tet	C-6his	hrta		E. coli	mammalian expression	94	LAB-235	L4	WFIX-011	I6	High, soluble, LOBSTR	
-FIX-0816	UbV EVRN-BRCT.1	pGEX-6P-1	Cm	N-GST	evrn	BRCT	S. cerevisiae	bacteria expression	245	LAB-233	L1	WFIX-011	E9	Insoluble at 37, soluble at 18	W
+FIX-0816	var EVRN-BRCT.1	pGEX-6P-1	Cm	N-GST	evrn	BRCT	S. cerevisiae	bacteria expression	245	LAB-233	L1	WFIX-011	E9	Insoluble at 37, soluble at 18	W
 FIX-0817	JNKL.1	pET15b	Str	N-6his, C-strep tag II	jnkl		M. musculus	insect expression	401	LAB-248	L4	WFIX-011	F4	Low, inclusion bodies	sequenced
 FIX-0818	BLNK2.3	pRSFDuet-1	Tet	C-6his	blnk2		S. cerevisiae	entry clone	412	LAB-199	L3	WFIX-011	H6	High, soluble, LOBSTR	
 FIX-0819	YRBC.4	pET15b	Amp	N-6his	yrbc		M. musculus	insect expression	276	LAB-205	L3	WFIX-011	A9	Insoluble at 37, soluble at 18	
 FIX-0820	CRDM-WD40.4	pcDNA3.1	Tet	C-strep tag II	crdm	WD40	Synthetic	bacteria expression	404	LAB-195	L4	WFIX-011	H4	High, soluble, BL21(DE3)	
 FIX-0821	GLSN.1	pET28a	Cm	N-6his, TEV	glsn		S. cerevisiae	insect expression	365	LAB-154	L2	WFIX-011	I3	Not tested	
 FIX-0822	PLTK-WD40.3	pCDFDuet-1	Tet	C-6his	pltk	WD40	E. coli	bacteria expression	222	LAB-123	L2	WFIX-011	F4	High, soluble, LOBSTR	
-FIX-0823	UbV NDLS-PH.1	pTXB1	Kan	C-strep tag II	ndls	PH	E. coli	cloning intermediate	197	LAB-142	L2	WFIX-011	I5	High, soluble, LOBSTR	sequenced
+FIX-0823	var NDLS-PH.1	pTXB1	Kan	C-strep tag II	ndls	PH	E. coli	cloning intermediate	197	LAB-142	L2	WFIX-011	I5	High, soluble, LOBSTR	sequenced
 FIX-0824	FKBX3.2	pRSFDuet-1	Amp	none	fkbx3		E. coli	mammalian expression	39	LAB-243	L3	WFIX-011	H6	High, soluble, BL21(DE3)	
 FIX-0825	WDLK.2	pFastBac1	Amp	N-MBP	wdlk		M. musculus	cloning intermediate	257	LAB-179	L4	WFIX-011	B7	High, soluble, BL21(DE3)	glycerol stock too
 FIX-0826	BLNK2.2	pRSFDuet-1	Kan	N-6his, TEV	blnk2		M. musculus	bacteria expression	311	LAB-244	L2	WFIX-011	C2	High, soluble, LOBSTR	
 FIX-0827	EVRN.3	pGB1	Str	C-strep tag II	evrn		M. musculus	entry clone	104	LAB-204	L4	WFIX-011	B4	Low, inclusion bodies	
 FIX-0828	CRDM.2	pSUMO	Kan	N-6his	crdm		E. coli	insect expression	352	LAB-190	L4	WFIX-011	C1	Not tested	sequenced
 FIX-0829	FKBX3-BRCT.4	pFastBac1	Tet	N-6his, TEV	fkbx3	BRCT	S. cerevisiae	entry clone	305	LAB-180	L1	WFIX-011	C4	Low, inclusion bodies	
-FIX-0830	UbV DPLX.3	pSUMO	Amp	none	dplx		H. sapiens	entry clone	42	LAB-184	L2	WFIX-011	E5	High, soluble, BL21(DE3)	
+FIX-0830	var DPLX.3	pSUMO	Amp	none	dplx		H. sapiens	entry clone	42	LAB-184	L2	WFIX-011	E5	High, soluble, BL21(DE3)	
 FIX-0831	CRDM.2	pLVX	Cm	N-SUMO	crdm		S. cerevisiae	cloning intermediate	127	LAB-167	L2	WFIX-011	F8	High, soluble, LOBSTR	sequenced
-FIX-0832	UbV JNKL-kinase.4	pGEX-6P-1	Spec	none	jnkl	kinase	S. cerevisiae	mammalian expression	396	LAB-112	L1	WFIX-011	H2	Not tested	
+FIX-0832	var JNKL-kinase.4	pGEX-6P-1	Spec	none	jnkl	kinase	S. cerevisiae	mammalian expression	396	LAB-112	L1	WFIX-011	H2	Not tested	
 FIX-0833	QRSM.1	pETDuet-1	Tet	N-SUMO	qrsm		Synthetic	bacteria expression	342	LAB-213	L2	WFIX-011	D6	Not tested	
 FIX-0834	GLSN.2	pACYCDuet-1	Tet	N-MBP	glsn		Synthetic	mammalian expression	371	LAB-106	L2	WFIX-011	H2	Not tested	
 FIX-0835	YRBC-PH.3	pCDFDuet-1	Cm	none	yrbc	PH	E. coli	mammalian expression	332	LAB-173	L2	WFIX-011	G1	Insoluble at 37, soluble at 18	
 FIX-0836	KPRB-WD40.4	pMAL-c5X	Str	N-MBP	kprb	WD40	H. sapiens	insect expression	30	LAB-246	L4	WFIX-011	I5	Low, inclusion bodies	glycerol stock too
 FIX-0837	VRLM-WD40.2	pBAD33	Cm	N-6his, C-strep tag II	vrlm	WD40	Synthetic	mammalian expression	285	LAB-106	L1	WFIX-011	B4	Moderate, soluble	
-FIX-0838	UbV FKBX3.2	pETDuet-1	Spec	N-6his, TEV	fkbx3		H. sapiens	insect expression	168	LAB-139	L2	WFIX-011	B9	Low, inclusion bodies	
+FIX-0838	var FKBX3.2	pETDuet-1	Spec	N-6his, TEV	fkbx3		H. sapiens	insect expression	168	LAB-139	L2	WFIX-011	B9	Low, inclusion bodies	
 FIX-0839	JNKL-SH3.2	pET21a	Str	N-6his	jnkl	SH3	S. cerevisiae	bacteria expression	292	LAB-237	L2	WFIX-011	A6	High, soluble, BL21(DE3)	
 FIX-0840	BLNK2.1	pET21a	Str	N-6his, C-strep tag II	blnk2		Synthetic	entry clone	397	LAB-230	L2	WFIX-011	C4	High, soluble, LOBSTR	
-FIX-0841	UbV PLTK.2	pET53	Str	C-6his	pltk		Synthetic	insect expression	199	LAB-157	L4	WFIX-011	D8	Not tested	
+FIX-0841	var PLTK.2	pET53	Str	C-6his	pltk		Synthetic	insect expression	199	LAB-157	L4	WFIX-011	D8	Not tested	
 FIX-0842	PLTK-PH.1	pACYCDuet-1	Kan	N-6his	pltk	PH	M. musculus	bacteria expression	29	LAB-150	L4	WFIX-011	D7	Moderate, soluble	W
 FIX-0843	ZPLQ-SH3.1	pRSFDuet-1	Kan	none	zplq	SH3	M. musculus	bacteria expression	245	LAB-238	L2	WFIX-011	H1	Moderate, soluble	W
 FIX-0844	PLTK-kinase.2	pET21a	Tet	N-SUMO	pltk	kinase	Synthetic	cloning intermediate	51	LAB-231	L3	WFIX-011	C4	High, soluble, LOBSTR	
@@ -847,9 +847,9 @@ FIX-0845	EVRN.4	pACYCDuet-1	Str	N-SUMO	evrn		H. sapiens	insect expression	348	LA
 FIX-0846	MRTF2.4	pGro7	Amp	C-strep tag II	mrtf2		M. musculus	bacteria expression	356	LAB-142	L4	WFIX-011	B4	Insoluble at 37, soluble at 18	W
 FIX-0847	HRTA-BRCT.3	pGB1	Spec	N-GST	hrta	BRCT	S. cerevisiae	entry clone	83	LAB-143	L2	WFIX-011	F6	Not tested	W
 FIX-0848	GLSN-BRCT.2	pLVX	Spec	N-6his	glsn	BRCT	Synthetic	bacteria expression	289	LAB-119	L1	WFIX-011	F9	Low, inclusion bodies	
-FIX-0849	UbV USHN.1	pDONR221	Str	N-GST	ushn		M. musculus	bacteria expression	244	LAB-122	L3	WFIX-011	F6	Low, inclusion bodies	
+FIX-0849	var USHN.1	pDONR221	Str	N-GST	ushn		M. musculus	bacteria expression	244	LAB-122	L3	WFIX-011	F6	Low, inclusion bodies	
 FIX-0850	STLN4-kinase.4	pTXB1	Cm	N-6his	stln4	kinase	H. sapiens	bacteria expression	61	LAB-173	L1	WFIX-011	H4	Low, inclusion bodies	
 FIX-0851	VRLM.3	pRSFDuet-1	Cm	C-6his	vrlm		E. coli	insect expression	277	LAB-209	L2	WFIX-011	B2	Insoluble at 37, soluble at 18	
-FIX-0852	UbV NDLS.3	pET53	Spec	N-6his	ndls		Synthetic	cloning intermediate	347	LAB-188	L3	WFIX-011	C5	Insoluble at 37, soluble at 18	
+FIX-0852	var NDLS.3	pET53	Spec	N-6his	ndls		Synthetic	cloning intermediate	347	LAB-188	L3	WFIX-011	C5	Insoluble at 37, soluble at 18	
 FIX-0853	USHN.2	pBAD33	Amp	N-SUMO	ushn		E. coli	cloning intermediate	313	LAB-116	L4	WFIX-011	C4	High, soluble, LOBSTR	
 FIX-0854	JNKL-BRCT.3	pBAD33	Cm	N-SUMO	jnkl	BRCT	Synthetic	entry clone	32	LAB-222	L2	WFIX-011	F8	Not tested	

@@ -174,7 +174,7 @@ function plasmidStock() {
     const dom = r() < 0.5 ? pick(['WD40', 'kinase', 'SH3', 'BRCT', 'PH', 'full length', 'CTD', 'NTD']) : '';
     lines.push([
       'FIX-' + String(i).padStart(4, '0'),
-      (r() < 0.2 ? 'UbV ' : '') + gene + (dom ? '-' + dom : '') + '.' + (1 + Math.floor(r() * 4)),
+      (r() < 0.2 ? 'var ' : '') + gene + (dom ? '-' + dom : '') + '.' + (1 + Math.floor(r() * 4)),
       pick(VECTORS), pick(RES), pick(TAGS), gene.toLowerCase(), dom,
       pick(ORGS), pick(TYPES),
       String(15 + Math.floor(r() * 400)),

@@ -124,7 +124,7 @@ const PAGE = 'file://' + path.resolve(__dirname, '..', 'plasmidbench.html');
     /* One oligo's melting temperature, before and after, read through
        P.conditions() — which is what the whole page calculates with, so
        this measures the path a person's results actually travel. */
-    const primer = 'TTGTATTTCCAGGGCTCACCC';
+    const primer = 'TTGTATTTCCAGGGCATCGAG';
     const condBefore = P.conditions();
     const before = B.tmNN(primer, condBefore);
     const rep2 = P.profile.inspect(j);

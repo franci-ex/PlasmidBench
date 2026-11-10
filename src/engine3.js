@@ -96,7 +96,7 @@
 
   /* What a primer is called, with the order code and the date that often
      sit in the same cell taken off. These sheets write the two run
-     together - "2019-09-25RFWD3:S425F" - and what follows the date is the
+     together - "2019-09-25KPRB:S425F" - and what follows the date is the
      name, so that is preferred over what comes before it. */
   function tidyName(s) {
     let t = String(s || '').replace(/\s+/g, ' ').trim();
@@ -294,7 +294,7 @@
       }
       const date = (rest.match(/\d{4}[-/.]\d{1,2}[-/.]\d{1,2}/) || [''])[0];
       /* What follows the date, in the same cell, is the description: these
-         sheets read "2019-09-25RFWD3:S425F" with the date run together
+         sheets read "2019-09-25KPRB:S425F" with the date run together
          with the name, and that name beats anything else in the row. */
       let dateName = '';
       if (date) {

@@ -41,7 +41,7 @@ const L = 4842, GENE = 831, INS = 'ATGGGTTTTCTGCGTTTTCAGGCTAGCGTGCCCTCAGGTTTAACC
     const cds = 'ATG' + dna(GENE - 6).replace(/TAA|TAG|TGA/g, 'CCC') + 'TAA';
     const seq = cds.slice(GENE - 46) + dna(L - GENE) + cds.slice(0, GENE - 46);
     window.__cds = cds;
-    const rec = P.makeRecord({ name: 'YTC-0528 pRSFDuet', seq: seq, topology: 'circular', features: [
+    const rec = P.makeRecord({ name: 'FIX-0528 pRSFDuet', seq: seq, topology: 'circular', features: [
       { start: 4057, end: 4057 + GENE, strand: 1, type: 'CDS', label: 'CDK2', quals: { codon_start: '1' } },
       { start: 1200, end: 2000, strand: 1, type: 'CDS', label: 'lacI', quals: {} },
       { start: 2400, end: 3000, strand: 1, type: 'CDS', label: 'KanR', quals: {} } ] });
@@ -62,7 +62,7 @@ const L = 4842, GENE = 831, INS = 'ATGGGTTTTCTGCGTTTTCAGGCTAGCGTGCCCTCAGGTTTAACC
       const m = document.querySelector('#modalRoot');
       if (m && !m.hidden) window.PB.closeModal();
       /* back to the vector: saving a product opens it */
-      const v = window.PB.state.records.find(r => r.name === 'YTC-0528 pRSFDuet');
+      const v = window.PB.state.records.find(r => r.name === 'FIX-0528 pRSFDuet');
       if (v) { window.PB.state.activeId = v.id; window.PB.renderAll(); }
     });
     await page.waitForTimeout(250);
@@ -161,7 +161,7 @@ const L = 4842, GENE = 831, INS = 'ATGGGTTTTCTGCGTTTTCAGGCTAGCGTGCCCTCAGGTTTAACC
   console.log('\n== a linear construct has no base 1 to cross ==');
   await page.evaluate(() => {
     const m = document.querySelector('#modalRoot'); if (m && !m.hidden) window.PB.closeModal();
-    const v = window.PB.state.records.find(r => r.name === 'YTC-0528 pRSFDuet');
+    const v = window.PB.state.records.find(r => r.name === 'FIX-0528 pRSFDuet');
     v.topology = 'linear'; window.PB.state.activeId = v.id; window.PB.state.selection = null;
     window.PB.renderAll();
   });

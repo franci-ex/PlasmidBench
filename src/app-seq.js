@@ -56,7 +56,7 @@
         '<input class="inp" id="skName" placeholder="Primer_Stocks_-20" value="' + esc(state.stockName) + '"></div></div>' +
         '<div class="field"><label>Paste the list</label>' +
         '<textarea class="inp mono" id="skText" rows="12" spellcheck="false" ' +
-        'placeholder="OL-001  L3  WTOL001  A01  2019-09-25 RFWD3:S425F  TTG TAT TTC CAG GGC TCA CCC  62"></textarea></div>' +
+        'placeholder="OL-001  L3  WTOL001  A01  2019-09-25 KPRB:S425F  TTG TAT TTC CAG GGC ATC GAG  62"></textarea></div>' +
         '<div id="skPrev"></div>',
       actions: [
         { label: 'Close' },

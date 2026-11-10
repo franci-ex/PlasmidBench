@@ -42,7 +42,7 @@ const INS_F = 'ATGGGTTTTCTGCGTTTTC';
     let x = 99; const r = () => (x = (x * 1103515245 + 12345) & 0x7fffffff) / 0x7fffffff;
     const dna = n => { let s = ''; for (let i = 0; i < n; i++) s += 'ACGT'[Math.floor(r() * 4)]; return s; };
     const vec = dna(900) + B.revcomp(aF) + dna(60) + B.revcomp(aR) + dna(900);
-    const rec = P.makeRecord({ name: 'YTC-0528 pRSFDuet', seq: vec, topology: 'circular', features: [] });
+    const rec = P.makeRecord({ name: 'FIX-0528 pRSFDuet', seq: vec, topology: 'circular', features: [] });
     P.state.records = [rec]; P.state.activeId = rec.id;
     window.__vec = vec;
     P.state.primers = [
@@ -81,7 +81,7 @@ const INS_F = 'ATGGGTTTTCTGCGTTTTC';
      F && /^15 nt arm/.test(F.lines[2] || ''), F && F.lines[2]);
   ok('hovering explains which number is which and where the split came from',
      F && /3′ 19 bases are what binds/.test(F.title) &&
-          /YTC-0528 pRSFDuet/.test(F.title), F && F.title.slice(0, 120));
+          /FIX-0528 pRSFDuet/.test(F.title), F && F.title.slice(0, 120));
   ok('and warns that the boundary errs low, never high',
      F && /lower temperature, never a higher one/.test(F.title), F && F.title.slice(-140));
 

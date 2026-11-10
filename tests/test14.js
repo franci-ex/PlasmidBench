@@ -249,17 +249,17 @@ section('reading a plasmid inventory');
 {
   const tsv = [
     'Plasmid ID\tConstruct ID\tVector\tResistance\tTag\tShelf\tBox\tPosition\tExpression? (Y/N)',
-    'YTC-0001\tUbV RFWD3\tpET53\tAmp\tN-6his\tL3\tWYTC-001\tA3\tHigh, soluble, LOBSTR',
-    'YTC-0005\tRFWD3\tpET28-MHL\tKan\tN-6his-TEV\tL3\tWYTC-001\tA7\tLow/no, LOBSTR',
-    'YTC-0009\tsomething\tpACYCDuet-1\tChl\t\tL3\tWYTC-001\tB1\t',
-    'YTC-0010\tno vector here\t\tKan\t\tL3\tWYTC-001\tB2\t'
+    'FIX-0001\tvar KPRB\tpET53\tAmp\tN-6his\tL3\tWFIX-001\tA3\tHigh, soluble, LOBSTR',
+    'FIX-0005\tKPRB\tpET28-MHL\tKan\tN-6his-TEV\tL3\tWFIX-001\tA7\tLow/no, LOBSTR',
+    'FIX-0009\tsomething\tpACYCDuet-1\tChl\t\tL3\tWFIX-001\tB1\t',
+    'FIX-0010\tno vector here\t\tKan\t\tL3\tWFIX-001\tB2\t'
   ].join('\n');
   const r = E.parsePlasmidStock(tsv);
   ok('the rows with a vector are read', r.plasmids.length === 3, r.plasmids.length);
   ok('and the one without is reported, not dropped silently',
      r.skipped.length === 1 && /no vector/.test(r.skipped[0].why), JSON.stringify(r.skipped));
   ok('each is placed on its backbone', r.plasmids[1].kb.marker === 'Kan', JSON.stringify(r.plasmids[1].kb));
-  ok('the tube location is assembled', /WYTC-001/.test(r.plasmids[0].loc) && /A3/.test(r.plasmids[0].loc),
+  ok('the tube location is assembled', /WFIX-001/.test(r.plasmids[0].loc) && /A3/.test(r.plasmids[0].loc),
      r.plasmids[0].loc);
 
   const o1 = r.plasmids[0].outcome, o2 = r.plasmids[1].outcome;

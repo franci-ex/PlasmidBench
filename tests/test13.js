@@ -372,13 +372,13 @@ section('reading a stock list');
 
   /* a header that does not line up with its rows must be abandoned */
   const ragged = ['#   Rm   ShelfPlate   PositionOrderID Date   Description   Clone method   Sequence   Tm (C)',
-                  'OL-1  224  L3 BOX1  A01  WTL-1 2019-09-25RFWD3:S425F  Infusion  TTG TAT TTC CAG GGC TCA CCC  62  100',
-                  'OL-2  224  L3 BOX1  A02  WTL-2 2019-09-26SIAH1:M32F   Infusion  TTG TAT TTC CAG GGC ATG AGC  59  100'].join('\n');
+                  'OL-1  224  L3 BOX1  A01  WTL-1 2019-09-25KPRB:S425F  Infusion  TTG TAT TTC CAG GGC ATC GAG  62  100',
+                  'OL-2  224  L3 BOX1  A02  WTL-2 2019-09-26LMNX:M32F   Infusion  TTG TAT TTC CAG GGC GTT CAC  59  100'].join('\n');
   const e = E.parseStockTable(ragged);
   ok('a header whose columns do not match its rows is abandoned for shape reading',
      e.primers.length === 2 && e.mode === 'shape', JSON.stringify({ n: e.primers.length, mode: e.mode }));
   ok('and the real descriptions are recovered',
-     e.primers[0].name === 'RFWD3:S425F' && e.primers[1].name === 'SIAH1:M32F',
+     e.primers[0].name === 'KPRB:S425F' && e.primers[1].name === 'LMNX:M32F',
      JSON.stringify(e.primers.map(p => p.name)));
 }
 
