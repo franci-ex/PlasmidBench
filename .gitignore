@@ -16,3 +16,6 @@ screenshots/
 *.png
 !docs/*.png
 .DS_Store
+
+# a scratch copy of the built page, written by some suites
+tests/preview.html
