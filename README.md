@@ -188,3 +188,9 @@ reviewable at all.
 
 If you use PlasmidBench in work you publish, please cite REBASE and
 Biopython as well; this would not be checkable without them.
+
+
+## Contributors
+- Joseph Francis — creator and maintainer
+- Dr. Yufeng Tong — project advisor
+
