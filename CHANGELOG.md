@@ -2,7 +2,7 @@
 
 ## v0.4.0 — November 2026
 
-The release that answers the external evaluation (`docs/evaluation.md`). The
+The release that answers the external evaluation (the project evaluation). The
 theme of it is evidence rather than features: the project had 25 tools and
 no way for anyone else to check that any of them was right.
 
@@ -151,4 +151,4 @@ Recorded because the obvious guess was wrong each time:
 
 Developed from 2025 as a single-file workbench, reaching 25 tools, 10 views,
 readers for a dozen formats and an `.xlsx` writer, with no tests. The
-evaluation in `docs/evaluation.md` was written against that state.
+evaluation in the project evaluation was written against that state.

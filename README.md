@@ -11,7 +11,7 @@ inventory for tubes that can already read a region, and plans expression
 against the strains and plasmids you have.
 
 ```sh
-git clone https://github.com/<owner>/PlasmidBench.git
+git clone https://github.com/YOUR-USERNAME/PlasmidBench.git
 cd PlasmidBench
 node build.js            # writes plasmidbench.html
 open plasmidbench.html   # or just double-click it
@@ -156,7 +156,11 @@ sequencing planner draws.
 | `AGENTS.md` | the conventions. Read before changing anything |
 | `NOTICE.md` | where every data table came from and what its terms are |
 | `docs/evidence.md` | one page: what is checked, against what, and where it disagrees |
-| `docs/evaluation.md` | the external evaluation this version was built to answer |
+
+Section numbers like “§7.3” throughout refer to an external evaluation of the
+project written by its advisor. That document is his work and is not
+published here; the references are kept because they record *why* a thing is
+the way it is.
 
 ---
 

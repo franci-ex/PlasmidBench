@@ -1,5 +1,5 @@
 /* ===========================================================================
-   Sequencing from stock, through the interface: import a real inventory,
+   Sequencing from stock, through the interface: import an inventory,
    plan a region on a real vector, and check that what comes out is the
    same as what the engine says, that the picture is drawn, that the
    spreadsheet is a real workbook, and that a gap can be filled.
@@ -34,7 +34,7 @@ const STOCK = path.resolve(__dirname, 'fixtures/Primer_stock.tsv');
   }, b64);
   await page.waitForTimeout(300);
 
-  console.log('\n== importing a real inventory through the dialog ==');
+  console.log('\n== importing an inventory through the dialog ==');
   const stockText = fs.readFileSync(STOCK, 'utf8');
   await page.evaluate(() => window.PB.stockImportDialog());
   await page.waitForTimeout(250);
@@ -49,7 +49,7 @@ const STOCK = path.resolve(__dirname, 'fixtures/Primer_stock.tsv');
     const el = document.querySelector('#skPrev');
     return { text: el ? el.textContent.slice(0, 160) : '', rows: el ? el.querySelectorAll('tbody tr').length : 0 };
   });
-  /* The inventory is the real one: 874 oligos, and one row the reader cannot
+  /* The inventory is a generated stand-in of the same shape: 874 oligos,
      use. The engine reads it to the same counts outside the browser, so a
      disagreement here is the dialog's doing and not the parser's. */
   ok('it previews what it read', /Read 874 oligos/.test(prev.text), prev.text.slice(0, 90));

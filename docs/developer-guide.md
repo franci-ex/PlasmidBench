@@ -7,7 +7,7 @@ checks, and how to do the things you are most likely to need to do.
 ## Setting up
 
 ```sh
-git clone https://github.com/<owner>/PlasmidBench.git
+git clone https://github.com/YOUR-USERNAME/PlasmidBench.git
 cd PlasmidBench
 node build.js            # writes plasmidbench.html
 ```
@@ -167,4 +167,4 @@ The release workflow builds and attaches `PlasmidBench-v0.4.0.html`. The
 point of attaching the built file is that a result can be traced to the exact
 file that produced it — so do not retag, and do not replace a release asset.
 
-Version numbers follow the roadmap in `docs/evaluation.md` §5.3.
+Version numbers follow the roadmap in the project evaluation §5.3.

@@ -1,29 +1,29 @@
 Location	Strain	Existing plasmid	Use Case	Resistance	stock?	Competency	Note
-204, -80 L1	DH5a		Plasmid Replication	-	Yes	Chemical	endA and recA mutation, cloning, blue/white screening
-204, -80 L1	LOBSTR RIL	pSC101	Expression	Str  (only use Str for comp cell prep)	Yes	Chemical	LOBSTR strain containing pSC101 plasmid harbouring rare tRNAs for R, I, L (isolated from Arctic Express RIL, see note)
-204, -80 L1	BL21 pCDF-BirA RIL	pSC101; pCDF-BirA	Expression	Chl, Str (only use Str for comp cell prep)	Yes		BL21 pCDF-BirA cells with an additional pSC101 plasmid harbouring rare tRNAs for R, I, L (isolated from Arctic Express, see note); for in vivo biotinylation with a minimized codon-bias
-204, -80 L1	BL21 pRARE2	pRARE2	Expression	Chl	N		see note on Rosetta
-204, -80 L1	DB3.1		Plasmid Replication	Str  (only use Str for comp cell prep)	N		Contains the gyrA462 gene which provides resistance to the toxic effects from the ccdB gene
-204, -80 L1	XL1-Blue		Plasmid Replication	Tet (only use Str for comp cell prep)	N		endA and recA mutation, cloning, blue/white screening
-204, -80 L1	Arctic Express RIL	pSC101	Expression	Gent, Str (only use Str for comp cell prep)	Yes		BL21 (DE3) derivative; rare tRNAs R, I, and L (on a pSC101-based plasmid, StrR, 4.7kb. During expression expreiments this does NOT need to be maintained using antibiotic selection as the plasmid contains a functional partitioning locus); chaperonins (Cpn10 and Cpn60, 10 and 60kDa, respectively) expressed constituitively for low-temp epxression 4-12C (on a pACYC-based plasmid, GentR, 5.5kb); helps with folding.
-204, -80 L1	BL21 (DE3)		Expression	-	Yes		lon and ompT protease deficient for recombinant protein stability; T7 RNApol IPTG inducible
-204, -80 L1	BL21 codon+ RIL	pSC101	Expression	Chl	N		BL21 (DE3) derivative; R, I, and L rare tRNAs on accessory plasmid
-204, -80 L1	BL21 pCDF-BirA	pCDF-BirA	Expression	Chl	Yes		BL21 (DE3) derivative; pACYC184 derivative plasmid containing BirA ligase (pBirAcm from Avidity: https://www.avidity.com/sites/default/files/protocol-pdf/pBirAcm-datasheet.pdf) for IPTG-inducible co-expression and in cellulo biotinylation of Avi-tag proteins.  pCM-BirA plasmid has a low-copy 15A ori
-204, -80 L1	BL21 pLysS	pLysS	Expression	Chl	N		BL21 (DE3) derivative; decrease background expression, good for toxic proteins
-204, -80 L1	LOBSTR		Expression	-	Yes		BL21 (DE3) derivative; arnA and slyD mutations to reduce IMAC contamination
-204, -80 L1	Origami2 (DE3) pLysS	pLysS	Expression	Tet, Chl, Str (only use Str for comp cell prep)	N		K-12 derivative; trx and gor mutations to enhance disulfide formation; pLysS lowers leaky expression
-204, -80 L1	OverExpress C41(DE3)		Expression	-	Yes		BL21 (DE3) derivative; Mutations to resist toxic protein expression, may help with solubility in some cases
-204, -80 L1	SoluBL21		Expression	-	N		BL21 (DE3) derivative; strain selected for ability to express soluble previously insoluble or toxic proteins
-204, -80 L1	BL21(DE3)-Gold		Expression + Plasmid Replication	Tet (only use Tet for comp cell prep)	N		BL21 (DE3) derivative with Hte phenotype and lacking endA
-204, -80 L1	BL21-pGro7	pGro7	Expression	Chl	Yes		BL21 (DE3) harbouring the pGro7 plasmid (Takara #3340) which confers Chl resistance. pGro7 ori is ACYC and the plasmid encodes for GroEL-ES chaperone to help with folding. GroEL-ES expression is induced using L-arabinose (araB promoter).
-204, -80 L1	JM109		Plasmid Replication	-	N		endA mutation, cloning and single-strand DNA prodcution, blue/white screening
-204, -80 L1	PIR1		Plasmid Replication	-	N		For Echo Cloning system
-204, -80 L1	ST0213 stellar		Plasmid Replication	-	N		
-204, -80 L1	XL10-Gold		Plasmid Replication	-	N		High efficiecny transformation
-204, -80 L1	B384		Expression	-	N		BL21 (DE3) derivative, met auxotroph
-204, -80 L1	BL21 Star		Expression	-	N		BL21 (DE3) derivative; enhanced expression of nontoxic proteins via increased mRNA stability, good for low-copy plasmids
-204, -80 L1	BL21-T1R		Expression		N		BL21 (DE3) derivative; T1 and T5 phage resistant
-204, -80 L1	Nico21		Expression	-	N		BL21 (DE3) derivative; Common IMAC contaminants tagged, removed by chitin resin.
-204, -80 L1	Rossetta 2	pRARE2	Expression	Chl	N		BL21 (DE3) derivative; pRARE 2 accessory plasmid with 7 rare tRNAs: R, I, L, G, P
-204, -80 L1	OverExpress C43(DE3)		Expression	-	N		Derived from OverExpress C41(DE3) and contains additional mutations for enhanced tolerance to toxic proteins
-204, -80 L1	SoluBL21 pGro7	pGro7	Expression	Chl	Yes	Chemical	SoluBL21 harbouring pGro7 (GroEL/GroES), made competent
+209, -80 L1	DH5a		Plasmid Replication	-	Yes	Chemical	endA and recA mutation, cloning, blue/white screening
+212, -80 L2	Mach1		Plasmid Replication	-	Yes	Chemical	fast growing, high copy
+220, -80 L3	Stbl3		Plasmid Replication	-	Yes	Chemical	for repeat-containing plasmids
+218, -80 L4	TOP10		Plasmid Replication	-	Yes	Chemical	general cloning
+215, -80 L1	BL21(DE3)		Expression	-	Yes	Chemical	T7 polymerase, lon and ompT deficient
+221, -80 L2	BL21(DE3) pLysS	pLysS	Expression	Cm	Yes	Chemical	tighter control of T7 expression
+202, -80 L3	Rosetta 2(DE3)	pRARE2	Expression	Cm	Yes	Chemical	rare tRNAs for eukaryotic codons
+213, -80 L4	Rosetta 2(DE3) pLysS	pRARE2	Expression	Cm	Yes	Chemical	rare tRNAs plus T7 lysozyme
+225, -80 L1	LOBSTR RIL	pSC101	Expression	Str	Yes	Chemical	reduced background binding on Ni resin
+226, -80 L2	LOBSTR BL21	pSC101	Expression	Str	Yes	Chemical	ArnA and SlyD knocked down
+208, -80 L3	Origami 2(DE3)		Expression	Str	No	Chemical	trxB gor mutant, for disulphide bonds
+201, -80 L4	SHuffle T7		Expression	Spec	Yes	Chemical	cytoplasmic disulphide bond formation
+227, -80 L1	ArcticExpress(DE3)		Expression	Gent	No	Chemical	cold-adapted chaperonins, 10-13 C
+205, -80 L2	C41(DE3)		Expression	-	Yes	Chemical	tolerates toxic and membrane proteins
+220, -80 L3	C43(DE3)		Expression	-	No	Chemical	tolerates toxic and membrane proteins
+201, -80 L4	BL21-AI		Expression	-	No	Chemical	arabinose-inducible T7, tight control
+220, -80 L1	Tuner(DE3)		Expression	-	No	Chemical	lacY mutant, IPTG titratable
+212, -80 L2	BL21(DE3) pGro7	pGro7	Expression	Cm	Yes	Chemical	GroEL/GroES co-expression
+204, -80 L3	BL21(DE3) pKJE7	pKJE7	Expression	Cm	No	Chemical	DnaK/DnaJ/GrpE co-expression
+206, -80 L4	BL21 Star(DE3)		Expression	-	No	Chemical	rne131, more stable mRNA
+228, -80 L1	NiCo21(DE3)		Expression	-	No	Chemical	tagged contaminants removable on Ni
+229, -80 L2	ER2566		Expression	-	No	Chemical	for intein fusions
+216, -80 L3	DH10Bac		Baculovirus	Kan, Tet	Yes	Chemical	bacmid generation
+206, -80 L4	CcdB Survival		Gateway	Cm	No	Chemical	propagating ccdB-containing donor vectors
+202, -80 L1	BW25113		Other	-	No	Electro	Keio parent strain
+224, -80 L2	XL10-Gold		Plasmid Replication	Tet	No	Chemical	for difficult ligations
+227, -80 L3	NEB 10-beta		Plasmid Replication	-	Yes	Electro	for large plasmids and assemblies
+205, -80 L4	SoluBL21		Expression	-	No	Chemical	selected for improved solubility

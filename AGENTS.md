@@ -5,7 +5,7 @@ and it is read by AI assistants at the start of every session, which is most
 of why it exists: discipline that lives in a file persists, and discipline
 that lives in someone's head does not survive them graduating.
 
-The project's own evaluation (`docs/evaluation.md`) argues that in
+The project's own evaluation (the project evaluation) argues that in
 AI-assisted scientific software the risk is not architecture — it is code
 nobody can explain, validated by tests that agree with it rather than with
 reality. Everything below is aimed at that.
