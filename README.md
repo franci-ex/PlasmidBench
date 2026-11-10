@@ -155,6 +155,7 @@ sequencing planner draws.
 | `docs/limitations.md` | what it does not do, and what is known to be approximate |
 | `AGENTS.md` | the conventions. Read before changing anything |
 | `NOTICE.md` | where every data table came from and what its terms are |
+| `docs/evidence.md` | one page: what is checked, against what, and where it disagrees |
 | `docs/evaluation.md` | the external evaluation this version was built to answer |
 
 ---
