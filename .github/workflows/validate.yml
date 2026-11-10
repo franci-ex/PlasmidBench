@@ -1,0 +1,110 @@
+# Every check this project has, on every push and pull request.
+#
+# The layers are separate jobs so that a failure says which kind of thing
+# broke: a type, a unit expectation, an outside comparison, or the interface.
+# The oracle job is the one that matters most — it is the engine against
+# Biopython, REBASE and published formulas, and it is what makes the rest
+# evidence rather than a restatement of the code.
+
+name: validate
+
+on:
+  push:
+    branches: ['**']
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  types:
+    name: types (tsc --checkJs)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm install --no-save typescript@5.6.3 @types/node@22
+      - name: the engine must type-check with zero errors
+        run: npx tsc -p tsconfig.json
+
+  engine:
+    name: engine unit suites
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - name: the engine must stay free of interface code
+        # This is the property that makes the engine testable at all, so it
+        # is checked rather than trusted.
+        run: |
+          if grep -nE '\b(document|addEventListener|innerHTML)\b' src/engine*.js; then
+            echo "::error::interface code has reached the engine"
+            exit 1
+          fi
+      - name: one require loads the whole engine
+        run: |
+          node -e "const B=require('./src/engine8.js');
+            const n=Object.keys(B).length;
+            if (n < 200) { console.error('only '+n+' exports; the require chain is broken'); process.exit(1); }
+            console.log(n+' exports')"
+      - run: ./validate-all.sh engine
+
+  oracles:
+    name: against Biopython, REBASE and IDT
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+      - name: install Biopython
+        # Pinned: the expected values come from this version, and an
+        # unpinned oracle is not an oracle.
+        run: pip install biopython==1.88
+      - name: fetch Biopython's test corpus
+        # Real and deliberately malformed GenBank, EMBL, SnapGene and ABI
+        # files. Not vendored here: it is Biopython's, and fetching it keeps
+        # the provenance obvious.
+        run: |
+          git clone --filter=blob:none --no-checkout --depth 1 \
+            https://github.com/biopython/biopython.git /tmp/bp
+          cd /tmp/bp
+          git sparse-checkout init --cone
+          git sparse-checkout set Tests/GenBank Tests/EMBL Tests/SnapGene \
+            Tests/Abi Tests/Fasta Tests/Nexus
+          git checkout
+      - run: REAL=/tmp/bp/Tests ./validate-all.sh oracles
+
+  browser:
+    name: browser suites
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: npm install --no-save playwright@1.48.2
+      - run: npx playwright install --with-deps chromium
+      - run: node build.js
+      - name: the built file is one file with no dependencies
+        run: |
+          node -e "
+            const fs=require('fs'), h=fs.readFileSync('plasmidbench.html','utf8');
+            const bad=[...h.matchAll(/<script[^>]+src=/g)].length;
+            if (bad) { console.error(bad+' external script tag(s) in the build'); process.exit(1); }
+            const req=(h.match(/require\('\.\//g)||[]).length;
+            if (req) { console.error(req+' require() left in the build'); process.exit(1); }
+            console.log((fs.statSync('plasmidbench.html').size/1024|0)+' KB, self-contained');
+          "
+      - run: ./validate-all.sh browser
+      - name: keep the built file, so a failure can be opened
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: plasmidbench.html
+          path: plasmidbench.html

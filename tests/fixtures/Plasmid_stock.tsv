@@ -1,0 +1,854 @@
+Plasmid ID	Construct ID	Vector	Resistance	Tag	Target	Domain/Design	Organism	Type	ng/ul	Location	Shelf	Box	Position	Expression?	Notes
+YTC-0001	UbV RFWD3-WD40.1	pET53	Amp	N-6his, C-strep tag II	UbV.rfwd3		Synthetic	bacteria expression	39	CORe-224	L3	WYTC-001	A3	High, soluble, LOBSTR	Wei Zhang
+YTC-0002	UbV RFWD3-WD40.2	pET53	Amp	N-6his, C-strep tag II	UbV.rfwd3		Synthetic	bacteria expression	33	CORe-224	L3	WYTC-001	A4	High, soluble, LOBSTR	Wei Zhang
+YTC-0003	UbV RFWD3-WD40.3	pET53	Amp	N-6his, C-strep tag II	UbV.rfwd3		Synthetic	bacteria expression	29	CORe-224	L3	WYTC-001	A5	High, soluble, LOBSTR	Wei Zhang
+YTC-0004	UbV RFWD3-WD40.4	pET53	Amp	N-6his, C-strep tag II	UbV.rfwd3		Synthetic	bacteria expression	37	CORe-224	L3	WYTC-001	A6	High, soluble, LOBSTR	Wei Zhang
+YTC-0005	RFWD3:A176-E774	pET28-MHL	Kan	N-6his-TEV	RFWD3	RING+WD40	Human	bacteria expression	60	CORe-224	L3	WYTC-001	A7	Low/no, LOBSTR	RFWD3:YTC050-G12:C241702
+YTC-0006	RFWD3:S220-E774	pET28-MHL	Kan	N-6his-TEV	RFWD3	RING+WD40	Human	bacteria expression	38	CORe-224	L3	WYTC-001	A8	High, insoluble, BL21 pRARE2	RFWD3:YTC050-H01:C241703
+YTC-0007	RFWD3:E240-E774	pET28-MHL	Kan	N-6his-TEV	RFWD3	RING+WD40	Human	bacteria expression	34	CORe-224	L3	WYTC-001	A9	High, insoluble, BL21 pRARE2	RFWD3:YTC050-H02:C241704
+YTC-0008	RFWD3:E283-N410	pET28-MHL	Kan	N-6his-TEV	RFWD3	RING	Human	bacteria expression	39	CORe-224	L3	WYTC-001	B1		RFWD3:YTC049-E05:C240601
+YTC-0009	USP9X:A880-S970	pET28-MHL	Kan	N-6his-TEV	USP9X	Ubl	Human	bacteria expression	36	CORe-224	L3	WYTC-001	B2		USP09X:YTC046-E04:C239396
+YTC-0010	USP09X:M1-N909	pET28-MHL	Kan	N-6his-TEV	USP9X	DUF	Human	bacteria expression	39	CORe-224	L3	WYTC-001	B3		USP09X:YTC033-E03:C236558
+YTC-0011	USP09X:M1-N971	pET28-MHL	Kan	N-6his-TEV	USP9X	DUF+Ubl	Human	bacteria expression	36	CORe-224	L3	WYTC-001	B4		USP09X:YTC033-E04:C236559
+YTC-0012	USP09X:G373-N971	pET28-MHL	Kan	N-6his-TEV	USP9X	DUF+Ubl	Human	bacteria expression	27	CORe-224	L3	WYTC-001	B5		USP09X:YTC033-G03:C236582
+YTC-0013	USP09X:T873-N971	pET28-MHL	Kan	N-6his-TEV	USP9X	Ubl	Human	bacteria expression	40	CORe-224	L3	WYTC-001	B6		USP09X:YTC033-G11:C236590
+YTC-0014	USP8:T454-T540	pET28-MHL	Kan	N-6his-TEV	USP8	DUF	Human	special tRNA	62	CORe-224	L3	WYTC-001	B7		USP08:YTC019-E03:C232730
+YTC-0015	USP9X:P1547-Q1961	pET28-MHL	Kan	N-6his-TEV	USP9X	USP	Human	bacteria expression	59	CORe-224	L3	WYTC-001	B8		USP09X:YTC019-E11:C232738
+YTC-0016	USP9X:R1551-D1957	pET28-MHL	Kan	N-6his-TEV	USP9X	USP	Human	bacteria expression	50	CORe-224	L3	WYTC-001	B9		USP09X:YTC014-F07:C231763
+YTC-0017	USP9X:R1551-S1970	pET28-MHL	Kan	N-6his-TEV	USP9X	USP	Human	bacteria expression	57	CORe-224	L3	WYTC-001	C1		USP09X:YTC014-F08:C231764
+YTC-0018	BRRF1:FL	pET28NGB-MHL	Kan	N-6his-NGB-TEV	NGB	FL		Vector	55	CORe-224	L3	WYTC-001	C2		SGC:40-A8
+YTC-0019	NGB:M1-E151	pET28a-LIC	Kan	N-6his-NGB-Thrombin	NGB	FL	Human	bacteria expression	47	CORe-224	L3	WYTC-001	C3		NGB:YTC046-E06:C239465
+YTC-0020	DARPin: ATG4β	pQIq_MRGS_HIS8_(DARPin)_FLAG (this vector is a pQE30 variant encoding lacIq repressor rendering transormed cells IPTG inducible)	Amp	N-8his, C-FLAG	DARPin.atg4b			bacteria expression, T5 promoter	22	CORe-224	L3	WYTC-001	C4		From U of Zurich, Sven Furler, clone ID: 008-806-2368-C7
+YTC-0021	DARPin: ATG4β	pQIq_MRGS_HIS8_(DARPin)_FLAG (this vector is a pQE30 variant encoding lacIq repressor rendering transormed cells IPTG inducible)	Amp	N-8his, C-FLAG	DARPin.atg4b			bacteria expression, T5 promoter	17	CORe-224	L3	WYTC-001	C5		From U of Zurich, Sven Furler, clone ID: 008-806-2368-A8
+YTC-0022	DARPin: ATG4β	pQIq_MRGS_HIS8_(DARPin)_FLAG (this vector is a pQE30 variant encoding lacIq repressor rendering transormed cells IPTG inducible)	Amp	N-8his, C-FLAG	DARPin.atg4b			bacteria expression, T5 promoter	22	CORe-224	L3	WYTC-001	C6		From U of Zurich, Sven Furler, clone ID: 008-806-2368-C8
+YTC-0023	DARPin: ATG4β	pQIq_MRGS_HIS8_(DARPin)_FLAG (this vector is a pQE30 variant encoding lacIq repressor rendering transormed cells IPTG inducible)	Amp	N-8his, C-FLAG	DARPin.atg4b			bacteria expression, T5 promoter	21	CORe-224	L3	WYTC-001	C7		From U of Zurich, Sven Furler, clone ID: 008-806-2368-F8
+YTC-0024	DARPin: ATG4β	pQIq_MRGS_HIS8_(DARPin)_FLAG (this vector is a pQE30 variant encoding lacIq repressor rendering transormed cells IPTG inducible)	Amp	N-8his, C-FLAG	DARPin.atg4b			bacteria expression, T5 promoter	18	CORe-224	L3	WYTC-001	C8		From U of Zurich, Sven Furler, clone ID: 008-806-2368-E11
+YTC-0025	DARPin: ATG4β	pQIq_MRGS_HIS8_(DARPin)_FLAG (this vector is a pQE30 variant encoding lacIq repressor rendering transormed cells IPTG inducible)	Amp	N-8his, C-FLAG	DARPin.atg4b			bacteria expression, T5 promoter	21	CORe-224	L3	WYTC-001	C9		From U of Zurich, Sven Furler, clone ID: 008-806-2369-A4
+YTC-0026	DARPin: ATG4β	pQIq_MRGS_HIS8_(DARPin)_FLAG (this vector is a pQE30 variant encoding lacIq repressor rendering transormed cells IPTG inducible)	Amp	N-8his, C-FLAG	DARPin.atg4b			bacteria expression, T5 promoter	17	CORe-224	L3	WYTC-001	D1		From U of Zurich, Sven Furler, clone ID: 008-806-2369-F4
+YTC-0027	DARPin: ATG4β	pQIq_MRGS_HIS8_(DARPin)_FLAG (this vector is a pQE30 variant encoding lacIq repressor rendering transormed cells IPTG inducible)	Amp	N-8his, C-FLAG	DARPin.atg4b			bacteria expression, T5 promoter	26	CORe-224	L3	WYTC-001	D2		From U of Zurich, Sven Furler, clone ID: 008-806-2369-B5
+YTC-0028	DARPin: ATG4β	pQIq_MRGS_HIS8_(DARPin)_FLAG (this vector is a pQE30 variant encoding lacIq repressor rendering transormed cells IPTG inducible)	Amp	N-8his, C-FLAG	DARPin.atg4b			bacteria expression, T5 promoter	28	CORe-224	L3	WYTC-001	D3		From U of Zurich, Sven Furler, clone ID: 008-806-2369-B6
+YTC-0029	DARPin: ATG4β	pQIq_MRGS_HIS8_(DARPin)_FLAG (this vector is a pQE30 variant encoding lacIq repressor rendering transormed cells IPTG inducible)	Amp	N-8his, C-FLAG	DARPin.atg4b		s	bacteria expression, T5 promoter	21	CORe-224	L3	WYTC-001	D4		From U of Zurich, Sven Furler, clone ID: 008-806-2369-F8
+YTC-0030	DARPin: ATG4β	pQIq_MRGS_HIS8_(DARPin)_FLAG (this vector is a pQE30 variant encoding lacIq repressor rendering transormed cells IPTG inducible)	Amp	N-8his, C-FLAG	DARPin.atg4b			bacteria expression, T5 promoter	22	CORe-224	L3	WYTC-001	D5		From U of Zurich, Sven Furler, clone ID: 008-806-2369-F10
+YTC-0031	DARPin: ATG4β	pQIq_MRGS_HIS8_(DARPin)_FLAG (this vector is a pQE30 variant encoding lacIq repressor rendering transormed cells IPTG inducible)	Amp	N-8his, C-FLAG	DARPin.atg4b			bacteria expression, T5 promoter	19	CORe-224	L3	WYTC-001	D6		From U of Zurich, Sven Furler, clone ID: 008-806-2370-E2
+YTC-0032	DARPin: ATG4β	pQIq_MRGS_HIS8_(DARPin)_FLAG (this vector is a pQE30 variant encoding lacIq repressor rendering transormed cells IPTG inducible)	Amp	N-8his, C-FLAG	DARPin.atg4b			bacteria expression, T5 promoter	20	CORe-224	L3	WYTC-001	D7		From U of Zurich, Sven Furler, clone ID: 008-806-2370-B4
+YTC-0033	DARPin: ATG4β	pQIq_MRGS_HIS8_(DARPin)_FLAG (this vector is a pQE30 variant encoding lacIq repressor rendering transormed cells IPTG inducible)	Amp	N-8his, C-FLAG	DARPin.atg4b			bacteria expression, T5 promoter	18	CORe-224	L3	WYTC-001	D8		From U of Zurich, Sven Furler, clone ID: 008-806-2370-A5
+YTC-0034	DARPin: ATG4β	pQIq_MRGS_HIS8_(DARPin)_FLAG (this vector is a pQE30 variant encoding lacIq repressor rendering transormed cells IPTG inducible)	Amp	N-8his, C-FLAG	DARPin.atg4b			bacteria expression, T5 promoter	22	CORe-224	L3	WYTC-001	D9		From U of Zurich, Sven Furler, clone ID: 008-806-2370-E5
+YTC-0035	DARPin: ATG4β	pQIq_MRGS_HIS8_(DARPin)_FLAG (this vector is a pQE30 variant encoding lacIq repressor rendering transormed cells IPTG inducible)	Amp	N-8his, C-FLAG	DARPin.atg4b			bacteria expression, T5 promoter	29	CORe-224	L3	WYTC-001	E1		From U of Zurich, Sven Furler, clone ID: 008-806-2370-C8
+YTC-0036	DARPin: ATG4β	pQIq_MRGS_HIS8_(DARPin)_FLAG (this vector is a pQE30 variant encoding lacIq repressor rendering transormed cells IPTG inducible)	Amp	N-8his, C-FLAG	DARPin.atg4b			bacteria expression, T5 promoter	21	CORe-224	L3	WYTC-001	E2		From U of Zurich, Sven Furler, clone ID: 008-806-2370-E12
+YTC-0037	DARPin: ATG4β	pQIq_MRGS_HIS8_(DARPin)_FLAG (this vector is a pQE30 variant encoding lacIq repressor rendering transormed cells IPTG inducible)	Amp	N-8his, C-FLAG	DARPin.atg4b			bacteria expression, T5 promoter	20	CORe-224	L3	WYTC-001	E3		From U of Zurich, Sven Furler, clone ID: 008-806-2371-A1
+YTC-0038	DARPin: ATG4β	pQIq_MRGS_HIS8_(DARPin)_FLAG (this vector is a pQE30 variant encoding lacIq repressor rendering transormed cells IPTG inducible)	Amp	N-8his, C-FLAG	DARPin.atg4b			bacteria expression, T5 promoter	25	CORe-224	L3	WYTC-001	E4		From U of Zurich, Sven Furler, clone ID: 008-806-2371-E4
+YTC-0039	DARPin: ATG4β	pQIq_MRGS_HIS8_(DARPin)_FLAG (this vector is a pQE30 variant encoding lacIq repressor rendering transormed cells IPTG inducible)	Amp	N-8his, C-FLAG	DARPin.atg4b			bacteria expression, T5 promoter	25	CORe-224	L3	WYTC-001	E5		From U of Zurich, Sven Furler, clone ID: 008-806-2371-G4
+YTC-0040	DARPin: ATG4β	pQIq_MRGS_HIS8_(DARPin)_FLAG (this vector is a pQE30 variant encoding lacIq repressor rendering transormed cells IPTG inducible)	Amp	N-8his, C-FLAG	DARPin.atg4b			bacteria expression, T5 promoter	21	CORe-224	L3	WYTC-001	E6		From U of Zurich, Sven Furler, clone ID: 008-806-2371-F5
+YTC-0041	DARPin: ATG4β	pQIq_MRGS_HIS8_(DARPin)_FLAG (this vector is a pQE30 variant encoding lacIq repressor rendering transormed cells IPTG inducible)	Amp	N-8his, C-FLAG	DARPin.atg4b			bacteria expression, T5 promoter	16	CORe-224	L3	WYTC-001	E7		From U of Zurich, Sven Furler, clone ID: 008-806-2371-E6
+YTC-0042	DARPin: ATG4β	pQIq_MRGS_HIS8_(DARPin)_FLAG (this vector is a pQE30 variant encoding lacIq repressor rendering transormed cells IPTG inducible)	Amp	N-8his, C-FLAG	DARPin.atg4b			bacteria expression, T5 promoter	19	CORe-224	L3	WYTC-001	E8		From U of Zurich, Sven Furler, clone ID: 008-806-2371-G9
+YTC-0043	ATG4B:M1-L369	pET28-MHL	Kan	N-6his	ATG4B		Human	bacteria expression	69	CORe-224	L3	WYTC-001	E9		apg4b:YTC045-F05:C237531
+YTC-0044	ATG4B:M1-S383:Bio	pNIC-Bio3	Kan	N-6his, C-Avi	ATG4B		Human	bacteria expression	81	CORe-224	L3	WYTC-001	F1		apg4b:YTC049-H09:C240571
+YTC-0045	PyIRS	pRSF-Duet	Kan					special tRNA	296	CORe-224	L3	WYTC-001	F2		Marx A, University of Konstanz
+YTC-0046	Ub G76M	pGEX-2T	Amp		Ubiquitin	G76M mutant		bacteria expression	145	CORe-224	L3	WYTC-001	F3		Marx A, University of Konstanz
+YTC-0047	Pyl	pET11a	Amp					special tRNA	86	CORe-224	L3	WYTC-001	F4		Marx A, University of Konstanz
+YTC-0048	ph.PINK1	pMAL4c	Amp	MBP	PINK1		Human	bacteria expression		CORe-224	L3	WYTC-001	F5		MRC-PPU:DU34699, see MTA
+YTC-0049	tc.PINK1	pMAL4c	Amp	MBP	PINK1		Human	bacteria expression		CORe-224	L3	WYTC-001	F6		MRC-PPU:DU34701, see MTA
+YTC-0050	USP1/WDR48	pFASTBac-Dual	Amp/Gent	GST	USP1/WDR48		Human	bacteria expression		CORe-224	L3	WYTC-001	F7		MRC-PPU:DU23039, see MTA
+YTC-0051	RFWD3:G430-E774	pET28-MHL	Kan	N-6his-TEV	RFWD3	WD40	Human	bacteria expression	37	CORe-224	L3	WYTC-001	F8	Clear? insoluble?, BL21 pRARE2	YTC049E02, yli
+YTC-0052	RFWD3:S425-E774	pET28-MHL	Kan	N-6his-TEV	RFWD3	WD40	Human	bacteria expression	61	CORe-224	L3	WYTC-001	F9	Clear? insoluble?, BL21 pRARE2	YTC049E03, yli
+YTC-0055	CSB:1381-1493	pHis-parallel2	?	N-His6	ERCC6			bacteria expression		CORe-224	L3	WYTC-001	G3		John Walker UWO
+YTC-0056	CSB:WHD:1421-1493	pGST-parallel2	?	N-GST	ERCC6			bacteria expression		CORe-224	L3	WYTC-001	G4		John Walker UWO
+YTC-0057	CSB:1381-1493:GST	pGST-parallel2	?	N-GST	ERCC6			bacteria expression		CORe-224	L3	WYTC-001	G5		John Walker UWO
+YTC-0058	BRRF1:FL	pM253F	Amp	C-SPA tag	BRRF1			cDNA		CORe-224	L3	WYTC-001	G6		from Lori Frappier lab, viral protein, binds to USP15, USP9X, Ampli
+YTC-0059	UBR5:2383-2757:avi	pGATEWAY?		avitag	UBR5			bacteria expression		CORe-224	L3	WYTC-001	G7		from WeiZHANG WZ0048, Seq
+YTC-0062	ubc16.001.147	pET28a-LIC	Kan	His-Thrombin				bacteria expression		CORe-224	L3	WYTC-001	H1		SDC107D04
+YTC-0063	ubc16.001.147	pET28a-MHL	Kan	His-TEV				bacteria expression		CORe-224	L3	WYTC-001	H2		SDC127C09
+YTC-0064	ubc14.001.145.rbs.ubc28.001.153	pET28a-LIC	Kan	His6-Thrombin				bacteria expression		CORe-224	L3	WYTC-001	H3		SDC049B02
+YTC-0065	ubc14.001.145	pET28a-LIC	Kan	His6-Thrombin				bacteria expression		CORe-224	L3	WYTC-001	H4		SDC050A02, Seq
+YTC-0066	UBE2N:C87K92KA	pET28a-LIC	Kan	His6-Thrombin				bacteria expression		CORe-224	L3	WYTC-001	H5		YTC037F01, Seq
+YTC-0067	H6:a1:11-550:B2:76-272:g1:24-327	pET28a	Kan	His6	AMPK complex			bacteria expression		CORe-224	L3	WYTC-001	H6		cf. Cell Research 2015 (pmid:25412657). from karsten.melcher@vai.org, exp/pur
+YTC-0068	SEC23A	pFastBac1						insect expression		CORe-224	L3	WYTC-001	H7		#4; plasmid from University of Wisconsin-Madison School of Medicine and Public Health, Jon Audhya Lab, for co-expression with SEC24A; coded YTC034G02
+YTC-0069	SEC24A	pFastBac1						insect expression		CORe-224	L3	WYTC-001	H8		#3; plasmid from University of Wisconsin-Madison School of Medicine and Public Health, Jon Audhya Lab, for co-expression with SEC24A; coded YTC034G03
+YTC-0070	mbptpa	pUC57	AMP		PTPA from m.b			cDNA		CORe-224	L3	WYTC-001	H9		Genscript synthesized M30134
+YTC-0071	Cif:A25-R319	pET28a?						bacteria expression		CORe-224	L3	WYTC-001	I1		YTC027B07-SUMO? could be one of the plasmids of Cif, labelled by Yiru Lin
+YTC-0072	SIAH2:131-321-Egln3:1-239	pET28a?						bacteria expression		CORe-224	L3	WYTC-001	I2		cf. YTC037 plate for SIAH2/EGLN3
+YTC-0074	YWHAZ:M1-N245:fix	pET28-MHL	Kan	N-6his-TEV	YWHAZ			bacteria expression		CORe-224	L3	WYTC-001	I4		YTC002H05, mutation fixed
+YTC-0075	USP8:M1-G142:Bio	pNIC-Bio3	Kan	N-6his-TEV, C-Avi	USP8 NTD		Human	bacteria expression	49	CORe-224	L3	WYTC-001	I5		USP08:YTC054-G06:C242011 ploppnau
+YTC-0076	USP8:M1-T318:Bio	pNIC-Bio3	Kan	N-6his-TEV, C-Avi	USP8 NTD		Human	bacteria expression	33	CORe-224	L3	WYTC-001	I6		USP08:YTC054-G07:C242012 ploppnau
+YTC-0077	USP8:M1-K475:Bio	pNIC-Bio3	Kan	N-6his-TEV, C-Avi	USP8 NTD		Human	bacteria expression	47	CORe-224	L3	WYTC-001	I7		USP08:YTC054-G08:C242013 ploppnau
+YTC-0078	USP8:G181-T318:Bio	pNIC-Bio3	Kan	N-6his-TEV, C-Avi	USP8 NTD		Human	bacteria expression	42	CORe-224	L3	WYTC-001	I8	Clear?, BL21 pRARE2	USP08:YTC054-G09:C242014 ploppnau
+YTC-0079	USP8:G181-T1118:Bio	pNIC-Bio3	Kan	N-6his-TEV, C-Avi	USP8 ΔNTD		Human	bacteria expression	39	CORe-224	L3	WYTC-001	I9		USP08:YTC054-G10:C242015 ploppnau
+YTC055E01	RPA2:FL:M1-E270	pACYC-GST	Chl	N-GST-TEV	RPA2	FL	Human	bacteria expression	25	CORe-224	L3	WYTC-001	A1	High, soluble, LOBSTR	YTC055E01
+YTC055E02	RPA2:CTD:A202-E270	pACYC-GST	Chl	N-GST-TEV	RPA2	CTD	Human	bacteria expression	33	CORe-224	L3	WYTC-001	A2	High, soluble, LOBSTR	YTC055E02
+SDC178E08	usp46.005.366	pET28a-LIC								CORe-224	L3	WYTC-002	F9		
+SDC178E08	usp46.005.366	pET28a-LIC								CORe-224	L3	WYTC-002	G1		
+SDC196B09	usp01.0001x0785	pFBOH-LIC								CORe-224	L3	WYTC-002	G2		
+SDC196B09	usp01.0001x0785	pFBOH-LIC								CORe-224	L3	WYTC-002	G3		
+SDC196B09	usp01.0001x0785	pFBOH-LIC								CORe-224	L3	WYTC-002	H2		
+YTC-0088	USP8:A315-P442:Bio	pNIC-Bio3	Kan	N-6his-TEV, C-Avi			Human	bacteria expression	39	CORe-224	L3	WYTC-002	A1		USP08:YTC054-G11:C242016
+YTC-0089	USP8:A315-G771:Bio	pNIC-Bio3	Kan	N-6his-TEV, C-Avi			Human	bacteria expression	30	CORe-224	L3	WYTC-002	A2		USP08:YTC054-G12:C242017
+YTC-0090	USP8:P442-G572:Bio	pNIC-Bio3	Kan	N-6his-TEV, C-Avi			Human	bacteria expression	34	CORe-224	L3	WYTC-002	A3		USP08:YTC054-H01:C242018
+YTC-0091	USP8:P442-G771:Bio	pNIC-Bio3	Kan	N-6his-TEV, C-Avi			Human	bacteria expression	47	CORe-224	L3	WYTC-002	A4		USP08:YTC054-H02:C242019
+YTC-0092	USP8:T454-S530	pET28-MHL	Kan	N-6his-TEV	DUF		Human	bacteria expression	40	CORe-224	L3	WYTC-002	A5		USP08:YTC019-E02:C232729
+YTC-0093	USP8:T458-S530	pET28-MHL	Kan	N-6his-TEV	DUF		Human	bacteria expression	33	CORe-224	L3	WYTC-002	A6		USP08:YTC019-E04:C232731
+YTC-0094	USP8:T458-T540	pET28-MHL	Kan	N-6his-TEV	DUF		Human	bacteria expression	32	CORe-224	L3	WYTC-002	A7		USP08:YTC019-E05:C232732
+YTC-0095	USP8:T458-A1100	pET28-MHL	Kan	N-6his-TEV	DUF+USP		Human	bacteria expression	34	CORe-224	L3	WYTC-002	A8		USP08:YTC019-E06:C232733
+YTC-0096	USP8:R640-P690	pET28-MHL	Kan	N-6his-TEV			Human	bacteria expression	32	CORe-224	L3	WYTC-002	A9		USP08:YTC054-G02:C241991
+YTC-0097	USP8:R640-E730	pET28-MHL	Kan	N-6his-TEV			Human	bacteria expression	30	CORe-224	L3	WYTC-002	B1		USP08:YTC054-G03:C241992
+YTC-0098	USP8:G645-S686	pET28-MHL	Kan	N-6his-TEV			Human	bacteria expression	38	CORe-224	L3	WYTC-002	B2		USP08:YTC054-G04:C241993
+YTC-0099	USP8:P720-T1118:Bio	pNIC-Bio3	Kan	N-6his-TEV, C-Avi			Human	bacteria expression	31	CORe-224	L3	WYTC-002	B3	High, soluble, BL21 pRARE2	USP08:YTC054-H03:C242020
+YTC-0100	USP8:I754-A1100	pET28-MHL	Kan	N-6his-TEV	USP for better resolution		Human	bacteria expression	35	CORe-224	L3	WYTC-002	B4	Insoluble?, BL21 pRARE2	USP08:YTC019-E07:C232734
+YTC-0101	USP09X:M1-N748	pET28-MHL	Kan	N-6his-TEV	DUF		Human	bacteria expression	35	CORe-224	L3	WYTC-002	B5		USP09X:YTC033-D12:C236555
+YTC-0102	USP09X:M1-R803	pET28-MHL	Kan	N-6his-TEV	DUF		Human	bacteria expression	30	CORe-224	L3	WYTC-002	B6		USP09X:YTC033-E01:C236556
+YTC-0103	USP09X:M1-E863	pET28-MHL	Kan	N-6his-TEV	DUF		Human	bacteria expression	30	CORe-224	L3	WYTC-002	B7		USP09X:YTC033-E02:C236557
+YTC-0104	USP09X:T70-R803	pET28-MHL	Kan	N-6his-TEV	DUF		Human	bacteria expression	26	CORe-224	L3	WYTC-002	B8		USP09X:YTC033-E10:C236565
+YTC-0105	USP09X:G373-E863	pET28-MHL	Kan	N-6his-TEV	DUF		Human	bacteria expression	32	CORe-224	L3	WYTC-002	B9		USP09X:YTC033-G01:C236580
+YTC-0106	USP9X:M1599-D1960	pET28-MHL	Kan	N-6his-TEV	USP, NT too short		Human	bacteria expression	36	CORe-224	L3	WYTC-002	C1		USP09X:YTC013-H01:C230487
+YTC-0107	USP8:R640-P690	pET28-MHL	Kan	N-6his-TEV			Human	bacteria expression	36	CORe-224	L3	WYTC-002	C2		USP08:YTC054-G02:C241991
+YTC-0108	USP8:G645-S686	pET28-MHL	Kan	N-6his-TEV			Human	bacteria expression	25	CORe-224	L3	WYTC-002	C3		USP08:YTC054-G04:C241993
+YTC-0109	USP8:V648-S686	pET28-MHL	Kan	N-6his-TEV			Human	bacteria expression	37	CORe-224	L3	WYTC-002	C4		USP08:YTC054-G05:C241994
+YTC-0110	ubv.8.2:M1-G75	pTYB2	Amp		for diub			bacteria expression	317	CORe-224	L3	WYTC-002	C5		for diub... delete M at Nterm
+YTC-0111	Clec16a: M1-D1053	pMCGS7	Amp	N-6his-TEV, C-FLAG	Clec16a FL		Mouse	bacteria expression	41	CORe-224	L3	WYTC-002	C6		Scott Soleimanpour, Michigan, seq from Min6 insulinoma cells
+YTC-0112	usp08.hs.0001-1118	pET28a-LIC	Kan	N-6his-Thrombin	USP8 FL		Human	bacteria expression	59	CORe-224	L3	WYTC-002	C7	Good, soluble, BL21 pRARE2	USP08:SDC17-D05:C5572
+YTC-0113	usp08.hs.0181-1118	pET28a-LIC	Kan	N-6his-Thrombin	USP8 ΔMIT		Human	bacteria expression	60	CORe-224	L3	WYTC-002	C8		USP08:SDC17-D04:C5571
+YTC-0114	usp08.hs.0442-1118	pET28a-LIC	Kan	N-6his-Thrombin	USP8 DUF2+USP		Human	bacteria expression	40	CORe-224	L3	WYTC-002	C9		USP08:SDC17-D03:C5570
+YTC-0115	usp08.0001.0475	pET28a-LIC	Kan	N-6his-Thrombin	USP8 ΔDUF2+USP		Human	bacteria expression	42	CORe-224	L3	WYTC-002	D1		USP08:SDC159-G10:C203713
+YTC-0116	usp08.0315.1118	pET28a-LIC	Kan	N-6his-Thrombin	USP8 ΔMIT-RhoD		Human	bacteria expression	42	CORe-224	L3	WYTC-002	D2		USP08:SDC159-G12:C203715
+YTC-0117	usp08.0315.0771	pET28a-LIC	Kan	N-6his-Thrombin	USP8 DUF1+2		Human	bacteria expression	50	CORe-224	L3	WYTC-002	D3		USP08:SDC159-G11:C203714
+YTC-0118	usp08.0459.1118	pET28a-LIC	Kan	N-6his-Thrombin	USP8 DUF2+USP		Human	bacteria expression	49	CORe-224	L3	WYTC-002	D4		USP08:SDC159-H02:C203717
+YTC-0119	usp08.0007.1118	pET28a-LIC	Kan	N-6his-Thrombin	USP8 FL		Human	bacteria expression	51	CORe-224	L3	WYTC-002	D5	Good, soluble, BL21 pRARE2	USP08:SDC153-H09:C45872
+YTC-0120	usp08.0007.1110	pET28a-LIC	Kan	N-6his-Thrombin	USP8 FL		Human	bacteria expression	45	CORe-224	L3	WYTC-002	D6	Good, soluble, BL21 pRARE2	USP08:SDC153-H08:C45871
+YTC-0121	usp08.0315.0475	pET28a-LIC	Kan	N-6his-Thrombin	USP8 DUF1		Human	bacteria expression	59	CORe-224	L3	WYTC-002	D7		USP08:SDC153-H11:C45874
+YTC-0122	usp08.0700.1118	pET28a-LIC	Kan	N-6his-Thrombin	USP8 USP (+ 14-3-3 BD)		Human	bacteria expression	47	CORe-224	L3	WYTC-002	D8	Good, soluble, BL21 pRARE2	USP08:SDC064-H05:C22130
+YTC-0123	usp08.0734.1110	pET28a-LIC	Kan	N-6his-Thrombin	USP8 USP		Human	bacteria expression	43	CORe-224	L3	WYTC-002	D9	High, soluble, BL21 pRARE2	USP08:SDC064-H08:C22133
+YTC-0124	usp08.0001.0142	pET28a-LIC	Kan	N-6his-Thrombin	USP8 MIT		Human	bacteria expression	55	CORe-224	L3	WYTC-002	E1	Good, soluble, BL21 pRARE2	USP08:SDC057-G11:C19811
+YTC-0125	usp08.0015.0160	pET28a-LIC	Kan	N-6his-Thrombin	USP8 MIT		Human	bacteria expression	42	CORe-224	L3	WYTC-002	E2	Good, soluble, BL21 pRARE2	USP08:SDC057-H03:C19815
+YTC-0126	usp08.0460.0570	pET28a-LIC	Kan	N-6his-Thrombin			Human	bacteria expression	34	CORe-224	L3	WYTC-002	E3		USP08:SDC057-H12:C19824
+YTC-0127	usp08.0442.0700	pET28a-LIC	Kan	N-6his-Thrombin			Human	bacteria expression	41	CORe-224	L3	WYTC-002	E4		USP08:SDC055-C05:C17308
+YTC-0128	usp08.0181.0319	pET28a-LIC	Kan	N-6his-Thrombin	USP8 RhoD		Human	bacteria expression	42	CORe-224	L3	WYTC-002	E5	Good, soluble, BL21 pRARE2	USP08:SDC051-H02:C17461
+YTC-0129	usp08.0001.0319	pET28a-LIC	Kan	N-6his-Thrombin	USP8 MIT+RhoD		Human	bacteria expression	38	CORe-224	L3	WYTC-002	E6		USP08:SDC051-H03:C17462
+YTC-0130	RNF41:M1-I317:ACYC	pACYC-GST	Chl	N-GST-TEV	NRDP1	FL	Human	bacteria expression	31	CORe-224	L3	WYTC-002	H9		NRDP1:YTC054-E01:C241968
+YTC-0131	RNF41:D15-I317:ACYC	pACYC-GST	Chl	N-GST-TEV	NRDP1	FL	Human	bacteria expression	28	CORe-224	L3	WYTC-002	I1		NRDP1:YTC054-E02:C241969
+YTC-0132	RNF41:M1-I317:ACYC	pACYC-LICplus	Chl	N-6his-Thrombin	NRDP1	FL	Human	bacteria expression	25	CORe-224	L3	WYTC-002	I2		NRDP1:YTC054-E03:C242009
+YTC-0133	RNF41:D15-I317:ACYC	pACYC-LICplus	Chl	N-6his-Thrombin	NRDP1	FL	Human	bacteria expression	25	CORe-224	L3	WYTC-002	I3		NRDP1:YTC054-E04:C242010
+YTC-0134	RNF41:M1-I317:Trx	pET15TRX-MHL	Amp	N-6his-TRX-thrombin?	NRDP1	FL	Human	bacteria expression	20	CORe-224	L3	WYTC-002	I4		NRDP1:YTC054-E05:C241970
+YTC-0135	RNF41:D15-I317:Trx	pET15TRX-MHL	Amp	N-6his-TRX-thrombin?	NRDP1	FL	Human	bacteria expression	22	CORe-224	L3	WYTC-002	I5		NRDP1:YTC054-E06:C241971
+YTC-0136	RNF41:M1-I317:SUMO	pET28-MKH8SUMO	Kan	His-SUMO-TEV	NRDP1	FL	Human	bacteria expression	34	CORe-224	L3	WYTC-002	I6		NRDP1:YTC054-F01:C241978
+YTC-0137	RNF41:D15-I317:SUMO	pET28-MKH8SUMO	Kan	His-SUMO-TEV	NRDP1	FL	Human	bacteria expression	30	CORe-224	L3	WYTC-002	I7		NRDP1:YTC054-F08:C241985
+YTC-0138	RNF41:M1-I317:GST	pGEX-MHL	Amp	N-GST-?	NRDP1	FL	Human	bacteria expression	163	CORe-224	L3	WYTC-002	I8		NRDP1:YTC054-F09:C241986
+YTC-0139	RNF41:D15-I317:GST	pGEX-MHL	Amp	N-GST-?	NRDP1	FL	Human	bacteria expression	188	CORe-224	L3	WYTC-002	I9		NRDP1:YTC054-F10:C241987
+YTC002A06	Ubiq.wt	pET53								CORe-224	L3	WYTC-002	G7		Wild type Ubiquitin in pET53 from Dev Sidhu lab, Amp, His6, not sequenced. Not sure if the right template was used.
+YTC020A01	WDR48:H5-T677:EEK292A3:BV	pFBOH-MHL								CORe-224	L3	WYTC-002	F3		
+YTC020A02	WDR48:S18-T677:EEK292A3:BV	pFBOH-MHL								CORe-224	L3	WYTC-002	F4		
+YTC020A03	WDR48:S18-T677:EKE626A3:BV	pFBOH-MHL								CORe-224	L3	WYTC-002	F5		
+YTC020E01	PREB:M1-V389:CH	pNIC-CH								CORe-224	L3	WYTC-002	F6		
+YTC020E02	PREB:R4-V389:CH	pNIC-CH								CORe-224	L3	WYTC-002	F7		
+YTC020E03	PREB:R5-V389:CH	pNIC-CH								CORe-224	L3	WYTC-002	F8		
+pET43.1a		pET43.1a						Vector		CORe-224	L3	WYTC-003	A1		
+SDC066G07	USP46.001.366	pET28a-LIC	Kan		USP46				103	CORe-224	L3	WYTC-003	I8		SGC
+SDC089A09	nedd4.0001.0900	pET28a-LIC	Kan		NEDD4				35.6	CORe-224	L3	WYTC-003	I7		SGC
+SDC167A01	ube3a.0518.0875	pET28-MHL	Kan	His-SUMO	UBE3A		Human			CORe-224	L3	WYTC-003	I2		SGC/sungho box
+SDC198H09	ube3a.0118x0875	pET28a-LIC	Kan	His-SUMO	UBE3A		Human			CORe-224	L3	WYTC-003	I1		SGC/sungho box
+SDC208A10	ube3a.0091x0867	pESUMO-LIC	Kan	His-SUMO	UBE3A		Human			CORe-224	L3	WYTC-003	H7		SGC/sungho box
+SDC208A11	ube3a.0091x0871	pESUMO-LIC	Kan	His-SUMO	UBE3A		Human			CORe-224	L3	WYTC-003	H8		SGC/sungho box
+SDC208A12	ube3a.0091x0875	pESUMO-LIC	Kan	His-SUMO	UBE3A		Human			CORe-224	L3	WYTC-003	H9		SGC/sungho box
+YTC-0001	RFWD3-WD40.1	pET53	Amp		Ubv				36.4	CORe-224	L3	WYTC-003	I3		Wei Zhang
+YTC-0002	RFWD3-WD40.2	pET53	Amp		Ubv				40.4	CORe-224	L3	WYTC-003	I4		Wei Zhang
+YTC-0003	RFWD3-WD40.3	pET53	Amp		Ubv				57.7	CORe-224	L3	WYTC-003	I5		Wei Zhang
+YTC-0004	RFWD3-WD40.4	pET53	Amp		Ubv				miniprep	CORe-224	L3	WYTC-003	I6		Wei Zhang
+YTC-0140	usp08.0315.0429	pET28a-LIC	Kan	N-6his-Thrombin	USP8 DUF1		Human	bacteria expression	59	CORe-224	L3	WYTC-003	E2		USP08:SDC153-H10:C45873
+YTC-0141	usp08.0442.0680	pET28a-LIC	Kan	N-6his-Thrombin	USP8 DUF2		Human	bacteria expression	45	CORe-224	L3	WYTC-003	E3		USP08:SDC055-C04:C17307
+YTC-0142	usp08.0456.0672	pET28a-LIC	Kan	N-6his-Thrombin	USP8 DUF2		Human	bacteria expression	45	CORe-224	L3	WYTC-003	E4		USP08:SDC055-C09:C17312
+YTC-0143	usp08.0456.0680	pET28a-LIC	Kan	N-6his-Thrombin	USP8 DUF2		Human	bacteria expression	48	CORe-224	L3	WYTC-003	E5		USP08:SDC055-C10:C17313
+YTC-0144	usp08.0456.0700	pET28a-LIC	Kan	N-6his-Thrombin	USP8 DUF2		Human	bacteria expression	43	CORe-224	L3	WYTC-003	E6		USP08:SDC055-C11:C17314
+YTC-0145	nrdp1.185.317	pET28a-LIC	Kan	N-6his-Thrombin	NRDP1 ΔZnF		Human	bacteria expression	73	CORe-224	L3	WYTC-003	E7		NRDP1:SDC046-F03:C14591
+YTC-0146	nrdp1.193.317	pET28a-LIC	Kan	N-6his-Thrombin	NRDP1 ΔZnF		Human	bacteria expression	63	CORe-224	L3	WYTC-003	E8		NRDP1:SDC046-F07:C14595
+YTC-0147	SNase V8-type nuclease	pET3a	Amp	No tag	SNase 83-231 uniprot: P00644		Staph aereus	bacteria expression	175	CORe-224	L3	WYTC-003	E9		Gift from Zhong Zhou Chen (China Agricultural University)
+YTC-0148	SIAH2:M1-P324	pCDNA-HFT	Amp	N-His-FLAG	SIAH2 FL		Human	mammalian expression		CORe-224	L3	WYTC-003	F1		SIAH2:YTC042-G12:C239320
+YTC-0149	SIAH1:M32-C313	pCMV-SPORT6	Amp	N-His-FLAG	SIAH1 isoform 2		Human	cDNA		CORe-224	L3	WYTC-003	F2		AT52-B2
+YTC-0150	RNF41:M1-I317	pFBOH-LIC notag	Amp	no tag	NRDP1 FL		Human	insect expression		CORe-224	L3	WYTC-003	F3		NRDP1:YTC042-F06:C239304
+YTC-0151	USP8:M1-T1118	pCDNA-HFT	Amp	N-His-FLAG	USP8 FL		Human	mammalian expression		CORe-224	L3	WYTC-003	F4		USP08:YTC042-H11:C239326
+YTC-0152	SIAH2:S76-P324	PET28-MHL	Kan	N-6his-TEV	SIAH2:S76-P324		Human	bacteria expression	47	CORe-224	L3	WYTC-003	F5		SIAH2:YTC037-A08:C236739
+YTC-0153	SIAH2:M1-340:SUMO	pET28-MKH8SUMO	Kan	N-8his-thrombin-C-SUMO-TEV	SIAH2:M1-340:SUMO		Human	bacteria expression	63	CORe-224	L3	WYTC-003	F6		SIAH2:YTC020-H05:C234430
+YTC-0154	SIAH2:S76-P324	pET28-MKH8SUMO	Kan	N-8his-thrombin-C-SUMO-TEV	SIAH2:S76-P324		Human	bacteria expression	75	CORe-224	L3	WYTC-003	F7		SIAH2:YTC037-B11:C236749
+YTC-0155	nrdp1.001.317	pET28a-LIC	Kan	N-6his-Thrombin	nrdp1.001.317		Human	bacteria expression	57	CORe-224	L3	WYTC-003	F8		NRDP1:SDC046-E03:C14579
+YTC-0156	OTUD1 287-481	pOPINK	Kan	N-6his-GST-HRV3C	OTUD1 OTU+UIM		Human	bacteria expression	157	CORe-224	L3	WYTC-003	F9		Wei Zhang, Guelph, addgene 61406
+YTC-0157	OTUD1 1-481	pOPINK	Kan	N-6his-GST-HRV3C	OTUD1 FL		Human	bacteria expression	201	CORe-224	L3	WYTC-003	G1		Wei Zhang, Guelph, addgene 61405
+YTC-0158	OTUD1 287-437	pOPINK	Kan	N-6his-GST-HRV3C	OTUD1 OTU		Human	bacteria expression	98	CORe-224	L3	WYTC-003	G2		Wei Zhang, Guelph, addgene 61407
+YTC-0159	UbV OTUD1.1	pET53	Amp	N-6his, C-strep	UbV OTUD1.1		Human	bacteria expression	125	CORe-224	L3	WYTC-003	G3		Wei Zhang, Guelph
+YTC-0160	UbV OTUD1.2	pET53	Amp	N-6his, C-strep	UbV OTUD1.2		Human	bacteria expression	82	CORe-224	L3	WYTC-003	G4		Wei Zhang, Guelph
+YTC-0161	Clec16a isoform 2	pcDNA3.1+	Amp	C-FLAG	Clec16a isoform 2 FL		Human	mammalian expression		CORe-224	L3	WYTC-003	G5		Scott Soleimanpour, Michigan
+YTC-0162	Clec16a isoform 1	pcDNA3.1+	Amp	C-FLAG	Clec16a isoform 1 FL		Human	mammalian expression		CORe-224	L3	WYTC-003	G6		Scott Soleimanpour, Michigan
+YTC-0163	NRDP1	pcDNA3.3x?	Amp	N-HA	NRDP1 FL		Mouse	mammalian expression		CORe-224	L3	WYTC-003	G7		Scott Soleimanpour, Michigan
+YTC-0164	USP8	pFLAG-CMV-5a	Amp	C-FLAG	USP8 FL		Mouse	mammalian expression		CORe-224	L3	WYTC-003	G8		Scott Soleimanpour, Michigan
+YTC-0165		pMAL-MHL	Amp	N-MBP-TEV				Vector bacteria expression		CORe-224	L3	WYTC-003	G9		SGC
+YTC-0166		pET15SUMO-MHL	Amp	N-6his-SUMO-TEV				Vector bacteria expression		CORe-224	L3	WYTC-003	H1		SGC
+YTC-0167		p6HISMAL-MHL	Amp	N-6his-MBP-TEV				Vector bacteria expression		CORe-224	L3	WYTC-003	H2		SGC
+YTC-0168		pET15NUSA-MHL	Amp	N-6his-NusA-TEV				Vector bacteria expression		CORe-224	L3	WYTC-003	H3		SGC
+YTC-0169		pET15TRX-MHL	Amp	N-6his-Trx-TEV				Vector bacteria expression		CORe-224	L3	WYTC-003	H4		SGC
+YTC-0170		pGEX-MHL	Amp	N-GST-TEV				Vector bacteria expression		CORe-224	L3	WYTC-003	H5		SGC
+YTC-0171	Benzonase	pMAL-p2E	Amp	N-signal-MBP-TEV	Benzonase		Serratia marcescens	bacteria expression		CORe-224	L3	WYTC-003	H6		SGC
+YTC-0172	stambp.001.424	pET28-MHL	Kan	N-6his-TEV	STAMBP FL		Human	bacteria expression		CORe-224	L3	WYTC-003	D4		Incorrect seq. Is last 44 resdiues according to Wei (Guelph)
+YTC-0173	STAMBP:S219-R424	pET28-MHL	Kan	N-6his-TEV	STAMBP CD		Human	bacteria expression		CORe-224	L3	WYTC-003	D5		
+YTC-0174	STAMBPL1:V263-R436::RC1	pET28-MHL	Kan	N-6his-TEV	STAMBP CD		Human	bacteria expression		CORe-224	L3	WYTC-003	D6		
+YTC-0175		pGex4T-1	Amp	N-GST-thrombin				Vector		CORe-224	L3	WYTC-003	D7		
+		pET24a						Vector		CORe-224	L3	WYTC-003	A2		
+		pET32a						Vector		CORe-224	L3	WYTC-003	A3		
+		pET28b						Vector		CORe-224	L3	WYTC-003	A4		
+		pET28c						Vector		CORe-224	L3	WYTC-003	A5		
+		pET28a						Vector		CORe-224	L3	WYTC-003	A6		
+		pET16b						Vector		CORe-224	L3	WYTC-003	A7		
+		pET16b						Vector		CORe-224	L3	WYTC-003	A8		
+		pET28c						Vector		CORe-224	L3	WYTC-003	A9		
+		pET28						Vector	maxi prep	CORe-224	L3	WYTC-003	B1		
+		pETGB1						Vector		CORe-224	L3	WYTC-003	B2		
+		pET28c						Vector		CORe-224	L3	WYTC-003	B3		
+		pETBC1						Vector		CORe-224	L3	WYTC-003	B4		
+		pST39						Vector		CORe-224	L3	WYTC-003	B5		
+		pETBC1						Vector		CORe-224	L3	WYTC-003	B6		
+		pET43.1a						Vector		CORe-224	L3	WYTC-003	B7		
+		pET3a Tr						Vector		CORe-224	L3	WYTC-003	B8		
+		pET43 maxi						Vector		CORe-224	L3	WYTC-003	B9		
+		pET28a						Vector		CORe-224	L3	WYTC-003	C1		
+		pET32a						Vector		CORe-224	L3	WYTC-003	C2		
+		pET32 maxi						Vector		CORe-224	L3	WYTC-003	C3		
+		pET30b						Vector		CORe-224	L3	WYTC-003	C4		
+		pET28a						Vector		CORe-224	L3	WYTC-003	C5		
+		pET28a						Vector		CORe-224	L3	WYTC-003	C6		
+		pET28a						Vector		CORe-224	L3	WYTC-003	C7		
+		pET28-MHL						Vector		CORe-224	L3	WYTC-003	C8		
+		pLP-CMV-HA acceptor vector					ClonTech	Vector	500	CORe-224	L3	WYTC-003	C9		
+		pEGFP-C3						Vector	300	CORe-224	L3	WYTC-003	D1	Johnny's box	
+		pEGFP-C1						Vector		CORe-224	L3	WYTC-003	D2		
+		pFBOH-LIC						Vector		CORe-224	L3	WYTC-003	D3		
+SDC155	Usp05.001.835.C195A	pET28a-LIC			USP5		human			CORe-224	L3	WYTC-004	B6		
+SDC155D08	Usp05.001.835.C335A	pET28a-LIC			USP5		human			CORe-224	L3	WYTC-004	B7		
+SDC155D09-11	Usp05.001.835.C815A	pET28a-LIC			USP5		human			CORe-224	L3	WYTC-004	B9		
+SDC155D09-3	Usp05.001.835.C815A	pET28a-LIC			USP5		human			CORe-224	L3	WYTC-004	B8		
+SDC155D10	Usp04.mm.001.962.F127R	pET28a-LIC			Usp4		mouse			CORe-224	L3	WYTC-004	B4		
+SDC155G11	usp05.0001x0835.delta172x286	pET28a-LIC			USP5					CORe-224	L3	WYTC-004	C1		
+SDC155G12	Usp05.0001x0835.F32S/F34S	pET28a-LIC			USP5		human			CORe-224	L3	WYTC-004	B5		
+SDC163E09	dnmt1.0351.0767	pET28a-LIC			DNMT1					CORe-224	L3	WYTC-004	C2		
+SDC215A01	usp15.0006-0223.124VE	pET28a-LIC			USP15					CORe-224	L3	WYTC-004	C6		
+SDC215A03	usp15.0006-0223.122BE	pET28a-LIC			USP15					CORe-224	L3	WYTC-004	C7		
+SDC215A04	usp15.0006-0223.121BP	pET28a-LIC			USP15					CORe-224	L3	WYTC-004	C8		
+SDC215A05	itch.0483-0862.add_RLRGG*	pET28a-LIC			ITCH					CORe-224	L3	WYTC-004	C9		
+SDC215A06	itch.0483-0862.add_LRLRGG*	pET28a-LIC			ITCH					CORe-224	L3	WYTC-004	D1		
+SDC215A07	itch.0483-0862.add_TRLRGG*	pET28a-LIC			ITCH					CORe-224	L3	WYTC-004	D2		
+SDC217A08	itch.0483-0862.add_HRLRGG*	pET28a-LIC			ITCH					CORe-224	L3	WYTC-004	D3		
+YTC-0176	Ubv10:M1-G79	pET28-MHL	Kan	N-6his-TEV	ubv10.01		Human	Bacteria expression		CORe-224	L3	WYTC-004	H9		ubv10.01:YTC005-B06:C224834
+YTC-0177	ubv.2.3:M1-G75	pTYB2	Amp	C-intein chitin-binding tag (self-cleaving)	ubv.2.3		Human	Bacteria expression		CORe-224	L3	WYTC-004	I1		ubv.2.3:YTC046-H04:C239418
+YTC-0178	ubv.21.4:M1-G75	pTYB2	Amp	C-intein chitin-binding tag (self-cleaving)	ubv.21.4		Human	Bacteria expression		CORe-224	L3	WYTC-004	I2		ubv.21.4:YTC046-H05:C239419
+YTC-0179	UBC:M1-P78:vu7.2	pET28-MHL	Kan	N-6his-TEV	Ubv.USP7.02		Human	Bacteria expression		CORe-224	L3	WYTC-004	I3		ubh04:YTC016-E10:C231906
+YTC-0180	HRV3C	pET42	Amp	no tag	HRV3C		Human	Bacteria expression		CORe-224	L3	WYTC-004	I4		addgene 78571
+YTC-0181	eSrtA	pET29	Kan	C-6his	Sortase A pentamutant		S. aureus	Bacteria expression		CORe-224	L3	WYTC-004	I5		addgene 75144
+YTC-0182	USP9X:R1551-S1970	pET28-MHL	Kan	N-6his-TEV	USP9X	CD	Human	Bacteria expression		CORe-224	L3	WYTC-004	I6		USP09X:YTC014-F08:C231764
+YTC-0183	USP09X:1551.1970:KE1637AA	pET28-MHL	Kan	N-6his-TEV	USP9X	CD, SER mutant	Human	Bacteria expression		CORe-224	L3	WYTC-004	I7		USP09X:YTC020-H11:C234436
+YTC-0184		pET28NGB-MHL	Kan	N-6his-NGB-TEV				Vector bacteria expression		CORe-224	L3	WYTC-004	I8		Double SDM of YTC-0018 to remove extra BseRI digest sites, 2020-01-01 Cody
+	CM23-C12	pET28-MHL?			METTL21C			cDNA		CORe-224	L3	WYTC-004	A2		
+	USP46	pcDNA								CORe-224	L3	WYTC-004	A3		
+	USP46	pcd'vd?								CORe-224	L3	WYTC-004	A4		
+	TEV protease	sweden copy	Amp					bacteria expression		CORe-224	L3	WYTC-004	A6		
+	TEV protease	SH	Amp					bacteria expression		CORe-224	L3	WYTC-004	A7		
+	ULP1(Sumo protease)	pET23b	Amp	C-His6				bacteria expression		CORe-224	L3	WYTC-004	B1		from Chen lab Beijing, to confirm
+	ULP1(Sumo protease)	pET23b	Amp	C-His6				bacteria expression		CORe-224	L3	WYTC-004	B2		from Chen lab Beijing, to confirm
+	ULP1(Sumo protease)	pET23b	Amp	C-His6				bacteria expression		CORe-224	L3	WYTC-004	B3		from Chen lab Beijing, to confirm
+YTC-0185	usp09x.1544.1965.GST	pGEX-4T-1	Amp	N-GST-thrombin	USP9x CD	CD	human	bacteria expression		CORe-224	L3	WYTC-005	A1		USP09X:DCC020-A06:C218900
+YTC-0186	usp09x.1544.1965.BIO	p28BIOH-LIC	Kan	N-Avi, C-6his	USP9x CD	CD	human	bacteria expression		CORe-224	L3	WYTC-005	A2		USP09X:DCC020-E08:C218919
+YTC-0187	USP09Y:1555-1965-BIOH	p28BIOH-LIC	Kan	N-Avi, C-6his	USP9Y CD		human	bacteria expression		CORe-224	L3	WYTC-005	A3		USP09Y:ABC026-A04:C223896
+YTC-0188	RAB39B:E2-S207	pET28-MHL	Kan	N-6his-TEV	Rab39b		human	bacteria expression		CORe-224	L3	WYTC-005	A4		HPC085E12
+YTC-0189	RAB39:E2-A208	pET28-MHL	Kan	N-6his-TEV	Rab39a		human	bacteria expression		CORe-224	L3	WYTC-005	A5		HPC085F12
+YTC-0192		pET28a-Cool TEV	Kan	Dac tag-TEV (Amp-binding)				vector		CORe-224	L3	WYTC-005	A8		DNA 09-A8, # CEV01020 from Expedeon
+YTC-0193		pcDNA5-pcDEST-BirA-Flag-Nter	Amp	N-BirA-FLAG				vector		CORe-224	L3	WYTC-005	A9	* contains ccdB toxin, must be replicated in non-standard E.coli (ex, strain DB3.1)	Gift from Brian Raught (U of T) https://gingraslab.lunenfeld.ca/resources.php?cateName=Reagents
+YTC-0194		pcDNA5-pcDEST-BirA-Flag-Cter	Amp	C-BirA-FLAG				vector		CORe-224	L3	WYTC-005	B1	* contains ccdB toxin, must be replicated in non-standard E.coli (ex, strain DB3.1)	Gift from Brian Raught (U of T) https://gingraslab.lunenfeld.ca/resources.php?cateName=Reagents
+YTC-0195	usp08.0007.1110.SUMO	pNIC-CH	Kan	N-SUMO-tev / C-his6	hUSP8 FL		human	bacteria expression		CORe-224	L3	WYTC-005	B2		Cody Caba, cc045
+YTC-0196	usp08.0007.1110.trx	pNIC-CH	Kan	N-Trx-tev / C-his6	hUSP8 FL		human	bacteria expression		CORe-224	L3	WYTC-005	B3		Cody Caba, cc046
+YTC-0197	usp08.0007.1110.sumo	pET28MKH8SUMO	Kan	N-his8-SUMO-tev	hUSP8 FL		human	bacteria expression		CORe-224	L3	WYTC-005	B4		Cody Caba, cc032
+YTC-0198	usp08.0007.1110.trx	pET15Trx-MHL	Amp	N-his6-Trx-tev	hUSP8 FL		human	bacteria expression		CORe-224	L3	WYTC-005	B5		Cody Caba, cc033
+YTC-0199	BirA.UbV8.2	pcDNA5-pcDEST-BirA-Flag-Nter	Amp	N-BirA*-FLAG				mammalian expression		CORe-224	L3	WYTC-005	B6		Cody Caba, cc042
+YTC-0200	ubv.USP16.01	pET28-MHL	Kan	N-his6-TEV	Ubv.USP16.01			bacteria expression		CORe-224	L3	WYTC-005	B7		ubv.USP16.01:YTC033-B09:C236527
+YTC-0201	ubv.USP16.02	pET28-MHL	Kan	N-his6-TEV	Ubv.USP16.02			bacteria expression		CORe-224	L3	WYTC-005	B8		ubv.USP16.02:YTC033-B10:C236528
+YTC-0202	ubv.USP16.03	pET28-MHL	Kan	N-his6-TEV	Ubv.USP16.03			bacteria expression		CORe-224	L3	WYTC-005	B9		ubv.USP16.03:YTC033-B11:C236529
+YTC-0203	ubv.USP16.04	pET28-MHL	Kan	N-his6-TEV	Ubv.USP16.04			bacteria expression		CORe-224	L3	WYTC-005	C1		ubv.USP16.04:YTC033-B12:C236530
+YTC-0204	BirA*.FLAG	pET28-MHL	Kan	N-his6-TEV, C-FLAG				bacteria expression		CORe-224	L3	WYTC-005	C2		Cody Caba, cc091
+YTC-0205	sumo.BirA*.FLAG	pET28MKH8SUMO	Kan	N-his8-SUMO-tev, C-FLAG				bacteria expression		CORe-224	L3	WYTC-005	C3		Cody Caba, cc092
+YTC-0206	Trx.BirA*.FLAG	pET15Trx-MHL	Amp	N-his6-Trx-tev, C-FLAG				bacteria expression		CORe-224	L3	WYTC-005	C4		Cody Caba, cc093
+YTC-0207	BirA*.FLAG.UbV8.2	pET28-MHL	Kan	N-his6-TEV... FLAG				bacteria expression		CORe-224	L3	WYTC-005	C5		Cody Caba, cc094
+YTC-0208	sumo.BirA*.FLAG.UbV8.2	pET28MKH8SUMO	Kan	N-his8-SUMO-tev... FLAG				bacteria expression		CORe-224	L3	WYTC-005	C6		Cody Caba, cc095
+YTC-0209	trx.BirA*.FLAG.UbV8.2	pET15Trx-MHL	Amp	N-his6-Trx-tev... FLAG				bacteria expression		CORe-224	L3	WYTC-005	C7		Cody Caba, cc096
+YTC-0210	UbV8.2	pET28-MHL	Kan	N-his6-TEV				bacteria expression		CORe-224	L3	WYTC-005	C8		Cody Caba, cc097
+YTC-0211	usp08.0459.1118	pET28a-LIC	Kan	N-his6-thrombin	USP8 DUF2-USP		human	bacteria expression		CORe-224	L3	WYTC-005	C9		USP08:SDC159-H02:C203717
+YTC-0212	usp08.0315.1118	pET28a-LIC	Kan	N-his6-thrombin	USP8 ΔMIT-Rho		human	bacteria expression		CORe-224	L3	WYTC-005	D1		USP08:SDC159-G12:C203715
+YTC-0213	hUSP8 7-1110	pNIC-CH	Kan	C-his6	USP8 FL		human	bacteria expression		CORe-224	L3	WYTC-005	D2		Cody Caba, cc099
+YTC-0214	hUSP8 181-1110	pNIC-CH	Kan	C-his6	USP8 ΔMIT		human	bacteria expression		CORe-224	L3	WYTC-005	D3		Cody Caba, cc101
+YTC-0215	Ema 1-998	pFlc-1	Amp		Ema FL (AAX33397.1)		Dmel	cDNA		CORe-224	L3	WYTC-005	D4	NEEDS TO BE RE-PURCHASED AND CATALOGUED IN THIS POSITION	Gift from Dr. Swan, purchased from DRGC #RE60631
+YTC-0216	Elgi 1-315	pOT2	Chl		NRDP1 FL (AAK93355.1)		Dmel	cDNA		CORe-224	L3	WYTC-005	D5		Gift from Dr. Swan, purchased from DRGC #LD41235
+YTC-0217	Ubpy 1-896	pFlc-1	Amp		USP8 FL (AFH97157.1)		Dmel	cDNA		CORe-224	L3	WYTC-005	D6	WRONG cDNA SENT BY COMPANY. THIS IS ACTIVIN RECEPTOR, BABOON	Gift from Dr. Swan, purchased from DRGC #FI20021
+YTC-0218	hUSP8 315-1110	pNIC-CH	Kan	C-his6	USP8 ΔMIT-Rho		human	bacteria expression		CORe-224	L3	WYTC-005	D7		Cody Caba, cc108
+YTC-0219	hUSP8 459-1110	pNIC-CH	Kan	C-his6	USP8 ΔMIT-Rho-DUF1		human	bacteria expression		CORe-224	L3	WYTC-005	D8		Cody Caba, cc109
+YTC-0220	usp02.258.605	pET28-LIC	Kan	N-6his-Thrombin	USP02 CD		human	bacteria expression		CORe-224	L3	WYTC-005	D9		USP02:SDC088-E07:C27743
+YTC-0221	usp07.0208.0560	pET28-LIC	Kan	N-6his-Thrombin	USP7 CD		human	bacteria expression		CORe-224	L3	WYTC-005	E1		USP7:SDC176-B04:C210092
+YTC-0222	usp10.376.798	pET28-LIC	Kan	N-6his-Thrombin	USP10 CD		human	bacteria expression		CORe-224	L3	WYTC-005	E2		USP10:SDC067-G07:C23797
+YTC-0223	usp21.209.562	pET28-LIC	Kan	N-6his-Thrombin	USP21 CD		human	bacteria expression		CORe-224	L3	WYTC-005	E3		USP21:SDC122-G07:C37075
+YTC-0224	HRV3C	pET28-MHL	Kan	N-6his-TEV	HRV3C		Human	Bacteria expression	65.215	CORe-224	L3	WYTC-005	E4		SDM at TEV site to prevent HRV3C self cleaving at TEV site, Ayan
+YTC-0225	BirA-UbV2.3	pcDNA5-pcDEST-BirA-Flag-Nter	Amp	N-BirA*-FLAG				mammalian expression		CORe-224	L3	WYTC-005	E5		Cody Caba, cc134
+YTC-0226	BirA-UbV7.02	pcDNA5-pcDEST-BirA-Flag-Nter	Amp	N-BirA*-FLAG				mammalian expression		CORe-224	L3	WYTC-005	E6		Cody Caba, cc135
+YTC-0227	BirA-UbV10.01	pcDNA5-pcDEST-BirA-Flag-Nter	Amp	N-BirA*-FLAG				mammalian expression		CORe-224	L3	WYTC-005	E7		Cody Caba, cc136
+YTC-0228	BirA-UbV21.4	pcDNA5-pcDEST-BirA-Flag-Nter	Amp	N-BirA*-FLAG				mammalian expression		CORe-224	L3	WYTC-005	E8		Cody Caba, cc137
+YTC-0229	UbV2.3	pET28-MHL	Kan	N-his6-TEV				bacteria expression		CORe-224	L3	WYTC-005	E9		Cody Caba, cc138
+YTC-0230	UbV21.4	pET28-MHL	Kan	N-his6-TEV				bacteria expression		CORe-224	L3	WYTC-005	F1		Cody Caba, cc139
+YTC-0231	BirA*.FLAG.UbV2.3	pET28-MHL	Kan	N-his6-TEV				bacteria expression		CORe-224	L3	WYTC-005	F2		Cody Caba, cc140
+YTC-0232	BirA*.FLAG.UbV7.02	pET28-MHL	Kan	N-his6-TEV				bacteria expression		CORe-224	L3	WYTC-005	F3		Cody Caba, cc141
+YTC-0233	BirA*.FLAG.UbV10.01	pET28-MHL	Kan	N-his6-TEV				bacteria expression		CORe-224	L3	WYTC-005	F4		Cody Caba, cc142
+YTC-0234	BirA*.FLAG.UbV21.4	pET28-MHL	Kan	N-his6-TEV				bacteria expression		CORe-224	L3	WYTC-005	F5		Cody Caba, cc143
+YTC-0235	-	pACYCDuet-1	Chl					vector	103	CORe-224	L3	WYTC-005	F6		EMD/Novagen #71147-3
+YTC-0236	MS2 PLP	pUC57	Kan	internal his6	MS2 Maturase and cp-his6-cp dimer			cDNA	118	CORe-224	L3	WYTC-005	F7		GenScript U237JFJ200-2/V41483
+YTC-0237	SARS-CoV2 genomic	pUC57	Kan		COVID19 genomic insert for MS2 PLP RT-qPCR standard			cDNA	107	CORe-224	L3	WYTC-005	F8		GenScript U237JFJ200-4/V42353
+YTC-0238	HA-Ub	pcDNA	Amp	N-HA	Ub wt			mammalian expression	100	CORe-224	L3	WYTC-005	F9		NOT HA-Ub. Yi Sheng, York U
+YTC-0239	HA-Ub K48 only	pcDNA	Amp	N-HA	Ub with all K-A mutations except K48			mammalian expression	100	CORe-224	L3	WYTC-005	G1		Yi Sheng, York U
+YTC-0240	HA-Ub K63 only	pcDNA	Amp	N-HA	Ub with all K-A mutations except K63			mammalian expression	100	CORe-224	L3	WYTC-005	G2		Yi Sheng, York U
+YTC-0241	ubiq.001.076	pNIC-CH	Kan	C-6his	Ub wt (UBC)		human	bacteria expression		CORe-224	L3	WYTC-005	G3		:SDC146-H09:C43950
+YTC-0242	ubh04.001.076.K48only	pNIC-CH	Kan	C-6his	Ub with all K-R except K48		human	bacteria expression		CORe-224	L3	WYTC-005	G4		:SDC146-H10:C43951
+YTC-0243	ubh04.001.076.K63only	pNIC-CH	Kan	C-6his	Ub with all K-R except K63		human	bacteria expression		CORe-224	L3	WYTC-005	G5		:SDC146-H11:C43952
+YTC-0244	ubh04.001.076.7KR	pTYB2	Amp	C-intein	Ub with all K-R		human	bacteria expression		CORe-224	L3	WYTC-005	G6		:SDC146-H12:C43953
+YTC-0245	USP9X 1551-1970	pNIC-Bio3	Kan	N-his6 ; C-Avi	USP9X USP	USP	human	bacteria expression		CORe-224	L3	WYTC-005	G7		Cody Caba, cc144
+YTC-0246	BirA-FLAG-Ub.wt	pcDNA5-pcDEST-BirA-Flag-Nter	Amp	N-BirA*-FLAG			human	mammalian expression		CORe-224	L3	WYTC-005	G8		Cody Caba, cc150
+YTC-0247	COVID19	pACYCDuet-1	Chl		MCS1: empty; MCS2: Orf1ab, RdRp, E, N			bacteria expression		CORe-224	L3	WYTC-005	G9		Cody Caba, cc145
+YTC-0248	MS2 PLP	pUC57	Kan		MS2 Maturase and cp-his6-cp dimer			cDNA		CORe-224	L3	WYTC-005	H1		RBS -6nt from cp-his-cp start, Cody Caba cc151
+YTC-0249	hUSP8 7-1110	pNIC-CH	Kan	C-Twin-strepII	hUSP8 FL-twinstrepII		human	bacterial expression		CORe-224	L3	WYTC-005	H2		Cody Caba, cc147
+YTC-0250	MS2 PLP	pACYCDuet-1	Chl	internal his6	MCS-1: Maturase-RBS-cphiscp; MCS-2: COVID19		MS2	bacterial expression		CORe-224	L3	WYTC-005	H3		Cody Caba, cc153
+YTC-0251		pET28-MHL	Kan	internal his6	Maturase-RBS-cphiscp		MS2	bacterial expression		CORe-224	L3	WYTC-005	H4		Cody Caba, cc152
+YTC-0252	hUSP8 181-1110	pNIC-CH	Kan	C-Twin-strepII	hUSP8 ΔMIT-twinstrepII		human	bacterial expression		CORe-224	L3	WYTC-005	H5		Cody Caba, cc148
+YTC-0253		pGro7 (pACYC)	Chl			Maturase-RBS-cphiscp		vector		CORe-224	L3	WYTC-005	H6		pGro7, Takara (#3340), gift from Dr. Ken Ng
+YTC-0254	Ubv10:M1-N77	pET28-MHL	Kan	N-his6-TEV	UbV 10.1			bacterial expression		CORe-224	L3	WYTC-005	H7		ubv10.01:YTC005-B08:C224836
+YTC-0255	hUSP8 7-1110	pET28-MHL	Kan	N-his6-TEV, C-Twin-strepII	USP8	FL	human	bacterial expression		CORe-224	L3	WYTC-005	H8		Cody Caba, cc155
+YTC-0256	hUSP8 181-1110	pET28-MHL	Kan	N-his6-TEV, C-Twin-strepII	USP8	ΔΜΙΤ	human	bacterial expression		CORe-224	L3	WYTC-005	H9		Cody Caba, cc156
+YTC-0257	MS2: maturase+cp-his-cp	pACYCDuet-1	Chl		MCS1:MS2 PLP ; MCS2: sacB			bacterial expression		CORe-224	L3	WYTC-005	I1		Cody Caba, cc157
+YTC-0258	UbV2.3:M1-G75	pET28-MHL	Kan	N-his6-TEV	UbV2.3:M1-G75	UbV2.3		bacterial expression		CORe-224	L3	WYTC-005	I2		Cody Caba, cc158
+YTC-0259	RNaseI C330S	p6HISMAL-MHL	Amp	N-6his-MBP-TEV	RNaseI C330S	RNase Inhibitor placental	human	bacterial expression		CORe-224	L3	WYTC-005	I3		Cody Caba, cc159
+YTC-0260	YWHAZ:M1-N245	pET28-MHL	Kan	N-6his-TEV	14-3-3zeta	14-3-3zeta	human	bacterial expression		CORe-224	L3	WYTC-005	I4		YWHAZ:YTC019-H03:C232766
+YTC-0261	YWHAG:M1-N247	pET28-MHL	Kan	N-6his-TEV	14-3-3gamma	14-3-3gamma	human	bacterial expression		CORe-224	L3	WYTC-005	I5		YWHAG:YTC043-D02:C237247
+YTC-0262	YWHAE:M1-Q255	pET28-MHL	Kan	N-6his-TEV	14-3-3epsilon	14-3-3epsilon	human	bacterial expression		CORe-224	L3	WYTC-005	I6		YTC043D01
+YTC-0263	USP8 550-1110	pNIC-CH	Kan	C-6his	DUF2-USP	DUF2-USP	human	bacterial expression		CORe-224	L3	WYTC-005	I7		Cody Caba, cc160
+YTC-0264	USP8 617-1110	pNIC-CH	Kan	C-6his	DUF2-USP	DUF2-USP	human	bacterial expression		CORe-224	L3	WYTC-005	I8		Cody Caba, cc161
+YTC-0265	USP8 459-747	pET28-MHL	Kan	N-6his-TEV	DUF2	DUF2	human	bacterial expression		CORe-224	L3	WYTC-005	I9		Cody Caba, cc162
+p	usp05.001.835	pET28a-LIC	Kan	N-6his-thrombin	USP5 FL		human	bacterial expression		CORe-224	L3	WYTC-006	F9		USP05:SDC066-C04:C23028
+YTC-0266	USP8 315-747	pET28-MHL	Kan	N-6his-TEV	DUF1-2	DUF1-2	human	bacterial expression		CORe-224	L3	WYTC-006	A1		Cody Caba, cc163
+YTC-0267	USP8 315-459	pET28-MHL	Kan	N-6his-TEV	DUF1	DUF1	human	bacterial expression		CORe-224	L3	WYTC-006	A2		Cody Caba, cc165
+YTC-0268	USP16	pCW_Tet_ON	Amp	N-FLAG	USP16	FL	human	mammalian expression		CORe-224	L3	WYTC-006	A3		pET28-based NGB ion, DO NOT USE FOR CLONING, CONTAINS ADDED BseRI SITES! YTC-0184 instead
+YTC-0269	USP9X 1-2554	pFBOH-LIC	Amp	N-his6-Thrombin	USP9x	FL	mouse	mammalian expression		CORe-224	L3	WYTC-006	A4		USP09X:SDC227-A09:C222138
+YTC-0270	UbV16.1	pCW_Tet_ON	Amp	N-FLAG				mammalian expression		CORe-224	L3	WYTC-006	A5		Cody Caba, cc166
+YTC-0271	UbV16.2	pCW_Tet_ON	Amp	N-FLAG				mammalian expression		CORe-224	L3	WYTC-006	A6		Cody Caba, cc167
+YTC-0272	UbV16.3	pCW_Tet_ON	Amp	N-FLAG				mammalian expression		CORe-224	L3	WYTC-006	A7		Cody Caba, cc168
+YTC-0273	UbV16.4	pCW_Tet_ON	Amp	N-FLAG				mammalian expression		CORe-224	L3	WYTC-006	A8		Cody Caba, cc169
+YTC-0274	FLAG-synaptojanin	pEGFPC1-FLAG	Kan	N-FLAG	Synaptojanin 1-170		human	mammalian expression		CORe-224	L3	WYTC-006	A9		addgene 22294
+YTC-0275	CAMKK2 isoform 2	pDONR223	Spectinomycin		CAMKK2 1-541, T253A(?)		human	cDNA		CORe-224	L3	WYTC-006	B1		addgene 23422, NP_705719.2
+YTC-0276	Ube1 / UBA1	pET21d	Amp	N-his	Ube1 FL		human	bacterial expression		CORe-224	L3	WYTC-006	B2		addgene 34965
+YTC-0277	CAMKK2 isoform 2	p6HISMAL-MHL	Amp	N-6his-MBP-TEV	1-541 FL		human	bacterial expression		CORe-224	L3	WYTC-006	B3		Cody Caba, cc170
+YTC-0278	USP8 S718A	pNIC-CH	Kan	C-6his	USP8	1-1110 FL S718A mutation, phsopho-incapable	human	bacterial expression		CORe-224	L3	WYTC-006	B4		Cody Caba, cc178
+YTC-0279	USP8 711-725	pGEX-MHL	Amp	N-GST-TEV	USP8 14-3-3 bm			bacterial expression		CORe-224	L3	WYTC-006	B5		Cody Caba, cc173
+YTC-0280	USP8 711-725:S718A	pGEX-MHL	Amp	N-GST-TEV	USP8 14-3-3 bm			bacterial expression		CORe-224	L3	WYTC-006	B6		Cody Caba, cc174
+YTC-0281	SAMS	pGEX-MHL	Amp	N-GST-TEV	SAMS peptide from rat acetyl-CoA carboxylase			bacterial expression		CORe-224	L3	WYTC-006	B7		Cody Caba, cc175
+YTC-0282	USP8 700-1110	pET28MHL	Kan	N-6his-TEV	USP8 CD			bacterial expression		CORe-224	L3	WYTC-006	B8		Cody Caba, cc176
+YTC-0283	USP8 700-1110:S718A	pET28MHL	Kan	N-6his-TEV	USP8 CD			bacterial expression		CORe-224	L3	WYTC-006	B9		Cody Caba, cc177
+YTC-0284	ubv.USP9X.1	pET28	Kan	N-His6-Thrombin-linker-FLAG	UbV9X.1			bacterial expression		CORe-224	L3	WYTC-006	C1		From Wei Zhang, Guelph
+YTC-0285	ubv.USP9X.2	pET28	Kan	N-His6-Thrombin-linker-FLAG	UbV9X.2			bacterial expression		CORe-224	L3	WYTC-006	C2		From Wei Zhang, Guelph
+YTC-0286	USP09X:M1-Q2554:BV	pFBOH-MHL	Amp	N-6his-TEV	USP9X FL	FL	human	insect cell expression		CORe-224	L3	WYTC-006	C3		USP09X:YTC039-G10:C236860
+YTC-0287	RFWD2:A386-V731:BV	pFBOH-MHL	Amp	N-6his-TEV	RFWD2 WDR		human	insect cell expression		CORe-224	L3	WYTC-006	C4		RFWD2:YTC049-D10:C240594
+YTC-0288	RFWD2:M376-V731:BV	pFBOH-MHL	Amp	N-6his-TEV	RFWD2 WDR		human	insect cell expression		CORe-224	L3	WYTC-006	C5		RFWD2:YTC049-D11:C240595
+YTC-0289	RFWD3:G430-E774:BV	pFBOH-MHL	Amp	N-6his-TEV	RFWD3 WDR		human	insect cell expression		CORe-224	L3	WYTC-006	C6		RFWD3:YTC049-E06:C240602
+YTC-0290	RFWD3:S425-E774:BV	pFBOH-MHL	Amp	N-6his-TEV	RFWD3 WDR		human	insect cell expression		CORe-224	L3	WYTC-006	C7		RFWD3:YTC049-E07:C240603
+YTC-0291	Ub 1-76	pET28-MHL	Kan	N-6his-TEV	Ub WT		human	bacterial expression		CORe-224	L3	WYTC-006	C8		ubh04:SDC147-H03:C43314
+YTC-0292	Ubv.U9x.01	pGEX-4T-1	Amp	N-GST-thrombin	UbV9X	UBC:M1-R78:vu9x.1.GST		bacterial expression		CORe-224	L3	WYTC-006	C9		ubh04:YTC016-B06:C231911
+YTC-0293	Ubv.U9x.01	pET28MHL	Kan	N-6his-TEV	UbV9X	UBC:M1-R78:vu9x.1		bacterial expression		CORe-224	L3	WYTC-006	D1		ubh04:YTC016-E08:C231913
+YTC-0294	Ubv.U9x.01	pNIC-CH	Kan	C-His6	UbV9X	UBC:M1-R78:vu9x.1.CH		bacterial expression		CORe-224	L3	WYTC-006	D2		ubh04:YTC016-H04:C231915
+YTC-0295	OTUD1 Δ441-443	pOPINK	Kan	N-6his-GST-HRV3C	OTUD1 FL	deletion mutant	human	bacterial expression		CORe-224	L3	WYTC-006	D3		Cody Caba, cc179
+YTC-0296	OTUD1 443-GGS-444	pOPINK	Kan	N-6his-GST-HRV3C	OTUD1 FL	insertion mutant, GGS between 443 and 444	human	bacterial expression		CORe-224	L3	WYTC-006	D4		Cody Caba, cc180
+YTC-0297	USP8 7-747	pGEX-MHL	Amp	N-GST-TEV	USP8 7-747	USP8 Nter	human	bacterial expression		CORe-224	L3	WYTC-006	D5		Cody Caba, cc181
+YTC-0298	synj1	pcDNA3.1	Amp				human	mammalian expression		CORe-224	L3	WYTC-006	D6		gift from?
+YTC-0299	USP8 R638-G1110	pET28-MHL	Kan	N-6his-TEV	USP8 WW-CD		human	bacterial expression		CORe-224	L3	WYTC-006	D7		Cody Caba, cc185
+YTC-0300	USP8 S641-G1110	pET28-MHL	Kan	N-6his-TEV	USP8 WW-CD		human	bacterial expression		CORe-224	L3	WYTC-006	D8		Cody Caba, cc186
+YTC-0301	USP8 E643-G1110	pET28-MHL	Kan	N-6his-TEV	USP8 WW-CD		human	bacterial expression		CORe-224	L3	WYTC-006	D9		Cody Caba, cc187
+YTC-0302	USP8 S645-G1110	pET28-MHL	Kan	N-6his-TEV	USP8 WW-CD		human	bacterial expression		CORe-224	L3	WYTC-006	E1		Cody Caba, cc188
+YTC-0303	USP8 G650-G1110	pET28-MHL	Kan	N-6his-TEV	USP8 WW-CD		human	bacterial expression		CORe-224	L3	WYTC-006	E2		Cody Caba, cc189
+YTC-0304	USP8 S645-G1110	pNIC-CH	Kan	C-6his	USP8 WW-CD		human	bacterial expression		CORe-224	L3	WYTC-006	E3		Cody Caba, cc191
+YTC-0305	USP8 G645-S686, W655S	pET28-MHL	Kan	N-6his-TEV	USP8 WW mutant	SDM	human	bacterial expression		CORe-224	L3	WYTC-006	E4		Cody Caba, cc193
+YTC-0306	USP8 7-1110, Δ645-686	pNIC-CH	Kan	C-6his	USP8 FL ΔWW		human	bacterial expression		CORe-224	L3	WYTC-006	E5		Cody Caba, cc194
+YTC-0307	BirA*-FLAG	pCW_tetON	Amp	internal FLAG				mammalian expression		CORe-224	L3	WYTC-006	E6		
+YTC-0308	BirA*-FLAG-Ub.wt ΔGG	pCW_tetON	Amp	internal FLAG				mammalian expression		CORe-224	L3	WYTC-006	E7		
+YTC-0309	BirA*-FLAG-UbV8.2	pCW_tetON	Amp	internal FLAG				mammalian expression		CORe-224	L3	WYTC-006	E8		
+YTC-0310	USP8 7-1110, W655S	pNIC-CH	Kan	C-6his	USP8 FL W655S		human	bacterial expression		CORe-224	L3	WYTC-006	E9		
+YTC-0311	USP8 645-686	p6HISMAL-MHL	Amp	N-6his-MBP-TEV	USP8 WW		human	bacterial expression		CORe-224	L3	WYTC-006	F1		Cody Caba, cc196
+YTC-0312	USP8 645-686, W655S	pGEX-MHL	Amp	N-GST-TEV	USP8 WW mutant		human	bacterial expression		CORe-224	L3	WYTC-006	F2		Cody Caba, cc197
+YTC-0313	USP8 645-686	pGEX-MHL	Amp	N-GST-TEV	USP8 WW		human	bacterial expression		CORe-224	L3	WYTC-006	F3		Cody Caba, cc198
+YTC-0314	USP8 645-686, W655S	p6HISMAL-MHL	Amp	N-6his-MBP-TEV	USP8 WW mutant		human	bacterial expression		CORe-224	L3	WYTC-006	F4		Cody Caba, cc199
+YTC-0315	USP8 645-1110, W655S	pET28-MHL	Kan	N-6his-TEV	USP8 WW+CD mutant		human	bacterial expression		CORe-224	L3	WYTC-006	F5		Cody Caba, cc195
+YTC-0316	UBC:M1-R78:vu9x.1	pET28-MHL	Kan	N-6his-TEV	UbV.9X.1			bacterial expression		CORe-224	L3	WYTC-006	F6		ubh04:YTC016-E08:C231913
+YTC-0317	UbV.STAMBP	pET28-MHL	Kan	N-6his-TEV	Ubv.STAMBP.G01			bacterial expression		CORe-224	L3	WYTC-006	F7		Ubv.STAMBP.G01:YTC033-B05:C236524
+YTC-0318	UbV.STAMBP	pNIC-CH	Kan	C-6his	Ubv.STAMBP.G01			bacterial expression		CORe-224	L3	WYTC-006	F8		Ubv.STAMBP.G01:YTC033-C07:C236537
+YTC-0320	usp05.001.835	pNIC-CH	Kan	C-6his	USP5 FL		human	bacterial expression		CORe-224	L3	WYTC-006	G1		USP05:SDC167-H12:C205493
+YTC-0321	USP8 V7-G1072	pNIC-CH	Kan	C-6his	USP8 FL		mouse	bacterial expression		CORe-224	L3	WYTC-006	G2		Cody Caba, cc200
+YTC-0322	USP8 1-1118	pcDNA5-pcDEST-BirA-Flag-Nter	Amp	N-BirA-FLAG	USP8 FL		human	bacterial expression		CORe-224	L3	WYTC-006	G3		Cody Caba, cc201
+YTC-0323	USP8 1-1118	pcDNA5-pcDEST-BirA-Flag-Cter	Amp	C-BirA-FLAG	USP8 FL		human	bacterial expression		CORe-224	L3	WYTC-006	G4		Cody Caba, cc202
+YTC-0324	USP8 7-1110, S718A, Δ645-685	pNIC-CH	Kan	C-6his	USP8 ΔWW, S718A		human	bacterial expression		CORe-224	L3	WYTC-006	G5		Cody Caba, cc203
+YTC-0325	UBC promoter	pUC57	Kan		UBC promoter		human	vector		CORe-224	L3	WYTC-006	G6		S13_EcoRV_UBV_AscI, addgene #128477
+YTC-0326	USP8 1-896	pFlc-1	Kan		USP8 FL		D. mel (fly)	cDNA		CORe-224	L3	WYTC-006	G7		DGRC 1645089 (order #36386); FI20021; genbank BT133467.1
+YTC-0327	H6:a1:11-Q550 (M104G):B2:76-272:g1:24-327 (MWs: 62.6, 22.5, 34.7)	pET28a:γ1-β2-His6α1	Kan	N-6his α1	AMPK complex α1(M104G)β2γ1		human	bacterial expression		CORe-224	L3	WYTC-006	G8		Cody Caba, cc204a
+YTC-0328	USP8 4-890	pNIC-CH	Kan	C-6his	USP8 FL		Dmel / fly	bacterial expression		CORe-224	L3	WYTC-006	G9		Cody Caba, cc205
+YTC-0329	BirA*-FLAG-Ub.wt ΔGG	pcDNA5-pcDEST-pUBC_BirA-Flag-Nter	Amp	N-BirA*-FLAG				mammalian expression		CORe-224	L3	WYTC-006	H1		Cody Caba, cc206; contains weak UBC promoter (removed CMV)
+YTC-0330	BirA-UbV2.3	pcDNA5-pcDEST-pUBC_BirA-Flag-Nter	Amp	N-BirA*-FLAG				mammalian expression		CORe-224	L3	WYTC-006	H2		Cody Caba, cc207, contains weak UBC promoter (removed CMV)
+YTC-0331	BirA-UbV7.02	pcDNA5-pcDEST-pUBC_BirA-Flag-Nter	Amp	N-BirA*-FLAG				mammalian expression		CORe-224	L3	WYTC-006	H3		Cody Caba, cc208, contains weak UBC promoter (removed CMV)
+YTC-0332	UbV8.2.BirA*	pcDNA5-pcDEST-pUBC_BirA-Flag-Nter	Amp	N-BirA*-FLAG				mammalian expression		CORe-224	L3	WYTC-006	H4		Cody Caba, cc209, contains weak UBC promoter (removed CMV)
+YTC-0333	BirA-UbV10.01	pcDNA5-pcDEST-pUBC_BirA-Flag-Nter	Amp	N-BirA*-FLAG				mammalian expression		CORe-224	L3	WYTC-006	H5		Cody Caba, cc210, contains weak UBC promoter (removed CMV)
+YTC-0334	BirA-UbV21.4	pcDNA5-pcDEST-pUBC_BirA-Flag-Nter	Amp	N-BirA*-FLAG				mammalian expression		CORe-224	L3	WYTC-006	H6		Cody Caba, cc211, contains weak UBC promoter (removed CMV)
+YTC-0335	USP8 711-725:P720R	pGEX-MHL	Amp	N-GST-TEV	USP8 14-3-3 bm			bacterial expression		CORe-224	L3	WYTC-006	H7		Cody Caba, cc212
+YTC-0336	USP8 711-725:S716F	pGEX-MHL	Amp	N-GST-TEV	USP8 14-3-3 bm			bacterial expression		CORe-224	L3	WYTC-006	H8		Cody Caba, cc213
+YTC-0337	fluA:fluB:rsv:piv1:piv2:piv3:piv4	pUC57-KANA	Kan					cDNA		CORe-224	L3	WYTC-006	H9		BioBasic synthesis no. C772MH0_14
+YTC-0338	STAM2:M1-V370	pET28-MHL	Kan	N-6his-TEV	STAM2 FL		human	bacterial expression		CORe-224	L3	WYTC-006	I1	very high	STAM2:YTC019-D12:C232728
+YTC-0339	STAM2:M1-L260	pET28-MHL	Kan	N-6his-TEV	STAM2 ΔCter		human	bacterial expression		CORe-224	L3	WYTC-006	I2	very high	STAM2:YTC016-H12:C231895
+YTC-0340	STAM2:V203-L260	pET28-MHL	Kan	N-6his-TEV	STAM2 SH3		human	bacterial expression		CORe-224	L3	WYTC-006	I3	very high	STAM2:YTC016-H11:C231894
+YTC-0341	STAM:R213-L268	pET28-MHL	Kan	N-6his-TEV	STAM SH3		human	bacterial expression		CORe-224	L3	WYTC-006	I4	very high	STAM:YTC002-E08:C227725
+YTC-0342	AMPKalpha2 wt	pECE-M2	Amp	N-FLAG(M2)	AMPKα2		human	mammalian expression		CORe-224	L3	WYTC-006	I5		addgene 31652
+YTC-0343	AMPKalpha2 M93G	pECE-M2	Amp	N-FLAG(M2)	AMPKα2 M93G gatekeeper mutant		human	mammalian expression		CORe-224	L3	WYTC-006	I6		addgene 31653
+YTC-0344	MMLV gagpol	pBS-CMV	Amp		gag-pro-pol		Maloney MLV	mammalian expression		CORe-224	L3	WYTC-006	I7		addgene 35614
+YTC-0345	AMPKa1 WT	pECE-HA	Amp	N-HA	AMPKα1		human	mammalian expression		CORe-224	L3	WYTC-006	I8		addgene 69504
+YTC-0346	MMLVgag-3xNES-ABE8e	pCMV	Amp	N-FLAG	MMLVgag-3xNES-ABE8e			mammalian expression		CORe-224	L3	WYTC-006	I9		addgene 181751
+YTC-0347	MLV VSV-G	pCMV	Amp		MLV VSV-G		Murine Leukemia Virus (MLV)	mammalian expression		CORe-224	L3	WYTC-007	A1		addgene 8454
+YTC-0348	VSV-G	pCAG	Amp		VSV-G			mammalian expression		CORe-224	L3	WYTC-007	A2		addgene 35616
+YTC-0349	Ubv.STAMBP.D12:M1-S78:CH	pNIC-CH	Kan	C-6his	STAMBP UbV.SP.1			bacterial expression		CORe-224	L3	WYTC-007	A3		Ubv.STAMBP.D12:YTC033-C04:C236534
+YTC-0350	Ubv.STAMBP.G01:M1-M78:CH	pNIC-CH	Kan	C-6his	STAMBP UbV.SP.3			bacterial expression		CORe-224	L3	WYTC-007	A4		Ubv.STAMBP.G01:YTC033-C07:C236537
+YTC-0351	iRFP720	piRFP720-N1	Kan	C-iRFP720				mammalian expression		CORe-224	L3	WYTC-007	A5		addgene45461, gift from Dorota, Porter lab
+YTC-0352	MMLVgag-3xNES-FLAG-UbV.SP3	pCMV	Amp	Nuclear Export Sequences; internal FLAG				mammalian expression		CORe-224	L3	WYTC-007	A6		Cody Caba
+YTC-0353	MMLVgag-3xNES-FLAG-UbV.SP1	pCMV	Amp	Nuclear Export Sequences; internal FLAG				mammalian expression		CORe-224	L3	WYTC-007	A7		Cody Caba
+YTC-0354	MMLVgag-3xNES-FLAG-UbV7.02	pCMV	Amp	Nuclear Export Sequences; internal FLAG				mammalian expression		CORe-224	L3	WYTC-007	A8		Cody Caba
+YTC-0355	MMLVgag-3xNES-FLAG-NLS-UbV7.02	pCMV	Amp	Nuclear Export Sequences; internal FLAG; Nuclear localization sequence				mammalian expression		CORe-224	L3	WYTC-007	A9		Cody Caba
+YTC-0356	MMLVgag-3xNES-FLAG-UbV8.2	pCMV	Amp	Nuclear Export Sequences; internal FLAG				mammalian expression		CORe-224	L3	WYTC-007	B1		Cody Caba
+YTC-0357	MMLVgag-3xNES-FLAG-Ub.wt	pCMV	Amp	Nuclear Export Sequences; internal FLAG				mammalian expression		CORe-224	L3	WYTC-007	B2		Cody Caba
+YTC-0358	MMLVgag-3xNES-FLAG-NLS-Ub.wt	pCMV	Amp	Nuclear Export Sequences; internal FLAG; Nuclear localization sequence				mammalian expression		CORe-224	L3	WYTC-007	B3		Cody Caba
+YTC-0359	MMLVgag-3xNES-FLAG-iRFP720	pCMV	Amp	Nuclear Export Sequences; internal FLAG				mammalian expression		CORe-224	L3	WYTC-007	B4		Cody Caba
+YTC-0360	MMLVgag-3xNES-FLAG-NLS-iRFP720	pCMV	Amp	Nuclear Export Sequences; internal FLAG; Nuclear localization sequence				mammalian expression		CORe-224	L3	WYTC-007	B5		Cody Caba
+YTC-0361	MMLVgag-3xNES-FLAG-iRFP720-UbV.SP3	pCMV	Amp	Nuclear Export Sequences; internal FLAG				mammalian expression		CORe-224	L3	WYTC-007	B6		Cody Caba
+YTC-0362	MMLVgag-3xNES-FLAG-iRFP720-UbV.SP1	pCMV	Amp	Nuclear Export Sequences; internal FLAG				mammalian expression		CORe-224	L3	WYTC-007	B7		Cody Caba
+YTC-0363	MMLVgag-3xNES-FLAG-iRFP720-UbV7.02	pCMV	Amp	Nuclear Export Sequences; internal FLAG				mammalian expression		CORe-224	L3	WYTC-007	B8		Cody Caba
+YTC-0364	MMLVgag-3xNES-FLAG-iRFP720-UbV8.2	pCMV	Amp	Nuclear Export Sequences; internal FLAG				mammalian expression		CORe-224	L3	WYTC-007	B9		Cody Caba
+YTC-0365	MMLVgag-3xNES-FLAG-iRFP720-UbΔGG	pCMV	Amp	Nuclear Export Sequences; internal FLAG				mammalian expression		CORe-224	L3	WYTC-007	C1		Cody Caba
+YTC-0366	MMLVgag-3xNES-FLAG-NLS-iRFP720-UbV7.02	pCMV	Amp	Nuclear Export Sequences; internal FLAG; Nuclear localization sequence				mammalian expression		CORe-224	L3	WYTC-007	C2		Cody Caba
+YTC-0367	MMLVgag-3xNES-FLAG-NLS-iRFP720-Ub.wt	pCMV	Amp	Nuclear Export Sequences; internal FLAG; Nuclear localization sequence				mammalian expression		CORe-224	L3	WYTC-007	C3		Cody Caba
+YTC-0368	hUSP8 7-1110	pECE-M2	Amp	N-FLAG(M2)			human	mammalian expression		CORe-224	L3	WYTC-007	C4		Cody Caba
+YTC-0369	USP8 S718A	pECE-M2	Amp	N-FLAG(M2)			human	mammalian expression		CORe-224	L3	WYTC-007	C5		Cody Caba
+YTC-0370	YWHAG:M1-N247	pECE-HA	Amp	N-HA			human	mammalian expression		CORe-224	L3	WYTC-007	C6		Cody Caba
+YTC-0371	USP8 S641A	pNIC-CH	Kan	C-6his			human	bacterial expression		CORe-224	L3	WYTC-007	C7		Cody Caba
+YTC-0372	USP8 S760A	pNIC-CH	Kan	C-6his			human	bacterial expression		CORe-224	L3	WYTC-007	C8		Cody Caba
+YTC-0373	AMPKα1 M104G (gatekeeper)	pECE-HA	Amp	N-HA			human	mammalian expression		CORe-224	L3	WYTC-007	C9		Cody Caba
+YTC-0374	AMPKα1 K45R (kinase dead)	pECE-HA	Amp	N-HA			human	mammalian expression		CORe-224	L3	WYTC-007	D1		Cody Caba
+YTC-0375	USP8 S641/760A	pNIC-CH	Kan	C-6his	USP8 S641/760A, 7-1110		human	bacterial expression		CORe-224	L3	WYTC-007	D2		Cody Caba
+YTC-0376	Ubv.STAMBP.D12 (SP1)	pET28-MHL	Kan	N-6his-TEV				bacterial expression		CORe-224	L3	WYTC-007	D3		Ubv.STAMBP.D12:YTC033-B02:C236521
+YTC-0377	LKB1	pCDNA3	Amp	N-FLAG	LKB1 (STK11)	FL	human	mammalian expression		CORe-224	L3	WYTC-007	D4		addgene 8590
+YTC-0378	LKB1 KD	pCDNA3	Amp	N-FLAG	LKB1 K78I (STK11)	FL	human	mammalian expression		CORe-224	L3	WYTC-007	D5		addgene 8591
+YTC-0379	STRAD	pCDNA4	Amp	N-his6-Xpress	STRADα	FL	human	mammalian expression		CORe-224	L3	WYTC-007	D6		addgene 14889
+YTC-0380	UbV8.2.BirA* Δlinker	pcDNA5-pcDEST-BirA-Nter	Amp	N-BirA*	BioID UbV8.2			mammalian expression		CORe-224	L3	WYTC-007	D7		Cody Caba, A1iii
+YTC-0381	BirA-Ub.wtΔGG Δlinker	pcDNA5-pcDEST-BirA-Nter	Amp	N-BirA*	BioID wtUb ΔGG(75,76)		human	mammalian expression		CORe-224	L3	WYTC-007	D8		Cody Caba, A2i
+YTC-0382	BirA-UbV7.02 Δlinker	pcDNA5-pcDEST-BirA-Nter	Amp	N-BirA*	BioID UbV7.02		human	mammalian expression		CORe-224	L3	WYTC-007	D9		Cody Caba, A3i
+YTC-0383	hUSP8 7-1110.Y717F	pNIC-CH	Kan	C-his6	USP8 FL		human	bacteria expression		CORe-224	L3	WYTC-007	E1		Cody Caba, B1ii
+YTC-0384	USP8 S641/718/760A	pNIC-CH	Kan	C-6his	USP8 S641/718/760A, 7-1110			bacteria expression		CORe-224	L3	WYTC-007	E2		Cody Caba B2iii
+YTC-0385	hUSP8 7-1110	pCDNA3	Amp	N-FLAG	USP8 FL		human	mammalian expression		CORe-224	L3	WYTC-007	E3		Cody Caba
+YTC-0386	USP8 S760A	pCDNA3	Amp	N-FLAG	USP8 S760A, 7-1110		human	mammalian expression		CORe-224	L3	WYTC-007	E4		Cody Caba
+YTC-0387	AMPKa1 WT	pCDNA4	Amp	N-his6-Xpress	AMPKα1		human	mammalian expression		CORe-224	L3	WYTC-007	E5		Cody Caba
+YTC-0388	AMPKα1 K45R (kinase dead)	pCDNA4	Amp	N-his6-Xpress	PRKAA1 K45R		human	mammalian expression		CORe-224	L3	WYTC-007	E6		Cody Caba
+YTC-0389	hUSP8 S718A	pCDNA3	Amp	N-FLAG	hUSP8 7-1110		human	mammalian expression		CORe-224	L3	WYTC-007	E7		Cody Caba
+YTC-0390	hUSP8 S641A	pCDNA3	Amp	N-FLAG	hUSP8 7-1110		human	mammalian expression		CORe-224	L3	WYTC-007	E8		Cody Caba
+YTC-0391	hUSP8 S641/760A	pCDNA3	Amp	N-FLAG	hUSP8 7-1110		human	mammalian expression		CORe-224	L3	WYTC-007	E9	expresses 75kda band?	Cody Caba
+YTC-0392	hUSP8 S641/718/760A	pCDNA3	Amp	N-FLAG	hUSP8 7-1110		human	mammalian expression		CORe-224	L3	WYTC-007	F1		Cody Caba
+YTC-0393	OTUD1: 287-437	pET28-MHL	Kan		OTUD1: OTU		human	bacterial expression		CORe-224	L3	WYTC-007	F2		Farinaz
+YTC-0394	OTUD1 : 287-481	pET28-MHL	Kan		OTUD1 : OTU+UIM		human	bacterial expression		CORe-224	L3	WYTC-007	F3		Farinaz
+YTC-0395	OTUD1 : 1-481	pET28-MHL	Kan		OTUD1 : FL		human	bacterial expression		CORe-224	L3	WYTC-007	F4		Farinaz
+YTC-0396	OTUD1: Δ 441-443	pET28-MHL	Kan		OTUD1 : FL deletion mutant		human	bacterial expression		CORe-224	L3	WYTC-007	F5		Farinaz
+YTC-0397	OTUD1: 443- GGS- 444	pET28-MHL	Kan		OTUD1 : FL insertion mutant		human	bacterial expression		CORe-224	L3	WYTC-007	F6		Farinaz
+YTC-0398	USP8 S645-G1110	p6HISMAL-MHL	Amp	N-6his-MBP-TEV	USP8 WW-CD		human	bacterial expression		CORe-224	L3	WYTC-007	F7	expresses, LOBSTR RIL	Cody Caba
+YTC-0399	USP8 645-1110, W655S	p6HISMAL-MHL	Amp	N-6his-MBP-TEV	USP8 WW+CD mutant		human	bacterial expression		CORe-224	L3	WYTC-007	F8	expresses, LOBSTR RIL	Cody Caba
+YTC-0400	UBC:M1-R78:vu9x.1.R42W	pET28-MHL	Kan	N-6his-TEV	UbV.9X.1.R42W			bacterial expression		CORe-224	L3	WYTC-007	F9		Cody Caba, Q5 SDM of ubh04:YTC016-E08:C231913
+YTC-0401	UBC:M1-R78:vu9x.1.R42Y	pET28-MHL	Kan	N-6his-TEV	UbV.9X.1.R42Y			bacterial expression		CORe-224	L3	WYTC-007	G1		Cody Caba, Q5 SDM of ubh04:YTC016-E08:C231913
+YTC-0402	UBC:M1-R78:vu9x.1.R42P	pET28-MHL	Kan	N-6his-TEV	UbV.9X.1.R42P			bacterial expression		CORe-224	L3	WYTC-007	G2		Cody Caba, Q5 SDM of ubh04:YTC016-E08:C231913
+YTC-0403	UBC:M1-R78:vu9x.1.R42F	pET28-MHL	Kan	N-6his-TEV	UbV.9X.1.R42F			bacterial expression		CORe-224	L3	WYTC-007	G3		Cody Caba, Q5 SDM of ubh04:YTC016-E08:C231913
+YTC-0404	UBC:M1-R78:vu9x.1.R42H	pET28-MHL	Kan	N-6his-TEV	UbV.9X.1.R42H			bacterial expression		CORe-224	L3	WYTC-007	G4		Cody Caba, Q5 SDM of ubh04:YTC016-E08:C231913
+YTC-0405	UBC:M1-R78:vu9x.1.A46F	pET28-MHL	Kan	N-6his-TEV	UbV.9X.1.A46F			bacterial expression		CORe-224	L3	WYTC-007	G5		Cody Caba, Q5 SDM of ubh04:YTC016-E08:C231913
+YTC-0406	UBC:M1-R78:vu9x.1.A46L	pET28-MHL	Kan	N-6his-TEV	UbV.9X.1.A46L			bacterial expression		CORe-224	L3	WYTC-007	G6		Cody Caba, Q5 SDM of ubh04:YTC016-E08:C231913
+YTC-0407	UBC:M1-R78:vu9x.1.A46P	pET28-MHL	Kan	N-6his-TEV	UbV.9X.1.A46P			bacterial expression		CORe-224	L3	WYTC-007	G7		Cody Caba, Q5 SDM of ubh04:YTC016-E08:C231913
+YTC-0408	UBC:M1-R78:vu9x.1.A46R	pET28-MHL	Kan	N-6his-TEV	UbV.9X.1.A46R			bacterial expression		CORe-224	L3	WYTC-007	G8		Cody Caba, Q5 SDM of ubh04:YTC016-E08:C231913
+YTC-0409	UBC:M1-R78:vu9x.1.A46E	pET28-MHL	Kan	N-6his-TEV	UbV.9X.1.A46E			bacterial expression		CORe-224	L3	WYTC-007	G9		Cody Caba, Q5 SDM of ubh04:YTC016-E08:C231913
+YTC-0410	CDK2-CAK	pRSF-Duet	Kan	N-His6-GST-TEV	CDK2/CAK	co-expression plasmid for making pT160-CDK2		bacterial expression		CORe-224	L3	WYTC-007	H1		Porter's lab
+YTC-0411	SPYA3.3Opt (SPDYA1 codon optimized)	pMBP-Parallel	Amp	N-MBP-TEV	SPDYA:61-313	this was originally thought to encode 61-213. Sequencing confirms it encodes 61-313		bacterial expression		CORe-224	L3	WYTC-007	H2		Porter's lab
+YTC-0412	Cyclin A1	pMBP-Parallel	Amp	N-MBP-TEV	Cyclin A			bacterial expression		CORe-224	L3	WYTC-007	H3		Porter's lab
+YTC-0413	Cdk2	pGEX	Amp		Cdk2	from Dr. Porter's lab-No information		bacterial expression		CORe-224	L3	WYTC-007	H4		Porter's lab
+YTC-0414	SPDYA1	pGEX	Amp		Spy1	from Dr. Porter's lab-No information		bacterial expression		CORe-224	L3	WYTC-007	H5		Porter's lab
+YTC-0415	USP8 7-1110.Δ686-757	pNIC-CH	Kan	C-his6	USP8 FL		human	bacterial expression		CORe-224	L3	WYTC-007	H6		Cody Caba
+YTC-0416	USP8 7-1110.Δ686-757	pNIC-CH	Kan	C-his6	USP8 FL		human	bacterial expression		CORe-224	L3	WYTC-007	H7		Cody Caba
+YTC-0417	USP8 7-1110.Δ722-757	pNIC-CH	Kan	C-his6	USP8 FL		human	bacterial expression		CORe-224	L3	WYTC-007	H8		Cody Caba
+YTC-0418	Caltubin:M1-P179	pET28-MKH8SUMO	Kan	N-8his-thrombin-SUMO-TEV	Caltubin FL		snail	bacterial expression		CORe-224	L3	WYTC-007	H9		YTC020G09
+YTC-0419	AMPKα1 1-312	pEBG	Amp	N-GST-thrombin	C-ter truncated, constitituitively active		rat?	mammalian expression		CORe-224	L3	WYTC-007	I1		addgene 27632
+YTC-0420	AMPKα1 1-312.K45R	pEBG	Amp	N-GST-thrombin	C-ter truncated, constitituitively active		rat?	mammalian expression		CORe-224	L3	WYTC-007	I2		Cody Caba
+YTC-0421	USP8 645-686-LPETGG	pGEX-MHL	Amp	N-GST-TEV	USP8 WW-sortase substrate		human	bacterial expression		CORe-224	L3	WYTC-007	I3		Cody Caba
+YTC-0422	USP8 645-686-LPETGG.W655S	pGEX-MHL	Amp	N-GST-TEV	USP8 WW.W655S-sortase substrate		human	bacterial expression		CORe-224	L3	WYTC-007	I4		Cody Caba
+YTC-0423	USP8 GG-691-1110	pET28-MKH8SUMO	Kan	N-8his-thrombin-SUMO-TEV	USP8 CD sortase substrate		human	bacterial expression		CORe-224	L3	WYTC-007	I5		Cody Caba
+YTC-0424	USP8 GG-722-1110	pET28-MKH8SUMO	Kan	N-8his-thrombin-SUMO-TEV	USP8 CD sortase substrate		human	bacterial expression		CORe-224	L3	WYTC-007	I6		Cody Caba
+YTC-0425	USP8 FL.F1014A	pNIC-CH	Kan	C-his6	USP8 FL		human	bacterial expression		CORe-224	L3	WYTC-007	I7		Cody Caba
+YTC-0426	USP8 FLΔWW.F1014A	pNIC-CH	Kan	C-his6	USP8 FL		human	bacterial expression		CORe-224	L3	WYTC-007	I8		Cody Caba
+YTC-0427	USP8 FL F769A	pNIC-CH	Kan	C-his6	USP8 FL		human	bacterial expression		CORe-224	L3	WYTC-007	I9		Cody Caba
+YTC-0428	USP8 FLΔWW.F769A	pNIC-CH	Kan	C-his6	USP8 FL		human	bacterial expression		CORe-224	L3	WYTC-008	A1		Cody Caba
+YTC-0429	USP8 FL Y842A	pNIC-CH	Kan	C-his6	USP8 FL		human	bacterial expression		CORe-224	L3	WYTC-008	A2		Cody Caba
+YTC-0430	USP8 FLΔWW Y842A	pNIC-CH	Kan	C-his6	USP8 FL		human	bacterial expression		CORe-224	L3	WYTC-008	A3		Cody Caba
+YTC-0431	MMLVgag-3xNES-FLAG	pCMV	Amp	Nuclear Export Sequences; internal FLAG	control (no cargo)			mammalian expression		CORe-224	L3	WYTC-008	A4		Cody Caba
+YTC-0432	MMLVgag-3xNES-FLAG-Caltubin (1-179)	pCMV	Amp	Nuclear Export Sequences; internal FLAG				mammalian expression		CORe-224	L3	WYTC-008	A5		Cody Caba
+YTC-0433	USP8 645-686-LPETGG	pGEX w/ T7 (no Tac)	Amp	N-His-GB1-TEV	USP8 WW	WW	human	bacterial expression		CORe-224	L3	WYTC-008	A6		Cody Caba
+YTC-0434	USP8 645-686-LPETGG.W655S	pGEX w/ T7 (no Tac)	Amp	N-His-GB1-TEV	USP8 WW mut	WW mut	human	bacterial expression		CORe-224	L3	WYTC-008	A7		Cody Caba
+YTC-0435	GB1-LPETGG	pGEX w/ T7 (no Tac)	Amp	N-His	GB1		Streptococcal	bacterial expression		CORe-224	L3	WYTC-008	A8		Cody Caba
+YTC-0436	USP8 645-686-LPETGG	pET28-MKH8SUMO	Kan	N-8his-thrombin-SUMO-TEV	USP8 WW	WW	human	bacterial expression		CORe-224	L3	WYTC-008	A9		Cody Caba
+YTC-0437	USP8 645-686-LPETGG	pET28-MHL	Kan	N-His-TEV	USP8 WW	WW	human	bacterial expression		CORe-224	L3	WYTC-008	B1		Cody Caba
+YTC-0438	USP8 645-686-LPETGG.W655S	pET28-MKH8SUMO	Kan	N-8his-thrombin-SUMO-TEV	USP8 WW mut	WW mut	human	bacterial expression		CORe-224	L3	WYTC-008	B2		Cody Caba
+YTC-0439	USP8 645-686-LPETGG.W655S	pET28-MHL	Kan	N-His-TEV	USP8 WW mut	WW mut	human	bacterial expression		CORe-224	L3	WYTC-008	B3		Cody Caba
+YTC-0440	OTUD1: D287-Q451	pET28-MHL	Kan	N-His-TEV	OTUD1: OTU+UIM		human	bacterial expression		CORe-224	L3	WYTC-008	B4		Farinaz
+YTC-0441	OTUD1: D287- V454	pET28-MHL	Kan	N-His-TEV	OTUD1: OTU+UIM		human	bacterial expression		CORe-224	L3	WYTC-008	B5		Farinaz
+YTC-0442	OTUD1: D284-Q451	pET28-MHL	Kan	N-His-TEV	OTUD1: OTU+UIM		human	bacterial expression		CORe-224	L3	WYTC-008	B6		Farinaz
+YTC-0443	OTUD1: D284-V454	pET28-MHL	Kan	N-His-TEV	OTUD1: OTU+UIM		human	bacterial expression		CORe-224	L3	WYTC-008	B7		Farinaz
+YTC-0444	OTUD1: S281-Q451	pET28-MHL	Kan	N-His-TEV	OTUD1: OTU+UIM		human	bacterial expression		CORe-224	L3	WYTC-008	B8		Farinaz
+YTC-0445	OTUD1: S281-V454	pET28-MHL	Kan	N-His-TEV	OTUD1: OTU+UIM		human	bacterial expression		CORe-224	L3	WYTC-008	B9		Farinaz
+YTC-0446	USP8 691-1110	pGB1	Amp	N-His6-GB1-TEV-GG	USP8 CD		human	bacterial expression		CORe-224	L3	WYTC-008	C1		Cody Caba, Sortase-mediated ligation C-ter domain (receptor)
+YTC-0447	USP8 700-1110	pGB1	Amp	N-His6-GB1-TEV-GG	USP8 CD		human	bacterial expression		CORe-224	L3	WYTC-008	C2		Cody Caba, Sortase-mediated ligation C-ter domain (receptor)
+YTC-0448	USP8 722-1110	pGB1	Amp	N-His6-GB1-TEV-GG	USP8 CD		human	bacterial expression		CORe-224	L3	WYTC-008	C3		Cody Caba, Sortase-mediated ligation C-ter domain (receptor)
+YTC-0449	USP8 645-686-LPETGG	pGB1, TEV site modified to leave Nter Ser (not Gly)	Amp	N-His6-GB1-TEV	USP8 WW G645S		human	bacterial expression		CORe-224	L3	WYTC-008	C4		Cody Caba, Sortase-mediated ligation N-ter domain, TEV site = ENLYFQ|SS
+YTC-0450	USP8 645-686-LPETGG.W655S	pGB1, TEV site modified to leave Nter Ser (not Gly)	Amp	N-His6-GB1-TEV	USP8 WW G645S;W655S		human	bacterial expression		CORe-224	L3	WYTC-008	C5		Cody Caba, Sortase-mediated ligation N-ter domain, TEV site = ENLYFQ|SS
+YTC-0451	USP8 522-890	pGB1	Amp	N-His6-GB1-TEV	USP8 CD	CD	D. mel (fly)	bacterial expression		CORe-224	L3	WYTC-008	C6		Cody Caba
+YTC-0452	USP8 541-890	pGB1	Amp	N-His6-GB1-TEV	USP8 CD	CD	D. mel (fly)	bacterial expression		CORe-224	L3	WYTC-008	C7		Cody Caba
+YTC-0453	USP8 551-890	pGB1	Amp	N-His6-GB1-TEV	USP8 CD	CD	D. mel (fly)	bacterial expression		CORe-224	L3	WYTC-008	C8		Cody Caba
+YTC-0454	USP8 553-890	pGB1	Amp	N-His6-GB1-TEV	USP8 CD	CD	D. mel (fly)	bacterial expression		CORe-224	L3	WYTC-008	C9		Cody Caba
+YTC-0455	USP8 Δ607-647	pNIC-CH	Kan	C-his6	USP8 FLΔWW	FLΔWW	mouse	bacterial expression		CORe-224	L3	WYTC-008	D1		Cody Caba
+YTC-0456	Aurora Kinase C 1-310	pDONR223	Spectinomycin		AURKC	FL	human	cloning		CORe-224	L3	WYTC-008	D2		addgene 23374
+YTC-0457	Aurora Kinase B 55-344	pNIC28-Bsa4	Kan	N-His-TEV	AURKB	ΔN	human	bacterial expression		CORe-224	L3	WYTC-008	D3		addgene 39119
+YTC-0458	Inner centromere protein 835-903	pGTvL1-SGC	Amp	N-GST-TEV	INCENP	AURK-interacting peptide	human	bacterial expression		CORe-224	L3	WYTC-008	D4		addgene 39185
+YTC-0459	Target protein for xkpl2 1-43	pGEX-6p-1	Amp	N-GST	TPX2	1-43	human	bacterial expression		CORe-224	L3	WYTC-008	D5		addgene 69107
+YTC-0460	Aurora Kinase A 1-403	pET21a	Amp	N-GFP, C-mCherry	AURKA	FL	human	bacterial expression		CORe-224	L3	WYTC-008	D6		addgene 99876
+YTC-0461	MarathonRT	Champion TM pET SUMO	Kan	6xHis-SUMO	MarathonRT		Eubacterium rectale	bacterial expression		CORe-224	L3	WYTC-008	D7		addgene 109029
+YTC-0462	PINK1 114-575	pET28a	Kan	N-His-GST-HRV3C	PINK1		Pediculus humanus corporis	bacterial expression		CORe-224	L3	WYTC-008	D8		addgene 110750
+YTC-0463	miniTURBO	pCD-betaG-FLAG	Amp	N-FLAG	miniTURBO			mammalian expression		CORe-224	L3	WYTC-008	D9		addgene 124647
+YTC-0464	Ub 1-76.G76C	pET28-MHL	Kan	N-His6-TEV	Ub		Human	bacterial expression		CORe-224	L3	WYTC-008	E1		Cody Caba
+YTC-0465	CDK2 (+CAK) R157A	pRSF-Duet	Kan	N-His6-GST-TEV	CDK2 (+CAK)		Human	bacterial expression		CORe-224	L3	WYTC-008	E2		Farinaz, NO MUTATION INCORPORATED
+YTC-0466	CDK2 (+CAK) T158D	pRSF-Duet	Kan	N-His6-GST-TEV	CDK2 (+CAK)		Human	bacterial expression		CORe-224	L3	WYTC-008	E3		Farinaz, NO MUTATION INCORPORATED
+YTC-0467	Aurora Kinase A 1-403	pET28-MHL	Kan	N-His-TEV	AURKA		Human	bacterial expression		CORe-224	L3	WYTC-008	E4		Farinaz
+YTC-0468	Target protein for xkpl2 1-43	pGEX-MHL	Amp	N-GST-TEV	TPX2		Human	bacterial expression		CORe-224	L3	WYTC-008	E5		Farinaz
+YTC-0469	hUSP8 7-1110.R667K	pNIC-CH	Kan	C-his6	USP8 FL R667K		human	bacterial expression		CORe-224	L3	WYTC-008	E6		Cody Caba
+YTC-0470	CDK2 (+CAK) R157E	pRSF-Duet	Kan	N-His6-GST-TEV	CDK2 (+CAK)		human	bacterial expression		CORe-224	L3	WYTC-008	E7		Farinaz, NO MUTATION INCORPORATED
+YTC-0471	CDK2 (+CAK) R157E+T158D	pRSF-Duet	Kan	N-His6-GST-TEV	CDK2 (+CAK)		human	bacterial expression		CORe-224	L3	WYTC-008	E8		Farinaz, NO MUTATION INCORPORATED
+YTC-0472	CDK2	pACYCDuet-1	Chl	N-His6	MCS1: CDK2		human	bacterial expression		CORe-224	L3	WYTC-008	E9		Farinaz
+YTC-0473	CDK2+ SPDYA1(61-213)	pACYCDuet-1	Chl	N-His6	MCS1: CDK2, MCS2: SPY1 (61-213)		human	bacterial expression		CORe-224	L3	WYTC-008	F1		Farinaz
+YTC-0474	TEV site	pACYCDuet-1	Chl	N-His6-TEV	TEV site downstram of His-tag		human	bacterial expression		CORe-224	L3	WYTC-008	F2		Farinaz
+YTC-0475	TEV site+ CDK2	pACYCDuet-1	Chl	N-His6-TEV, CDK2 untagged	TEV site downstram of His-tag, MCS2: CDK2		human	bacterial expression		CORe-224	L3	WYTC-008	F3		Farinaz
+YTC-0476	TEV site+ CDK2+ SPDYA1 cons.1	pACYCDuet-1	Chl	N-His6-TEV- Spy1, CDK2 untagged	TEV site downstram of His-tag, MCS2: CDK2, MCS1: SPY1( construct 1: D57- V201)		human	bacterial expression		CORe-224	L3	WYTC-008	F4		Farinaz
+YTC-0477	TEV site+ CDK2+ SPDYA1 cons.2	pACYCDuet-1	Chl	N-His6-TEV- Spy1, CDK2 untagged	TEV site downstram of His-tag, MCS2: CDK2, MCS1: SPY1( construct 2: D57- G205)		human	bacterial expression		CORe-224	L3	WYTC-008	F5		Farinaz
+YTC-0478	TEV site+ CDK2+ SPDYA1 cons.3	pACYCDuet-1	Chl	N-His6-TEV- Spy1, CDK2 untagged	TEV site downstram of His-tag, MCS2: CDK2, MCS1: SPY1( construct 3: D57- N209)		human	bacterial expression		CORe-224	L3	WYTC-008	F6		Farinaz
+YTC-0479	TEV site+ CDK2+ SPDYA1 cons.4	pACYCDuet-1	Chl	N-His6-TEV- Spy1, CDK2 untagged	TEV site downstram of His-tag, MCS2: CDK2, MCS1: SPY1( construct 4: D57- D213)		human	bacterial expression		CORe-224	L3	WYTC-008	F7		Farinaz
+YTC-0480	TEV site+ CDK2+ SPDYA1 cons.5	pACYCDuet-1	Chl	N-His6-TEV- Spy1, CDK2 untagged	TEV site downstram of His-tag, MCS2: CDK2, MCS1: SPY1( construct5: G61- V201)		human	bacterial expression		CORe-224	L3	WYTC-008	F8		Farinaz
+YTC-0481	TEV site+ CDK2+ SPDYA1 cons.6	pACYCDuet-1	Chl	N-His6-TEV- Spy1, CDK2 untagged	TEV site downstram of His-tag, MCS2: CDK2, MCS1: SPY1( construct 6: G61- G205)		human	bacterial expression		CORe-224	L3	WYTC-008	F9		Farinaz
+YTC-0482	TEV site+ CDK2+ SPDYA1 cons.7	pACYCDuet-1	Chl	N-His6-TEV- Spy1, CDK2 untagged	TEV site downstram of His-tag, MCS2: CDK2, MCS1: SPY1( construct 7: G61- N209)		human	bacterial expression		CORe-224	L3	WYTC-008	G1		Farinaz
+YTC-0483	TEV site+ CDK2+ SPDYA1 cons.8	pACYCDuet-1	Chl	N-His6-TEV- Spy1, CDK2 untagged	TEV site downstram of His-tag, MCS2: CDK2, MCS1: SPY1( construct 8: G61- D213)		human	bacterial expression		CORe-224	L3	WYTC-008	G2		Farinaz
+YTC-0484	TEV site+ CDK2+ SPDYA1 cons.9	pACYCDuet-1	Chl	N-His6-TEV- Spy1, CDK2 untagged	TEV site downstram of His-tag, MCS2: CDK2, MCS1: SPY1( construct 9: C63- V201)		human	bacterial expression		CORe-224	L3	WYTC-008	G3		Farinaz
+YTC-0485	TEV site+ CDK2+ SPDYA1 cons.10	pACYCDuet-1	Chl	N-His6-TEV- Spy1, CDK2 untagged	TEV site downstram of His-tag, MCS2: CDK2, MCS1: SPY1( construct 10: C63- G205)		human	bacterial expression		CORe-224	L3	WYTC-008	G4		Farinaz
+YTC-0486	TEV site+ CDK2+ SPDYA1 cons.11	pACYCDuet-1	Chl	N-His6-TEV- Spy1, CDK2 untagged	TEV site downstram of His-tag, MCS2: CDK2, MCS1: SPY1( construct 11:  C63- N209)		human	bacterial expression		CORe-224	L3	WYTC-008	G5		Farinaz
+YTC-0487	TEV site+ CDK2+ SPDYA1 cons.12	pACYCDuet-1	Chl	N-His6-TEV- Spy1, CDK2 untagged	TEV site downstram of His-tag, MCS2: CDK2, MCS1: SPY1( construct 12: C63- D213)		human	bacterial expression		CORe-224	L3	WYTC-008	G6		Farinaz
+YTC-0488	TEV site+ CDK2+ SPDYA1 cons.13	pACYCDuet-1	Chl	N-His6-TEV- Spy1, CDK2 untagged	TEV site downstram of His-tag, MCS2: CDK2, MCS1: SPY1( construct 13: C63- E313)		human	bacterial expression		CORe-224	L3	WYTC-008	G7		Farinaz
+YTC-0489	TEV site+ CDK2+ SPDYA1 cons.14	pACYCDuet-1	Chl	N-His6-TEV- Spy1, CDK2 untagged	TEV site downstram of His-tag, MCS2: CDK2, MCS1: SPY1( construct 14: G61- E313)		human	bacterial expression		CORe-224	L3	WYTC-008	G8		Farinaz
+YTC-0490	usp02.001.605	pET28a-LIC	Kan	N-His6-thrombin	USP2 FL		human	bacterial expression		CORe-224	L3	WYTC-008	H1		USP02:SDC054-G10:C17265
+YTC-0491	usp07.0025.1086	pET28a-LIC	Kan	N-His6-thrombin	USP7 FL		human	bacterial expression		CORe-224	L3	WYTC-008	H2		USP7:SDC171-H02:C207682
+YTC-0492	usp10.001.798	pFBOH-SUMOstar-TEV	Amp	N-SUMOstar-TEV	USP10 FL		human	insect cell expression		CORe-224	L3	WYTC-008	H3		USP10:SDC155-H10:C214402
+YTC-0493	usp11.044.963	pNIC-CH	Kan	C-6his	USP11 FL		human	bacterial expression		CORe-224	L3	WYTC-008	H4		USP11:SDC157-G12:C202105
+YTC-0494	usp11.044.963.Δ446-735(DUSP-Ubl)	pNIC-CH	Kan	C-6his	USP11 D1-ASTSK-D2 (ΔDUSP-Ubl)		human	bacterial expression		CORe-224	L3	WYTC-008	H5		Cody Caba
+YTC-0495	hUSP8 7-1110.R646E	pNIC-CH	Kan	C-6his	USP8 FL		human	bacterial expression		CORe-224	L3	WYTC-008	H6		Cody Caba
+YTC-0496	hUSP8 7-1110.T663R	pNIC-CH	Kan	C-6his	USP8 FL		human	bacterial expression		CORe-224	L3	WYTC-008	H7		Cody Caba
+YTC-0497	hUSP8 7-1110.L659D	pNIC-CH	Kan	C-6his	USP8 FL		human	bacterial expression		CORe-224	L3	WYTC-008	H8		Cody Caba
+YTC-0498	hUSP8 7-1110.K657E	pNIC-CH	Kan	C-6his	USP8 FL		Human	bacterial expression		CORe-224	L3	WYTC-008	H9		Cody Caba
+YTC-0499	hUSP8 7-1110.R667E	pNIC-CH	Kan	C-6his	USP8 FL		Human	bacterial expression		CORe-224	L3	WYTC-008	I1		Cody Caba
+YTC-0500	USP2 258-605	pGB1	Amp	N-His6-GB1-TEV	USP2 CD chimera w/ USP8 691-757		Human	bacterial expression		CORe-224	L3	WYTC-008	I2		Cody Caba
+YTC-0501	USP5 1-835	pGB1	Amp	N-His6-GB1-TEV	USP5 CD chimera w/ USP8 691-757		Human	bacterial expression		CORe-224	L3	WYTC-008	I3		Cody Caba
+YTC-0502	USP7 208-560	pGB1	Amp	N-His6-GB1-TEV	USP7 CD chimera w/ USP8 691-757		Human	bacterial expression		CORe-224	L3	WYTC-008	I4		Cody Caba
+YTC-0503	USP9X 1551-1970	pGB1	Amp	N-His6-GB1-TEV	USP9X CD chimera w/ USP8 691-757		Human	bacterial expression		CORe-224	L3	WYTC-008	I5		Cody Caba
+YTC-0504	USP10 376-798	pGB1	Amp	N-His6-GB1-TEV	USP10 CD chimera w/ USP8 691-757		Human	bacterial expression		CORe-224	L3	WYTC-008	I6		Cody Caba
+YTC-0505	USP11 D1-D2 w/ ASTSK linker (252-445)-ASTSK-(736-893)	pGB1	Amp	N-His6-GB1-TEV	USP11 D1-ASTSK-D2 chimera w/ USP8 691-757		Human	bacterial expression		CORe-224	L3	WYTC-008	I7		Cody Caba
+YTC-0506	USP21 209-562	pGB1	Amp	N-His6-GB1-TEV	USP21 CD chimera w/ USP8 691-757		Human	bacterial expression		CORe-224	L3	WYTC-008	I8		Cody Caba
+YTC-0507	USP8 645-1110	pGB1	Amp	N-His6-GB1-TEV	USP8 WW-CD		Human	bacterial expression		CORe-224	L3	WYTC-008	I9		Cody Caba
+YTC-0508	SPDYA1(codon optimized 61-313)-hCDK2 FL bicistron	pGB1	Amp	N-His6-GB1-TEV-SPDYA; CDK2 untagged	SPDYA-CDK2		Human-Human	bacterial expression		CORe-224	L3	WYTC-009	A1	not seen? 18C, LOBSTR RIL	Cody Caba
+YTC-0509	SPDYA1(codon optimized 61-198)-hCDK2 FL bicistron	pGB1	Amp	N-His6-GB1-TEV-SPDYA; CDK2 untagged	SPDYA-CDK2		Human-Human	bacterial expression		CORe-224	L3	WYTC-009	A2	not seen? 18C, LOBSTR RIL	Cody Caba
+YTC-0510	SPDYA1(codon optimized 61-201)-hCDK2 FL bicistron	pGB1	Amp	N-His6-GB1-TEV-SPDYA; CDK2 untagged	SPDYA-CDK2		Human-Human	bacterial expression		CORe-224	L3	WYTC-009	A3	not seen? 18C, LOBSTR RIL	Cody Caba
+YTC-0511	SPDYA1(codon optimized 61-204)-hCDK2 FL bicistron	pGB1	Amp	N-His6-GB1-TEV-SPDYA; CDK2 untagged	SPDYA-CDK2		Human-Human	bacterial expression		CORe-224	L3	WYTC-009	A4	not seen? 18C, LOBSTR RIL	Cody Caba
+YTC-0512		pGB1	Amp	N-His6-GB1-TEV-SPDYA; CDK2 untagged	SPDYA-CDK2		Human-Human	bacterial expression		CORe-224	L3	WYTC-009	A5	not seen? 18C, LOBSTR RIL	Cody Caba
+YTC-0513	SPDYA1(codon optimized 61-213)-hCDK2 FL bicistron	pGB1	Amp	N-His6-GB1-TEV-SPDYA; CDK2 untagged	SPDYA-CDK2		Human-Human	bacterial expression		CORe-224	L3	WYTC-009	A6	not seen? 18C, LOBSTR RIL	Cody Caba
+YTC-0514	SPDYA1(codon optimized 61-213)-hCDK2 FL bicistron	pGB1	Amp	N-His6-GB1-TEV	SPDYA		Human	bacterial expression		CORe-224	L3	WYTC-009	A7	not seen? 18C, LOBSTR RIL	Cody Caba
+YTC-0515	hCDK2 FL	pGB1	Amp	N-His6-GB1-TEV	CDK2		Human	bacterial expression		CORe-224	L3	WYTC-009	A8	High. 18C, LOBSTR RIL	Cody Caba
+YTC-0516	hCyclinA2(codon optimized 173-432)-hCDK2 FL bicistron	pGB1	Amp	N-His6-GB1-TEV-CyclinA2; CDK2 untagged	CyclinA2-CDK2		Human-Human	bacterial expression		CORe-224	L3	WYTC-009	B1	High. 18C, LOBSTR RIL	Cody Caba
+YTC-0517	yCAK1 1-368	pACYC	Cam	His	CAK1		yeast	bacterial expression		CORe-224	L3	WYTC-009	B2		Cody Caba
+N/A	MS2: maturase+cp-his-cp	pACYCDuet-1	Chl	internal his6	MCS1:MS2 PLP ; MCS2: fluA:fluB:rsv:piv1:piv2:piv3:piv4			bacterial expression		CORe-224	L3	WYTC-009	B3		
+YTC-0519	USP8 645-686.K657E	pGEX-MHL	Amp	N-GST-TEV	USP8 WW		human	bacterial expression		CORe-224	L3	WYTC-009	B4		Cody Caba
+YTC-0520	USP8 645-686.L659D	pGEX-MHL	Amp	N-GST-TEV	USP8 WW		human	bacterial expression		CORe-224	L3	WYTC-009	B5		Cody Caba
+YTC-0521	USP8 645-686.T663R	pGEX-MHL	Amp	N-GST-TEV	USP8 WW		human	bacterial expression		CORe-224	L3	WYTC-009	B6		Cody Caba
+YTC-0522	USP8 645-686.R667E	pGEX-MHL	Amp	N-GST-TEV	USP8 WW		human	bacterial expression		CORe-224	L3	WYTC-009	B7		Cody Caba
+YTC-0523	USP8 645-686.R667K	pGEX-MHL	Amp	N-GST-TEV	USP8 WW		human	bacterial expression		CORe-224	L3	WYTC-009	B8		Cody Caba
+YTC-0524	SPDYA1-CDK2	pGB1	Amp	N-His6-GB1-TEV-SPDA; CDK2 untagged	hSPDYA(codon optimized 61-213)-hCDK2 FL bicistron		human	bacterial expression		CORe-224	L3	WYTC-009	C1		Cody Caba
+YTC-0525	CDK2-SPDYA1	pGB1	Amp	N-His6-GB1-TEV-CDK2; SPDYA untagged	hCDK2 FL-hSPDYA(codon optimized 61-213) bicistron		human	bacterial expression		CORe-224	L3	WYTC-009	C2		Cody Caba
+YTC-0526	CDK2	pRSF-Duet	Kan	N-His6-GST-TEV	CDK2 (yCAK deleted: original YTC-0410)	co-expression plasmid for making pT160-CDK2	human	bacterial expression		CORe-224	L3	WYTC-009	C3		Cody Caba
+YTC-0527	CDK2/yCAK1	pRSF-Duet	Kan	N-His6-GB1-TEV			human-yeast	bacterial expression		CORe-224	L3	WYTC-009	C4		Cody Caba
+YTC-0528	CDK2	pRSF-Duet	Kan	N-His6-GB1-TEV	CDK2, yCAK1 orf deleted (original: YTC-0410)		human	bacterial expression		CORe-224	L3	WYTC-009	C5		Cody Caba
+YTC-0529	SPDYA1 61-213	pACYCDuet-1	Chl	N-His6-TEV	MCS1: SPY1(G61- D213), MCS2: empty		human	bacterial expression		CORe-224	L3	WYTC-009	C6		Farinaz
+YTC-0530	SPDYA1 63-209	pACYCDuet-2	Chl	N-His6-TEV	MCS1: SPY1(C63- V201), MCS2: empty		human	bacterial expression		CORe-224	L3	WYTC-009	C7		Farinaz
+YTC-0531	SPDYA1 C63- D213	pACYCDuet-3	Chl	N-His6-TEV	MCS1: SPY1( C63- D213), MCS2: empty		human	bacterial expression		CORe-224	L3	WYTC-009	C8		Farinaz
+YTC-0532	CDK2	pET28-MHL	Kan	N-His6-TEV	CDK2 (original: YTC-0410)		human	bacterial expression		CORe-224	L3	WYTC-009	D1		Farinaz
+YTC-0533	CDK2+Cyclin A2	pACYCDuet-1	Chl	N-His6-TEV-CyclinA2, CDK2 untagged	MCS2: CDK2, MCS1: Cyclin A2		human	bacterial expression		CORe-224	L3	WYTC-009	D2		Farinaz
+YTC-0534	USP8 645-1110.F658amber	pGB1	Amp	N-His8-GB1-TEV	USP8 WW-CD w/ amber codon		human	bacterial expression		CORe-224	L3	WYTC-009	D3		Cody Caba
+YTC-0535	USP8 645-1110.F666amber	pGB1	Amp	N-His8-GB1-TEV	USP8 WW-CD w/ amber codon		human	bacterial expression		CORe-224	L3	WYTC-009	D4		Cody Caba
+YTC-0536	USP8 645-1110.Y668amber	pGB1	Amp	N-His8-GB1-TEV	USP8 WW-CD w/ amber codon		human	bacterial expression		CORe-224	L3	WYTC-009	D5		Cody Caba
+YTC-0537	USP8 645-1110.Y679amber	pGB1	Amp	N-His8-GB1-TEV	USP8 WW-CD w/ amber codon		human	bacterial expression		CORe-224	L3	WYTC-009	D6		Cody Caba
+YTC-0538	USP8 645-1110.F875amber	pGB1	Amp	N-His8-GB1-TEV	USP8 WW-CD w/ amber codon		human	bacterial expression		CORe-224	L3	WYTC-009	D7		Cody Caba
+YTC-0539	USP8 645-1110.Y951amber	pGB1	Amp	N-His8-GB1-TEV	USP8 WW-CD w/ amber codon		human	bacterial expression		CORe-224	L3	WYTC-009	D8		Cody Caba
+YTC-0540	USP8 7-685-(GGSx11)-758-1110	pNIC-CH	Kan	C-6his	USP8 FL GGS11 linker		human	bacterial expression		CORe-224	L3	WYTC-009	E1	Clone likely not correct, do not use	Cody Caba
+YTC-0541	ADP-GK	pET28-MHL	Kan	N-6his-TEV	ADP-dependent glucokinase FL Q9V2Z6 codon opt. for E.coli B		P. furiosus	bacterial expression		CORe-224	L3	WYTC-009	E2		Cody Caba
+YTC-0542	ADP-GK	pET28-MKH8SUMO	Kan	N-8his-thrombin-SUMO-TEV	ADP-dependent glucokinase FL Q9V2Z6 codon opt. for E.coli B		P. furiosus	bacterial expression		CORe-224	L3	WYTC-009	E3		Cody Caba
+YTC-0543	USP8 645-757	pGEX-MHL	Amp	N-GST-TEV	USP8 WW-linker		human	bacterial expression		CORe-224	L3	WYTC-009	E4		Cody Caba
+YTC-0544	USP8 645-757.W655S	pGEX-MHL	Amp	N-GST-TEV	USP8 WW-linker.W655S		human	bacterial expression		CORe-224	L3	WYTC-009	E5		Cody Caba
+YTC-0545	USP8 686-757	pGEX-MHL	Amp	N-GST-TEV	USP8 WW-CD linker only		human	bacterial expression		CORe-224	L3	WYTC-009	E6		Cody Caba
+YTC-0546	USP8 7-685-(GGSx11)-758-1110	pNIC-CH	Kan	C-6his	USP8 FL GGS11 linker		human	bacterial expression		CORe-224	L3	WYTC-009	E7		Cody Caba
+YTC-0547	USP8 7-685-(GGSx8)-758-1110	pNIC-CH	Kan	C-6his	USP8 FL GGS8 linker		human	bacterial expression		CORe-224	L3	WYTC-009	E8		Cody Caba
+YTC-0548	USP8 7-685-(GGSx5)-758-1110	pNIC-CH	Kan	C-6his	USP8 FL GGS5 linker		human	bacterial expression		CORe-224	L3	WYTC-009	F1		Cody Caba
+YTC-0549	USP8 7-685-(GGSx2)-758-1110	pNIC-CH	Kan	C-6his	USP8 FL GGS2 linker		human	bacterial expression		CORe-224	L3	WYTC-009	F2		Cody Caba
+YTC-0550	SUN1  isoform 785	pEGFP	Amp	GFP	SUN1  isoform 785		human	mammalian expression		CORe-224	L3	WYTC-009	F3		addgene 125852
+YTC-0551	SUN1  isoform 916	pEGFP	Amp	GFP	SUN1  isoform 916		human	mammalian expression		CORe-224	L3	WYTC-009	F4	from Porter lab- it doesn't grow in media for miniprep- this is the original one from Porter lab	addgene 125850
+YTC-0552	SpeedyA2	Myc-PCS3	Amp	Myc	SpeedyA1		human	mammalian expression		CORe-224	L3	WYTC-009	F5		from Porter lab
+YTC-0553	SpeedyB (E4A)	Myc-PCS3	Amp	Myc	SpeedyB (E4A)		mouse	mammalian expression		CORe-224	L3	WYTC-009	F6		from Porter lab
+YTC-0554	SpeedyC	Myc-PCS3	Amp	Myc	SpeedyC		human	mammalian expression		CORe-224	L3	WYTC-009	F7		from Porter lab
+YTC-0555	SpeedyE4	Myc-PCS3	Amp	Myc	SpeedyE4		human	mammalian expression		CORe-224	L3	WYTC-009	F8		from Porter lab
+YTC-0556	CDK1	NLuc-pFC32A	Amp	NLuc	CDK1		human	mammalian expression		CORe-224	L3	WYTC-009	G1		from Porter lab
+YTC-0557	Cyclin E	Rc/CMV	Amp	?	Cyclin E		human	mammalian expression		CORe-224	L3	WYTC-009	G2		from Porter lab
+YTC-0558	USP7	pMAL-p2e	Amp	N-MBP	USP7:M1-N1102:MBP		human	bacterial expression		CORe-224	L3	WYTC-009	G3		USP7:YTC009-F02:C227301
+YTC-0559	GMPS	pET28-MHL	Kan	N-his6-TEV	GMPS M1-E693		human	bacterial expression		CORe-224	L3	WYTC-009	G4		GMPS:YTC046-E09:C239467
+YTC-0560	MDM2A	pET28-MHL	Kan	N-his6-TEV	MDM2:M1-P497		human	bacterial expression		CORe-224	L3	WYTC-009	G5		MDM2A:YTC028-C10:C234533
+YTC-0561		pNLF1-N [CMV/Hygro]	Amp	N-NanoLuc			vector	mammalian expression		CORe-224	L3	WYTC-009	G6		Promega N135A, accession KF811457
+YTC-0562		pNLF1-C [CMV/Hygro]	Amp	C-NanoLuc			vector	mammalian expression		CORe-224	L3	WYTC-009	G7		Promega N136A, accession KF811458
+YTC-0563		pHTN HaloTag CMV-neo	Amp	N-HaloTag-TEV			vector	mammalian expression		CORe-224	L3	WYTC-009	G8		Promega G772A, accession JF920304
+YTC-0564		pHTC HaloTag CMV-neo	Amp	C-TEV-HaloTag			vector	mammalian expression		CORe-224	L3	WYTC-009	H1		Promega G771A, accession JF920305
+YTC-0565	NanoLuc-MDM2	not specified (CMV)	Kan	N-nanoLuc	MDM2A		human	mammalian expression		CORe-224	L3	WYTC-009	H2		Promega N160A
+YTC-0566	p53-HaloTag	not specified (CMV)	Kan	C-HaloTag	p53		human	mammalian expression		CORe-224	L3	WYTC-009	H3		Promega N159A
+YTC-0567	UBC:M1-R78:vu9x.1.R42H/A46K	pET28-MHL	Kan	N-6his-TEV	UbV.9X.1.R42H/A46K			bacterial expression		CORe-224	L3	WYTC-009	H4		Josh Mallare: Q5 SDM of UBC:M1-R78:vu9x.1.R42H
+YTC-0568	UBC:M1-R78:vu9x.1.R42H/A46E	pET28-MHL	Kan	N-6his-TEV	UbV.9X.1.R42H/A46E			bacterial expression		CORe-224	L3	WYTC-009	H5		Josh Mallare: Q5 SDM of UBC:M1-R78:vu9x.1.R42H
+YTC-0569	His-TEV-SPY1-TEV-CDK2	pACYC-Duet1	Chl	N-His-TEV	His-TEV-SPY1(61-313)-TEV-CDK2(M1-L298)		human (chimera)	bacterial expression		CORe-224	L3	WYTC-009	H6		Cody Caba
+YTC-0570	SUN1(137-171).G156C	pNIC-CH	Kan	N-GB1-TEV, C-His	GB1-SUN1(137-171).G156C-His		human	bacterial expression		CORe-224	L3	WYTC-009	H7		Cody Caba
+YTC-0571	CDK2 substrate HHASPRK	pGB1	Amp	N-His-GB1-TEV	GB1-HHASPRK		peptide	bacterial expression		CORe-224	L3	WYTC-010	A1		Cody Caba
+YTC-0572	USP16 156-823	pET28-MHL	Kan	N-His6-TEV	USP16 CD		human	bacterial expression		CORe-224	L3	WYTC-010	A2		USP16:SDC093-D11:C29625
+YTC-0573	Fubi	pET28-LIC	Kan	N-His6-thrombin	Fubi		human	bacterial expression		CORe-224	L3	WYTC-010	A3		SDC057-D04
+YTC-0574	Fubi	pET28-LIC	Kan	N-His6-thrombin	Fubi		human	bacterial expression		CORe-224	L3	WYTC-010	A4		SDC057-D09
+YTC-0575	USP36 89-540	pET28-MHL	Kan	N-His6-TEV	USP36 CD		human	bacterial expression		CORe-224	L3	WYTC-010	A5		USP36:SDC126-F10:C39037
+YTC-0576	USP36 89-630	pET28-MHL	Kan	N-His6-TEV	USP36 CD		human	bacterial expression		CORe-224	L3	WYTC-010	A6	Low expression	USP36:SDC126-F11:C39038
+YTC-0577	ubv.USP16.01	pET28-MHL	Kan	N-His6-TEV	UbV.1 USP16			bacterial expression		CORe-224	L3	WYTC-010	A7		ubv.USP16.01:YTC033-B09:C236527
+YTC-0578	ubv.USP16.02	pET28-MHL	Kan	N-His6-TEV	UbV.2 USP16			bacterial expression		CORe-224	L3	WYTC-010	A8		ubv.USP16.02:YTC033-B10:C236528
+YTC-0579	ubv.USP16.03	pET28-MHL	Kan	N-His6-TEV	UbV.3 USP16			bacterial expression		CORe-224	L3	WYTC-010	A9		ubv.USP16.03:YTC033-B11:C236529
+YTC-0580	ubv.USP16.04	pET28-MHL	Kan	N-His6-TEV	UbV.4 USP16			bacterial expression		CORe-224	L3	WYTC-010	B1		ubv.USP16.04:YTC033-B12:C236530
+YTC-0581	Ube1 (UBA1)	pET-11a	Amp	N-His6-TEV	His-Tev-UbE1		human	bacterial expression		CORe-224	L3	WYTC-010	B2		Addgene 186804
+YTC-0582	uvsY	pET28a	Kan	N-His6	uvsY		phage T4	bacterial expression		CORe-224	L3	WYTC-010	B3		Addgene 163914
+YTC-0583	uvsX	pET28a	Kan	C-His6	uvsX		phage T4	bacterial expression		CORe-224	L3	WYTC-010	B4		Addgene 163913
+YTC-0584	gp32	pET28a	Kan	C-His6	gp32		phage T4	bacterial expression		CORe-224	L3	WYTC-010	B5		Addgene 163912
+YTC-0585	Bsu polymerase M1-K585	pET28a	Kan	N-His6	Bsu polymerase		B. subtilis	bacterial expression		CORe-224	L3	WYTC-010	B6		Addgene 163911
+YTC-0586	Butelase 1	pQE30	Amp	N-His6	Butelase 1			bacterial expression		CORe-224	L3	WYTC-010	B7		Addgene 115430
+YTC-0587	ADAR p150	pcDNA3.1	Amp		ADAR p150 FL		human	mammalian expression		CORe-224	L3	WYTC-010	B8		Addgene 193192
+YTC-0588	URH49 (DDX39A)	Hy_pMT	Amp	N-FLAG	URH49		human	mammalian expression		CORe-224	L3	WYTC-010	B9		Addgene 110127
+YTC-0589	PARP1 FL	pCMV	Kan	N-3xFLAG	PARP1		human	mammalian expression		CORe-224	L3	WYTC-010	C1		Addgene 111575
+YTC-0590	Ku80 (XRCC5)	pEGFP-C1-FLAG	Kan	N-GFP-FLAG	Ku80 (XRCC5)		human	mammalian expression		CORe-224	L3	WYTC-010	C2		Addgene 46958
+YTC-0591	PABPC1	pCI-neo	Amp	N-MS2coat-V5	PABPC1		human	mammalian expression		CORe-224	L3	WYTC-010	C3		Addgene 65807
+YTC-0592	MCM6	pCDF	Spectinomycin	N-His6	MCM6		human	bacterial expression		CORe-224	L3	WYTC-010	C4		Addgene 116951
+YTC-0593	SepRS(2)/pSertRNA(B4)/EF-Sep	pKW2	Chl		Ins1: M. mar SepRS(2); Ins2: pSertRNA; Ins3: EF-Sep			bacterial expression		CORe-224	L3	WYTC-010	C5		Addgene 173897
+YTC-0594	Ub.G76C	pNIC-CH	Kan	C-his6	Ubiquitin 1-76.G76C	FL	human	bacterial expression		CORe-224	L3	WYTC-010	C6		Cody Caba
+YTC-0595	ITCH	pOTB7	Chl		ITCH	FL	human	cDNA		CORe-224	L3	WYTC-010	C7		SGC, AU66-H3 | BC011571.1
+YTC-0597	FTSJ3	pOTB7	Chl		FTSJ3	FL	human	cDNA		CORe-224	L3	WYTC-010	C9		SGC, AU79-E4|BC036710.2
+YTC-0598	SSRP1	pOTB7	Chl		SSRP1	FL	human	cDNA		CORe-224	L3	WYTC-010	D1		SGC, AU16-C5|BC005116.1
+YTC-0599	Speedy E3	pBluescriptR	Amp		SPDYE3	FL	human	cDNA		CORe-224	L3	WYTC-010	D2		SGC, AT63-H11|BC056606.1
+YTC-0600	Speedy E2	pCR-Blunt II-TOPO	Kan		SPDYE2	FL	human	cDNA		CORe-224	L3	WYTC-010	D3		SGC, CM3-C11|BC100973.1
+YTC-0601	USP7 M1-Q1102	pNLF1-N [CMV/Hygro]	Amp	N-NanoLuc	USP7 FL	FL	human	mammalian expression		CORe-224	L3	WYTC-010	D4		Cody Caba
+YTC-0602	USP7 M1-Q1102	pNLF1-C [CMV/Hygro]	Amp	C-NanoLuc	USP7 FL	FL	human	mammalian expression		CORe-224	L3	WYTC-010	D5		Cody Caba
+YTC-0603	USP7 M1-Q1102	pHTN HaloTag CMV-neo	Amp	N-HaloTag-TEV	USP7 FL	FL	human	mammalian expression		CORe-224	L3	WYTC-010	D6		Cody Caba
+YTC-0604	USP7 M1-Q1102	pHTC HaloTag CMV-neo	Amp	C-TEV-HaloTag	USP7 FL	FL	human	mammalian expression		CORe-224	L3	WYTC-010	D7		Cody Caba
+YTC-0605	GMPS M1-E693	pNLF1-N [CMV/Hygro]	Amp	N-NanoLuc	GMPS FL	FL	human	mammalian expression		CORe-224	L3	WYTC-010	D8	clone failed, is. empty vector	Cody Caba
+YTC-0606	GMPS M1-E693	pNLF1-C [CMV/Hygro]	Amp	C-NanoLuc	GMPS FL	FL	human	mammalian expression		CORe-224	L3	WYTC-010	D9		Cody Caba
+YTC-0607	GMPS M1-E693	pHTN HaloTag CMV-neo	Amp	N-HaloTag-TEV	GMPS FL	FL	human	mammalian expression		CORe-224	L3	WYTC-010	E1		Cody Caba
+YTC-0608	GMPS M1-E693	pHTC HaloTag CMV-neo	Amp	C-TEV-HaloTag	GMPS FL	FL	human	mammalian expression		CORe-224	L3	WYTC-010	E2		Cody Caba
+YTC-0609	MDM2A M1-P497	pHTC HaloTag CMV-neo	Amp	C-TEV-HaloTag	MDM2A FL	FL	human	mammalian expression		CORe-224	L3	WYTC-010	E3		Cody Caba
+YTC-0610	hCDK2 FL.R157A	pGB1	Amp	N-His8-GB1-TEV	CDK2		Human	bacterial expression		CORe-224	L3	WYTC-010	E4		Cody Caba
+YTC-0611	hCDK2 FL.R157E	pGB1	Amp	N-His8-GB1-TEV	CDK2		Human	bacterial expression		CORe-224	L3	WYTC-010	E5		Cody Caba
+YTC-0612	hCDK2 FL.T158D	pGB1	Amp	N-His8-GB1-TEV	CDK2		Human	bacterial expression		CORe-224	L3	WYTC-010	E6		Cody Caba
+YTC-0613	hCDK2 FL.R157A/T158D	pGB1	Amp	N-His8-GB1-TEV	CDK2		Human	bacterial expression		CORe-224	L3	WYTC-010	E7		Cody Caba
+YTC-0614	hCDK2 FL.R157E/T158D	pGB1	Amp	N-His8-GB1-TEV	CDK2		Human	bacterial expression		CORe-224	L3	WYTC-010	E8		Cody Caba
+YTC-0615	ubiq.001.076.S65amber	pNIC-CH	Kan	C-6his	Ub wt (UBC) S65amber mutation		human	bacterial expression		CORe-224	L3	WYTC-010	E9		Cody Caba
+YTC-0616	Ub.G76C/S65amber	pNIC-CH	Kan	C-his6	Ubiquitin 1-76.G76C S65 amber mutation	FL	human	bacterial expression		CORe-224	L3	WYTC-010	F1		Cody Caba
+YTC-0617	SPDYA1 61-313	pET28-MKH8SUMO	Kan	His-SUMO-TEV	SPDYA1 61-313		human	bacterial expression		CORe-224	L3	WYTC-010	F2		Cody Caba
+YTC-0618	SPDYA1 61-313	p6HISMAL-MHL	Amp	N-6his-MBP-TEV	SPDYA1 61-313		human	bacterial expression		CORe-224	L3	WYTC-010	F3		Cody Caba
+YTC-0619	SPDYA1 61-313	pGEX-MHL	Amp	N-GST-TEV	SPDYA1 61-313		human	bacterial expression		CORe-224	L3	WYTC-010	F4		Cody Caba
+YTC-0620	SPDYA1 61-313	pET15TRX-MHL	Amp	N-6his-Trx-TEV	SPDYA1 61-313		human	bacterial expression		CORe-224	L3	WYTC-010	F5		Cody Caba
+YTC-0621	SPDYA1 61-313	pET15NUSA-MHL	Amp	N-6his-NusA-TEV	SPDYA1 61-313		human	bacterial expression		CORe-224	L3	WYTC-010	F6		Cody Caba
+YTC-0622	SPDYA1 61-313	pGB1	Amp	N-His8-GB1-TEV	SPDYA1 61-313		human	bacterial expression		CORe-224	L3	WYTC-010	F7		Cody Caba
+YTC-0623	hCyclinA2 173-432 (codon optimized)	pGB1	Amp	N-His8-GB1-TEV	CyclinA2 173-432		human	bacterial expression		CORe-224	L3	WYTC-010	F8		Cody Caba
+YTC-0624	hCDK2 FL	pNIC-Bio3	Kan	N-6his-TEV, C-Avi	CDK2		Human	bacterial expression		CORe-224	L3	WYTC-010	F9		Cody Caba
+YTC-0625	MDM2A M1-P497	pHTN HaloTag CMV-neo	Amp	N-HaloTag-TEV	MDM2A FL	FL	human	mammalian expression		CORe-224	L3	WYTC-010	G1		Cody Caba
+YTC-0626	usp03.001.520	pGEX-4T-1	Amp	N-GST-Thrombin	USP3	FL	human	bacterial expression		CORe-224	L3	WYTC-010	G2		USP03:SDC196-A05:C214935
+YTC-0627	usp03.124.520	pGEX-4T-1	Amp	N-GST-Thrombin	USP3	Catalytic domain	human	bacterial expression		CORe-224	L3	WYTC-010	G3		USP03:SDC196-A06:C214936
+YTC-0628	usp03.153.520	pGEX-4T-1	Amp	N-GST-Thrombin	USP3	Catalytic domain	human	bacterial expression		CORe-224	L3	WYTC-010	G4		USP03:SDC196-A07:C214937
+YTC-0629	Ub (1-75) intein	pTXB1	Amp	C-Mxe intein/chitin binding domain	Ubiquitin	(1-75)	human	bacterial expression		CORe-224	L3	WYTC-010	G5		1-11 Malte Gersch, Max Planck Institute; inserted at NdeI/SapI(?)
+YTC-0630	Sumo1-intein-cbd	pTxB1	Amp	C-Mxe intein/chitin binding domain	Sumo1	(1-96)	human	bacterial expression		CORe-224	L3	WYTC-010	G6		2-2 Malte Gersch, Max Planck Institute; inserted at NdeI/SapI(?)
+YTC-0631	FUBI (1-73)	pTxB1	Amp	C-Mxe intein/chitin binding domain	FAU	(1-73)	human	bacterial expression		CORe-224	L3	WYTC-010	G7		3-76 Malte Gersch, Max Planck Institute; inserted at NdeI/SapI(?)
+YTC-0632	Ub-(1-76) wt	pTXB1	Amp	C-Mxe intein/chitin binding domain	Ubiquitin	(1-76)	human	bacterial expression		CORe-224	L3	WYTC-010	G8		5-12 Malte Gersch, Max Planck Institute; inserted at NdeI/SapI(?)
+YTC-0633	SUMO2(1-93)	pTXB1	Amp	C-Mxe intein/chitin binding domain	SUMO2	(1-93)	human	bacterial expression		CORe-224	L3	WYTC-010	G9		5-71 Malte Gersch, Max Planck Institute; inserted at NdeI/SapI(?)
+YTC-0634	SUMO2-(1-92) wt	pTXB1	Amp	C-Mxe intein/chitin binding domain	SUMO2	(1-92)	human	bacterial expression		CORe-224	L3	WYTC-010	H1		5-08 Malte Gersch, Max Planck Institute; inserted at NdeI/SapI(?)
+YTC-0635	FUBI(1-74)	pTXB1	Amp	C-Mxe intein/chitin binding domain	FAU	(1-74)	human	bacterial expression		CORe-224	L3	WYTC-010	H2		6-60 Malte Gersch, Max Planck Institute; inserted at NdeI/SapI(?)
+YTC-0636	empty pTXB1	pTXB1	Amp	C-Mxe intein/chitin binding domain				bacterial expression		CORe-224	L3	WYTC-010	H3		Malte Gersch, Max Planck Institute
+YTC-0637	USP8 645-1110.K699amber	pGB1	Amp	N-His8-GB1-TEV	USP8	WW-CD w/ amber codon	human	bacterial expression		CORe-224	L3	WYTC-010	H4		Cody Caba
+YTC-0638	USP8 645-1110.Y717amber	pGB1	Amp	N-His8-GB1-TEV	USP8	WW-CD w/ amber codon	human	bacterial expression		CORe-224	L3	WYTC-010	H5		Cody Caba
+YTC-0639	USP8 645-1110.K731amber	pGB1	Amp	N-His8-GB1-TEV	USP8	WW-CD w/ amber codon	human	bacterial expression		CORe-224	L3	WYTC-010	H6		Cody Caba
+YTC-0640	USP8 645-1110.Y749amber	pGB1	Amp	N-His8-GB1-TEV	USP8	WW-CD w/ amber codon	human	bacterial expression		CORe-224	L3	WYTC-010	H7		Cody Caba
+YTC-0641	USP8 645-1110.K848amber	pGB1	Amp	N-His8-GB1-TEV	USP8	WW-CD w/ amber codon	human	bacterial expression		CORe-224	L3	WYTC-010	H8		Cody Caba
+YTC-0642	USP8 645-1110.Y893amber	pGB1	Amp	N-His8-GB1-TEV	USP8	WW-CD w/ amber codon	human	bacterial expression		CORe-224	L3	WYTC-010	H9		Cody Caba
+YTC-0643	USP8 645-1110.F930amber	pGB1	Amp	N-His8-GB1-TEV	USP8	WW-CD w/ amber codon	human	bacterial expression		CORe-224	L3	WYTC-010	I1		Cody Caba
+YTC-0644	USP8 645-1110.F971amber	pGB1	Amp	N-His8-GB1-TEV	USP8	WW-CD w/ amber codon	human	bacterial expression		CORe-224	L3	WYTC-010	I2		Cody Caba
+YTC-0645	USP8 645-1110.K973amber	pGB1	Amp	N-His8-GB1-TEV	USP8	WW-CD w/ amber codon	human	bacterial expression		CORe-224	L3	WYTC-010	I3		Cody Caba
+YTC-0646	USP7 205-1102	pNLF1-N [CMV/Hygro]	Amp	N-NanoLuc	USP7 ΔTRAF		human	mammalian expression		CORe-224	L3	WYTC-010	I4	high, HEK293	Cody Caba
+YTC-0647	USP7 205-1102	pNLF1-C [CMV/Hygro]	Amp	C-NanoLuc	USP7 ΔTRAF		human	mammalian expression		CORe-224	L3	WYTC-010	I5	low, HEK293	Cody Caba
+YTC-0648	USP7 1-538	pNLF1-N [CMV/Hygro]	Amp	N-NanoLuc	USP7 ΔHUBL		human	mammalian expression		CORe-224	L3	WYTC-010	I6	high, HEK293	Cody Caba
+YTC-0649	USP7 205-538	pNLF1-N [CMV/Hygro]	Amp	N-NanoLuc	USP7 CD		human	mammalian expression		CORe-224	L3	WYTC-010	I7	high, HEK293	Cody Caba
+YTC-0650	ADAR p150 1-1229	pHTN HaloTag CMV-neo	Amp	N-HaloTag-TEV	ADAR p150 FL		human	mammalian expression		CORe-224	L3	WYTC-010	I8	high, HEK293	Cody Caba
+YTC-0651	ADAR p150 1-1229	pHTC HaloTag CMV-neo	Amp	C-TEV-HaloTag	ADAR p150 FL		human	mammalian expression		CORe-224	L3	WYTC-010	I9	no expression, HEK293	Cody Caba
+SDC102D08	ubiqb.001.076.intein	PTBY2-C			Ub.Intein			bacteria expression		CORe-224	L3	WYTC-011	B12		
+SDC176B03	usp07.0208.0554	pET28a-LIC	Kan		USP7		Human	bacteria expression		CORe-224	L3	WYTC-011	A12		
+SDC176B03	usp07.0208.0554	pET28a-LIC	Kan		USP7			bacteria expression		CORe-224	L3	WYTC-011	C05		
+SDC176B03	usp07.0208.0554	pET28a-LIC	Kan		USP7			bacteria expression		CORe-224	L3	WYTC-011	C06		
+SDC176B04	usp07.0208.0560	pET28a-LIC	Kan		USP7			bacteria expression		CORe-224	L3	WYTC-011	C03		
+SDC176B04	usp07.0208.0560	pET28a-LIC	Kan		USP7			bacteria expression		CORe-224	L3	WYTC-011	C04		
+YTC-0018		p28NGB-MHL	Kan	N-6his-NGB-TEV	NGB			Vector		CORe-224	L3	WYTC-011	A05		pET28-based NGB ion, DO NOT USE FOR CLONING, CONTAINS ADDED BseRI SITES! YTC-0 instead
+YTC-0080		pNIC-BIO3	Kan					Vector	35	CORe-224	L3	WYTC-011	A01		
+YTC-0081		p28BIOH-LIC	Kan					Vector	31	CORe-224	L3	WYTC-011	A02		
+YTC-082		pET28-MHL	Kan	N-6his-TEV				Vector	48	CORe-224	L3	WYTC-011	A03		
+YTC-0083		pET28-MKH8SUMO	Kan	His-SUMO-TEV				Vector	41	CORe-224	L3	WYTC-011	A04		
+YTC-0084		pFBNGB-MHL	Amp		NGB			Vector		CORe-224	L3	WYTC-011	A06		pFBOH-based NGB tagged vector
+YTC-0652	DDX39A 1-427	pHTC HaloTag CMV-neo	Amp	C-TEV-HaloTag	DDX39A FL		human	mammalian expression		CORe-224	L3	WYTC-011	A1	no expression, HEK293	Cody Caba
+YTC-0653	XRCC5 1-732	pHTN HaloTag CMV-neo	Amp	N-HaloTag-TEV	XRCC5 FL		human	mammalian expression		CORe-224	L3	WYTC-011	A2	high, HEK293	Cody Caba
+YTC-0654	XRCC5 1-732	pHTC HaloTag CMV-neo	Amp	C-TEV-HaloTag	XRCC5 FL		human	mammalian expression		CORe-224	L3	WYTC-011	A3	high, HEK293	Cody Caba
+YTC-0655	GEMIN5 1-1508	pHTC HaloTag CMV-neo	Amp	C-TEV-HaloTag	GEMIN5 FL		human	mammalian expression		CORe-224	L3	WYTC-011	A4	high, HEK293	Cody Caba
+YTC-0656	FTSJ3 1-847	pHTN HaloTag CMV-neo	Amp	N-HaloTag-TEV	FTSJ3 ΔC-ter		human	mammalian expression		CORe-224	L3	WYTC-011	A5	high, HEK293	Cody Caba
+YTC-0657	FTSJ3 1-847	pHTC HaloTag CMV-neo	Amp	C-TEV-HaloTag	FTSJ3 ΔC-ter		human	mammalian expression		CORe-224	L3	WYTC-011	A6	high, HEK293	Cody Caba
+YTC-0658	SSRP1 1-709	pHTN HaloTag CMV-neo	Amp	N-HaloTag-TEV	SSRP1 FL		human	mammalian expression		CORe-224	L3	WYTC-011	A7	high, HEK293	Cody Caba
+YTC-0659	SSRP1 1-709	pHTC HaloTag CMV-neo	Amp	C-TEV-HaloTag	SSRP1 FL		human	mammalian expression		CORe-224	L3	WYTC-011	A8	high, HEK293	Cody Caba
+YTC-0660	SSRP1 1-622	pHTC HaloTag CMV-neo	Amp	C-TEV-HaloTag	SSRP1 ΔC-ter		human	mammalian expression		CORe-224	L3	WYTC-011	A9	high, HEK293	Cody Caba
+YTC-0661	USP25:L144-D704	pET28a-LIC	Kan	N-6his-thrombin	USP25 CD		human	bacteria expression		CORe-224	L3	WYTC-011	B1		USP25:YTC046-B02:C239359
+YTC-0662	USP28:E147-E707	pET28a-LIC	Kan	N-6his-thrombin	USP28 CD		human	bacteria expression		CORe-224	L3	WYTC-011	B2		USP28:YTC046-C05:C239374
+YTC-0663	USP9Y:G1557-E1973:CH	pNIC-CH	Kan	C-6his	USP9Y CD		human	bacteria expression		CORe-224	L3	WYTC-011	B3		USP09Y:YTC040-A12:C236955
+YTC-0664	UBC:M1-P78:vu7.2	pHTN HaloTag CMV-neo	Amp	N-HaloTag-TEV	Ubv.USP7.02			mammalian expression		CORe-224	L3	WYTC-011	B4	high, HEK293	Cody Caba
+YTC-0665	ATG4A:M1-V398:Bio	pNIC-Bio3	kan	N-6his, C-Avi	ATG4a FL		human	bacteria expression		CORe-224	L3	WYTC-011	B5		apg4a:YTC049-H08:C240570
+YTC-0666	ATG4C:M1-L458:Bio	pNIC-Bio3	kan	N-6his, C-Avi	ATG4c FL		human	bacteria expression		CORe-224	L3	WYTC-011	B6		APG4C:YTC049-H10:C240572
+YTC-0667	ATG4D:M1-L474:Bio	pNIC-Bio3	kan	N-6his, C-Avi	ATG4d FL		human	bacteria expression		CORe-224	L3	WYTC-011	B7		APG4D:YTC049-H11:C240573
+YTC-0668	apg4a.023.391	pET28a-LIC	kan	N-His6-thrombin	ATG4a FL		human	bacteria expression		CORe-224	L3	WYTC-011	B8		apg4a:SDC088-G07:C27767
+YTC-0669	apg4a.023.353	pET28-MHL	kan	N-His6-TEV	ATG4a ΔN		human	bacteria expression		CORe-224	L3	WYTC-011	B9		apg4a:SDC094-C05:C29511
+YTC-0670	apg4a.023.365	pET28-MHL	kan	N-His6-TEV	ATG4a ΔN		human	bacteria expression		CORe-224	L3	WYTC-011	C1		apg4a:SDC094-C06:C29512
+YTC-0671	apg4a.023.359	pET28-MHL	kan	N-His6-TEV	ATG4a ΔN		human	bacteria expression		CORe-224	L3	WYTC-011	C2		apg4a:SDC108-G05:C32965
+YTC-0672	apg4c.036.435	pET28a-LIC	kan	N-His6-thrombin	ATG4c ΔN		human	bacteria expression		CORe-224	L3	WYTC-011	C3		APG4C:SDC053-E03:C16944
+YTC-0673	apg4c.036.440	pET28a-LIC	kan	N-His6-thrombin	ATG4c ΔN		human	bacteria expression		CORe-224	L3	WYTC-011	C4		APG4C:SDC053-E04:C16945
+YTC-0674	apg4c.036.444	pET28a-LIC	kan	N-His6-thrombin	ATG4c ΔN		human	bacteria expression		CORe-224	L3	WYTC-011	C5		APG4C:SDC053-E05:C16946
+YTC-0675	apg4c.0001-0421	pET41a	kan	N-GST-His6-Thrombin-Enterokinase	ATG4c FL		human	bacteria expression		CORe-224	L3	WYTC-011	C6		APG4C:SDC221-C06:C218815
+YTC-0676	apg4b.0005-0377	pET28-MHL	kan	N-His6-TEV	ATG4b ΔC		human	bacteria expression		CORe-224	L3	WYTC-011	C7		apg4b:SDC229-D06:C231546
+YTC-0677	usp04.252.916	pET28a-LIC	Kan	N-6his-thrombin	USP04 CD		human	bacteria expression		CORe-224	L3	WYTC-011	C8	High, LOBSTR RIL	USP04:SDC048-F03:C15268
+YTC-0678	usp36.0001.0538	pNIC-CH	Kan	C-6his	USP36 DUF + CD		human	bacteria expression		CORe-224	L3	WYTC-011	C9	No expression	USP36:SDC141-H07:C42376
+YTC-0679	LC3b.G12C.6His (codon optimized)	pET28-MHL.C-his6 (N-his6-TEV removed)	Kan	C-6his	LC3b FL		human	bacteria expression		CORe-224	L3	WYTC-011	D1		Cody Caba
+YTC-0680	GABARAP-L2.C15A/G117C.6His (codon optimized)	pET28-MHL.C-his6 (N-his6-TEV removed)	Kan	C-6his	GABARAP-L2 FL		human	bacteria expression		CORe-224	L3	WYTC-011	D2		Cody Caba
+YTC-0681	GABARAP-L2.C15S/G117C.6His (codon optimized)	pET28-MHL.C-his6 (N-his6-TEV removed)	Kan	C-6his	GABARAP-L2 FL		human	bacteria expression		CORe-224	L3	WYTC-011	D3		Cody Caba
+YTC-0682	usp36.0081.0461	pGB1	Amp	N-His6-GB1-TEV-GG	USP36 CD		human	bacteria expression		CORe-224	L3	WYTC-011	D4		Josh Mallare-double check annotation
+YTC-0683	usp36.0081.0424	pGB1	Amp	N-His6-GB1-TEV-GG	USP36 CD		human	bacteria expression		CORe-224	L3	WYTC-011	D5		Josh Mallare-double check annotation
+YTC-0684	USP09X:M1-Q2554:NH6CFlag	pFBOH-MHL	Amp	N-his6-TEV; C-FLAG	USP9X FL		human	insect cell expression		CORe-224	L3	WYTC-011	D6		USP09X:YTC039-G09:C236859; jm12122025 confirms C-termini, jm120525 confirms N-termini. jm20251216 confirms c-termini
+YTC-0685	CDK1, FL(codon optimized)	pET28-MHL	kan	N-His6-TEV	CDK1, FL	FL	human	bacteria expression		CORe-224	L3	WYTC-011	D7		Farinaz
+YTC-0686	CDK3,FL(codon optimized)	pET28-MHL	kan	N-His6-TEV	CDK3,FL	FL	human	bacteria expression		CORe-224	L3	WYTC-011	D8		Farinaz
+YTC-0687	CDK4,FL(codon optimized)	pET28-MHL	kan	N-His6-TEV	CDK4,FL	FL	human	bacteria expression		CORe-224	L3	WYTC-011	D9		Farinaz
+YTC-0688	CDK6,FL(codon optimized)	pET28-MHL	kan	N-His6-TEV	CDK6,FL	FL	human	bacteria expression		CORe-224	L3	WYTC-011	E1		Farinaz
+YTC-0689	CDK10,FL(codon optimized)	pET28-MHL	kan	N-His6-TEV	CDK10,FL	FL	human	bacteria expression		CORe-224	L3	WYTC-011	E2		Farinaz
+YTC-0690	CDK11A (codon optimize)	pET28-MHL	kan	N-His6-TEV	CDK11A		human	bacteria expression		CORe-224	L3	WYTC-011	E3		Farinaz
+YTC-0691	CDK12(codon optimized)	pET28-MHL	kan	N-His6-TEV	CDK12		human	bacteria expression		CORe-224	L3	WYTC-011	E4		Farinaz
+YTC-0692	CDK14,FL(codon optimized)	pET28-MHL	kan	N-His6-TEV	CDK14,FL	FL	human	bacteria expression		CORe-224	L3	WYTC-011	E5		Farinaz
+YTC-0693	CDK16,FL(codon optimized)	pET28-MHL	kan	N-His6-TEV	CDK16,FL	FL	human	bacteria expression		CORe-224	L3	WYTC-011	E6		Farinaz
+YTC-0694	SPDYC(SpeedyC),(codon optimized)	pGEX-MHL	Amp	N-GST-TEV	SPDYC(SpeedyC), S/R box	S/R box	human	bacteria expression		CORe-224	L3	WYTC-011	E7		Farinaz
+YTC-0695	SPDYE1(SpeedyE1),(codon optimized)	pGEX-MHL	Amp	N-GST-TEV	SPDYE1(SpeedyE1),S/R box	S/R box	human	bacteria expression		CORe-224	L3	WYTC-011	E8		Farinaz
+YTC-0696	SPDYE2(SpeedyE2),(codon optimized)	pGEX-MHL	Amp	N-GST-TEV	SPDYE2(SpeedyE2),S/R box	S/R box	human	bacteria expression		CORe-224	L3	WYTC-011	E9		Farinaz
+YTC-0697	SPDYE3(SpeedyE3),(codon optimized)	pGEX-MHL	Amp	N-GST-TEV	SPDYE3(SpeedyE3),S/R box	S/R box	human	bacteria expression		CORe-224	L3	WYTC-011	F1		Farinaz
+YTC-0698	SPDYE4(SpeedyE4),(codon optimized)	pGEX-MHL	Amp	N-GST-TEV	SPDYE4(SpeedyE4),S/R box	S/R box	human	bacteria expression		CORe-224	L3	WYTC-011	F2		Farinaz
+YTC-0699	SPDYE10(SpeedyE10),(codon optimized)	pGEX-MHL	Amp	N-GST-TEV	SPDYE10(SpeedyE10),S/R box	S/R box	human	bacteria expression		CORe-224	L3	WYTC-011	F3		Farinaz
+YTC-0700	SPDYE16(SpeedyE16),(codon optimized)	pGEX-MHL	Amp	N-GST-TEV	SPDYE16(SpeedyE16),S/R box	S/R box		bacteria expression		CORe-224	L3	WYTC-011	F4		Farinaz
+YTC-0701	Ub.G76C/S65amber	pACYC-DUET1	Chl	C-his6	Ub		human	bacteria expression		CORe-224	L3	WYTC-011	F5		Cody Caba
+YTC-0702	usp03.151.516	pET28a-LIC	kan	N-6his-thrombin	USP3 CD		human	bacteria expression		CORe-224	L3	WYTC-011	F6		USP03:SDC030-A05:C11615
+YTC-0703	usp16.170.823	pET28-MHL	Kan	N-His6-TEV	USP 16 CD		human	bacteria expression		CORe-224	L3	WYTC-011	F7		USP16:SDC093-E01:C29627
+YTC-0704	usp36.81.461	pGEX-MHL	Amp	N-GST-TEV	USP36 CD		human	bacteria expression		CORe-224	L3	WYTC-011	F8		Josh Mallare
+YTC-0705	Ub.G76C/S65amber, p15A ori	pNIC-CH	Kan	C-6his	Ubiquitin 1-76.G76C S65 amber mutation, , ΔpUC, insert p15A ori	FL	human	bacteria expression		CORe-224	L3	WYTC-011	F9		Josh Mallare, deleted pUC ori and insert p15A ori
+YTC-0706	usp36.81.424	pGEX-MHL	Amp	N-GST-TEV	USP36 CD		human	bacteria expression		CORe-224	L3	WYTC-011	G1		Josh Mallare
+YTC-0707	PARP1 5-1010	pHTC HaloTag CMV-neo	Amp	C-TEV-HaloTag	PARP1 5-1010			mammalian expression		CORe-224	L3	WYTC-011	G2		Josh Mallare
+YTC-0708	PARP1 5-1010	pHTN HaloTag CMV-neo	Amp	N-HaloTag-TEV	PARP1 5-1010			mammalian expression		CORe-224	L3	WYTC-011	G3		Josh Mallare
+YTC-0709	SPDYE4(SpeedyE4),(codon optimized)	pET28-MHL	Kan	N-His6-TEV	SPDYE4(SpeedyE4),S/R box		human	bacteria expression		CORe-224	L3	WYTC-011	G4		
+YTC-0710	USP3.151.516	pET28-MKH8SUMO	Kan	8xHis-Thrombin-SUMO-TEV	USP3 CD			bacteria expression		CORe-224	L3	WYTC-011	G5	low; LOBSTR-RIL	Josh Mallare
+YTC-0711	USP3.151.516	p6HISMAL-MHL	Amp	N-6his-MBP-TEV	USP3 CD			bacteria expression		CORe-224	L3	WYTC-011	G6	low; LOBSTR-RIL	Josh Mallare
+YTC-0712	USP3.151.516	pET15TRX-MHL	Amp	N-6his-Trx-TEV	USP3 CD			bacteria expression		CORe-224	L3	WYTC-011	G7	low; LOBSTR-RIL	Josh Mallare
+YTC-0713	USP3.151.516	pET15NUSA-MHL	Amp	N-6his-NusA-TEV	USP3 CD			bacteria expression		CORe-224	L3	WYTC-011	G8	low; LOBSTR-RIL	Josh Mallare
+YTC-0714	USP3.151.516	pGB1	Amp	N-His8-GB1-TEV	USP3 CD			bacteria expression		CORe-224	L3	WYTC-011	G9	low; LOBSTR-RIL	Josh Mallare
+YTC-0715	USP3.151.516	pNIC-BIO3	Kan	N-6his-TEV, C-Avi	USP3 CD			bacteria expression		CORe-224	L3	WYTC-011	H1	low; LOBSTR-RIL	Josh Mallare
+YTC-0716	USP3.1.520	pET15TRX-MHL	Amp	N-6his-Trx-TEV	USP3 FL			bacteria expression		CORe-224	L3	WYTC-011	H2	low; LOBSTR-RIL	Josh Mallare
+YTC-0717	USP3.24.520	pET15NUSA-MHL	Amp	N-6his-NusA-TEV	USP3 CD			bacteria expression		CORe-224	L3	WYTC-011	H3	low; LOBSTR-RIL	Josh Mallare
+YTC-0718	usp36.81.424	pET28-MKH8SUMO	Kan	8xHis-Thrombin-SUMO-TEV	USP36 CD			bacteria expression		CORe-224	L3	WYTC-011	H4		Josh Mallare
+YTC-0719	usp36.81.424	p6HISMAL-MHL	Amp	N-6his-MBP-TEV	USP36 CD			bacteria expression		CORe-224	L3	WYTC-011	H5	High; LOBSTR-RIL	Josh Mallare
+YTC-0720	usp36.81.424	pET15TRX-MHL	Amp	N-6his-Trx-TEV	USP36 CD			bacteria expression		CORe-224	L3	WYTC-011	H6		Josh Mallare
+YTC-0721	usp36.81.424	pET15NUSA-MHL	Amp	N-6his-NusA-TEV	USP36 CD			bacteria expression		CORe-224	L3	WYTC-011	H7		Josh Mallare
+YTC-0722	usp36.81.461	pET15NUSA-MHL	Amp	N-6his-NusA-TEV	USP36 CD			bacteria expression		CORe-224	L3	WYTC-011	H8		Josh Mallare
+YTC-0723	usp36.81.461	p6HISMAL-MHL	Amp	N-6his-MBP-TEV	USP36 CD			bacteria expression		CORe-224	L3	WYTC-011	H9		Josh Mallare
+YTC-0724	usp36.81.461	pET15TRX-MHL	Amp	N-6his-Trx-TEV	USP36 CD			bacteria expression		CORe-224	L3	WYTC-011	I1		Josh Mallare
+YTC-0725	HA-CDK2	pCMV-neo-Bam	Amp	C-HA	CDK2			Mammalian expression		CORe-224	L3	WYTC-011	I2		Addgene: 1884, from Porter lab
+YTC-0726	myc-Spy1	pCS3	Amp	N-Myc	SPY1			Mammalian expression		CORe-224	L3	WYTC-011	I3		From Porter lab
+YTC-0727	myc-CyclinA	pCS3	Amp	N-Myc	CyclinA			Mammalian expression		CORe-224	L3	WYTC-011	I4		From Porter lab
+YTC-0728	pCS3	pCS3	Amp	N-Myc	-			Mammalian expression		CORe-224	L3	WYTC-011	I5		From Porter lab
+YTC-0729	usp30.050.508	pET28a-LIC	Kan	N-6his-thrombin	USP30 CD			bacteria expression		CORe-224	L3	WYTC-011	I6		USP30:SDC065-D10:C22183
+YTC-0730	Fubi C57S, G74C	pNIC-CH	Kan	C-his6	Fubi C57S, G74C			bacteria expression		CORe-224	L3	WYTC-011	I7		For ACPL generation of Fubi-AMC
+YTC-0731	usp13.304.863	pET28a-LIC	Kan	N-6his-thrombin	USP13 CD			bacteria expression		CORe-224	L3	WYTC-011	I11		USP13:SDC079-D10:C25060
+YTC-0732	dub3.075.446.t2 - USP17	pET28-MHL	Kan	N-6his-TEV	USP17 CD + HABP4			bacteria expression		CORe-224	L3	WYTC-011	I12		dub3:SDC093-A04:C29582
+YTC-0733	usp16.182.823	pET28-MHL	Kan	N-6his-TEV	USP 16 CD			bacteria expression		CORe-224	L3	WYTC-012	A1		USP16:SDC093-E02:C29628
+YTC-0734	USP3.151.516.R266N	p6HISMAL-MHL	Amp	N-6his-MBP-TEV	USP3 CD;mutant			bacteria expression		CORe-224	L3	WYTC-012	A2		Josh Mallare
+YTC-0735	USP3.151.516.R266T	p6HISMAL-MHL	Amp	N-6his-MBP-TEV	USP3 CD;mutant			bacteria expression		CORe-224	L3	WYTC-012	A3		Josh Mallare
+YTC-0736	MS2: maturase+cp-his-cp	pACYCDuet-1	Chl	internal his6	MCS1:MS2 PLP ; MCS2: H5N1:2.3.4.4:2.3.2.1:H7:N9:FluA:FluB:PPMoV		N/A	bacteria expression	65.3 ng/µL	CORe-224	L3	WYTC-012	A4		Lea Tanovic
+YTC-0737	CDK2 T160A	pGB1	Amp	N-His8-GB1-TEV	CDK2 T160A, mutation in YTC-0515			bacteria expression		CORe-224	L3	WYTC-012	A5		Alex Agostinis
+YTC-0738	HA CDK2 T160A	pCMV-neo-Bam	Amp	C-HA	CDK2 T160A, mutation in YTC-0725			Mammalian expression		CORe-224	L3	WYTC-012	A6		Alex Agostinis
+YTC-0739	HA CDK2 R157E/T158D	pCMV-neo-Bam	Amp	C-HA	CDK2 R157E/T158D, mutation in YTC-0725			Mammalian expression		CORe-224	L3	WYTC-012	A7		Alex Agostinis
+YTC-0740	HA CDK2 D145A	pCMV-neo-Bam	Amp	C-HA	CDK2 D145A, mutation in YTC-0725			Mammalian expression		CORe-224	L3	WYTC-012	A8		Alex Agostinis
+YTC-0741	HA CDK2 K33R	pCMV-neo-Bam	Amp	C-HA	CDK2 K33R, mutation in YTC-0725			Mammalian expression		CORe-224	L3	WYTC-012	A9		Alex Agostinis
+YTC-0742	Ub-Isomim	pET28-MHL	Kan	N-6his-TEV	Ub Cterm-GGGC			bacteria expression		CORe-224	L3	WYTC-012	A10		Josh Mallare
+YTC-0743	Fubi-Isomim	pET28-MHL	Kan	N-6his-TEV	Fubi C57S, Cterm-GGGC			bacteria expression		CORe-224	L3	WYTC-012	A11		Josh Mallare
+YTC-0744	Fubi C57S	pNIC-CH	Kan	C-his6	Fubi C57S, ACPL generation			bacteria expression		CORe-224	L3	WYTC-012	A12	Low	Josh Mallare
+YTC-0745	Fubi-Isomim, N-GB1, C57	pGB1	Amp	N-His8-GB1-TEV	N-his8-GB1-TEV-Fubi, Cterm-GGGC			bacteria expression		CORe-224	L3	WYTC-012	B1	High	Josh Mallare, note no C57S mutation
+YTC-0746	Fubi-Isomim, N-GB1, S57	pGB1	Amp	N-His8-GB1-TEV	N-his8-GB1-TEV-Fubi, Cterm-GGGC			bacteria expression		CORe-224	L3	WYTC-012	B2		Josh Mallare, note C57S mutation
+YTC-0747	Fubi C57S, N-GB1	pNIC-CH	Kan	N-GB1-TEV, C-his6	Fubi C57S, G74C			bacteria expression		CORe-224	L3	WYTC-012	B3		Josh Mallare, template YTC-743
+YTC-0748	Fubi	pGB1	Amp	N-his8-GB1-TEV-Fubi	FAU			bacteria expression		CORe-224	L3	WYTC-012	B4		Josh Mallare, template YTC-574
+YTC-0749	Fubi, N-GB1, C57 (WT)	pTXB1	Amp	N-GB1-TEV-Mxe-GyrAIntein-CBD	Fubi			bacteria expression		CORe-224	L3	WYTC-012	B5		Josh Mallare, template YTC-745
+YTC-0750	CDK1 FL	p6HISMAL-MHL	Amp	N-6his-MBP-TEV	CDK1	FL		bacteria expression		CORe-224	L3	WYTC-012	B6		Alex Agostinis, gBlock cDNA from FZ into YTC0168 - p6HISMAL-MHL
+YTC-0751	CDK4 FL	p6HISMAL-MHL	Amp	N-6his-MBP-TEV	CDK4	FL		bacteria expression		CORe-224	L3	WYTC-012	B7		Alex Agostinis, gBlock cDNA from FZ into YTC0168 - p6HISMAL-MHL
+YTC-0752	CDK6 FL	p6HISMAL-MHL	Amp	N-6his-MBP-TEV	CDK6	FL				CORe-224	L3		B8		Alex Agostinis, gBlock cDNA from FZ into YTC0168 - p6HISMAL-MHL
+YTC-0753	Fubi C57A, N-GB1	pNIC-CH	Kan	N-His8-GB1-TEV	Fubi C57A, G74C			bacteria expression		CORe-224	L3	WYTC-012	B9		Josh Mallare
+YTC-0754	Fubi C57Y, N-GB1	pNIC-CH	Kan	N-His8-GB1-TEV	Fubi C57Y, G74C			bacteria expression		CORe-224	L3	WYTC-012	B10		Josh Mallare
+YTC-0755	ubv.5.6:M1-R74	pET28-MHL	Kan	N-6his-TEV	UbV.USP5			bacteria expression		CORe-224	L3	WYTC-012	B11		ubv.05.06:YTC006-:C225403
+YTC-0756	ubv.05.10:M1-R74	pET28-MHL	Kan	N-6his-TEV	UbV.USP5			bacteria expression		CORe-224	L3	WYTC-012	B12		ubv.05.10:YTC006-D11:C225407
+YTC-0757	usp03.151.516	p6HISMAL-MHL	Amp	N-6his-MBP-TEV; C-avi	USP03			bacteria expression		CORe-224	L4	WYTC-012	C1		Lisa Chiu
+YTC-0758	Fubi	pNICBio3	Kan	N-6his-TEV, C-avi	FAU			bacteria expression		CORe-224	L5	WYTC-012	C2		Lisa Chiu
+YTC-0759	CDK6	pNICBio3	Kan	N-6his-TEV, C-avi	CDK6 FL			bacteria expression		CORe-224	L6	WYTC-012	C3		Lisa Chiu
+YTC-0760	CCNE1	RcCMV	Amp		Cyclin E1			Mammalian expression				WYTC-012	C4		Porter lab
+YTC-0761	Cyclin B	pCMX	Amp		Cyclin B-GFP			Mammalian expression				WYTC-012	C5		Porter lab
+YTC-0762	Cyclin A	RcCMV	Amp		Cyclin A			Mammalian expression				WYTC-012	C6		Porter lab
+YTC-0763	CDC2-HA	RcCMV	Amp		CDK1			Mammalian expression				WYTC-012	C7		Porter lab
+YTC-0764	pET28-MHL, Gly-His6X	pET28-MHL	Kan	N-Gly-His6X				Vector				WYTC-012	C8		Lisa Chiu
+YTC-0765	Fubi, WT	pGB1	AMP	N-his8-GB1-TEV, C-Mxe-GyrAIntein-CBD				bacteria expression							Josh Mallare
+YTC-0766	Fubi, WT	pGB1	AMP	N-His8-GB1-TEV				bacteria expression							Josh Mallare
+YTC006E08	Ubv.it.02:M1-F78:CH	pNIC-CH	Kan		UbV.ITCH			bacteria expression		CORe-224	L3	WYTC-011	C01		
+YTC043A01	Caltubin:P33-S178:SUMO	pET28-MKH8SUMO	Kan	His-SUMO-TEV	Caltubin			bacteria expression		CORe-224	L3	WYTC-011	B03		
+YTC043A02	Caltubin:P33-P179:SUMO	pET28-MKH8SUMO	Kan	His-SUMO-TEV	Caltubin			bacteria expression		CORe-224	L3	WYTC-011	B04		
+YTC043A03	Caltubin:C34-S178:SUMO	pET28-MKH8SUMO	Kan	His-SUMO-TEV	Caltubin			bacteria expression		CORe-224	L3	WYTC-011	B05		
+YTC043A04	Caltubin:C34-P179:SUMO	pET28-MKH8SUMO	Kan	His-SUMO-TEV	Caltubin			bacteria expression		CORe-224	L3	WYTC-011	B06		
+YTC043A05	Caltubin:V35-S178:SUMO	pET28-MKH8SUMO	Kan	His-SUMO-TEV	Caltubin			bacteria expression		CORe-224	L3	WYTC-011	B07		
+YTC043A06	Caltubin:V35-P179:SUMO	pET28-MKH8SUMO	Kan	His-SUMO-TEV	Caltubin			bacteria expression		CORe-224	L3	WYTC-011	B08		
+YTC043A07	Caltubin:V37-S178:SUMO	pET28-MKH8SUMO	Kan	His-SUMO-TEV	Caltubin			bacteria expression		CORe-224	L3	WYTC-011	B09		
+YTC043A09	Caltubin:P38-S178:SUMO	pET28-MKH8SUMO	Kan	His-SUMO-TEV	Caltubin			bacteria expression		CORe-224	L3	WYTC-011	B10		
+YTC043A10	Caltubin:P38-P179:SUMO	pET28-MKH8SUMO	Kan	His-SUMO-TEV	Caltubin			bacteria expression		CORe-224	L3	WYTC-011	B11		
+SDC161F02	usp09x.1544.1965	pET28a-LIC								CORe-224	L3	WYTC-012	A01		
+SDC161F03	usp09x.1544.1968	pET28a-LIC								CORe-224	L3	WYTC-012	A02		
+SDC161F04	usp09x.1544.1977	pET28a-LIC								CORe-224	L3	WYTC-012	A03		

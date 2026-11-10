@@ -1,0 +1,32 @@
+{
+  "// what this is": [
+    "Type checking for plain JavaScript, with no build step and no .ts files.",
+    "checkJs makes tsc read the JSDoc comments in the engine and report what",
+    "does not line up: a function called with the wrong number of arguments, a",
+    "property that does not exist on a returned object, a value that can be",
+    "null used as if it cannot. The evaluation's section 4.5 argues for this",
+    "rather than a TypeScript migration, and it is right: the types live in",
+    "comments, the files stay .js, and there is nothing to compile.",
+    "",
+    "Run it with:  npx tsc -p tsconfig.json",
+    "Nothing is emitted; it only reports."
+  ],
+  "compilerOptions": {
+    "target": "ES2020",
+    "lib": ["ES2020", "DOM"],
+    "module": "CommonJS",
+    "moduleResolution": "node",
+    "allowJs": true,
+    "checkJs": true,
+    "noEmit": true,
+    "strict": false,
+    "noImplicitAny": false,
+    "strictNullChecks": false,
+    "skipLibCheck": true,
+    "resolveJsonModule": true
+  },
+  "include": ["src/types.d.ts", "src/engine.js", "src/engine2.js", "src/engine3.js", "src/engine4.js",
+              "src/engine5.js", "src/engine6.js", "src/engine7.js", "src/engine8.js",
+              "src/store.js", "src/elab.js", "src/profile.js", "build.js"],
+  "exclude": ["node_modules", "plasmidbench.html", "preview.html"]
+}

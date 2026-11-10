@@ -1,0 +1,18 @@
+# the built file: made by `node build.js`, attached to releases
+plasmidbench.html
+
+node_modules/
+package-lock.json
+
+# validation scratch
+tests/oracles/rebase-mine.json
+*.json.tmp
+/bp/
+/realfiles/
+
+# development aids
+tests/screenshots/
+screenshots/
+*.png
+!docs/*.png
+.DS_Store

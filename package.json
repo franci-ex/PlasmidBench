@@ -1,0 +1,21 @@
+{
+  "name": "plasmidbench",
+  "version": "0.4.0",
+  "description": "A molecular cloning workbench that runs from one HTML file, offline, and knows what your freezer holds.",
+  "license": "MIT",
+  "private": true,
+  "scripts": {
+    "build": "node build.js",
+    "validate": "./validate-all.sh",
+    "types": "tsc -p tsconfig.json",
+    "test": "./validate-all.sh engine",
+    "test:oracles": "./validate-all.sh oracles",
+    "test:browser": "./validate-all.sh browser"
+  },
+  "comment": "No runtime dependencies, by design: the built file has none. These are for the checks only, and are installed with --no-save so that nothing in the repository implies the tool needs them.",
+  "devDependenciesNote": {
+    "playwright": "1.48.2",
+    "typescript": "5.6.3",
+    "@types/node": "22"
+  }
+}
