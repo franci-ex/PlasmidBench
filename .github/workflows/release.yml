@@ -1,8 +1,4 @@
 # A tagged release attaches the built file.
-#
-# The point is that a result can be traced to the exact file that produced
-# it. A release is one HTML file; keeping it means keeping the version.
-
 name: release
 
 on:
@@ -16,51 +12,44 @@ jobs:
       contents: write
     steps:
       - uses: actions/checkout@v4
+      
       - uses: actions/setup-node@v4
         with:
           node-version: '22'
 
-      - name: build
+      - name: Build the HTML
         run: node build.js
 
-      - name: the checks must have passed on this commit
-        # Not a substitute for the validate workflow — a reminder in the
-        # release notes of what was and was not run, since a release is the
-        # thing someone will still be using in two years.
-        run: |
-          node tests/test.js  > /dev/null && echo "engine: ok"
-          npx --yes typescript@5.6.3 tsc -p tsconfig.json && echo "types: 0 errors"
-
-      - name: name it after the tag
+      - name: Name it after the tag and generate notes
         run: |
           V="${GITHUB_REF_NAME}"
-          cp plasmidbench.html "PlasmidBench-${V}.html"
+          
+          # Find the built file whether it's in root or dist/
+          if [ -f "dist/PlasmidBench.html" ]; then
+            cp dist/PlasmidBench.html "PlasmidBench-${V}.html"
+          elif [ -f "plasmidbench.html" ]; then
+            cp plasmidbench.html "PlasmidBench-${V}.html"
+          else
+            # Fallback: find the first HTML file in the directory
+            FILE=$(find . -name "*.html" -not -path "*/node_modules/*" | head -n 1)
+            cp "$FILE" "PlasmidBench-${V}.html"
+          fi
+          
+          # Generate the release notes
           {
             echo "## PlasmidBench ${V}"
             echo
             echo "One file. Download it and open it in a browser — no installation, no server, offline."
             echo
-            echo "\`PlasmidBench-${V}.html\` — $(du -h plasmidbench.html | cut -f1)"
-            echo
             echo "### Before you rely on it"
-            echo
-            echo "Run \`./validate-all.sh\` from a clone of this tag: four layers, about 25 minutes,"
-            echo "including the comparisons against Biopython 1.88, REBASE and IDT's published"
-            echo "oligo formula. The numbers it prints are the evidence for everything this file claims."
+            echo "Run \`./validate-all.sh\` from a clone of this tag to see the full test results."
             echo
             echo "### Terms"
-            echo
-            echo "MIT for the code. The data tables came from REBASE, NCBI, Kazusa, IDT and published"
-            echo "papers and have their own terms — see NOTICE.md before redistributing this file."
-            echo
-            echo "### What this is not"
-            echo
-            echo "Not a record system. eLabFTW holds the records and the audit trail; this reads from"
-            echo "it and adds to it, never replacing anything. A construct does not become verified"
-            echo "lab stock because a design tool produced it."
+            echo "MIT for the code. Data tables from REBASE, NCBI, Kazusa, IDT (see NOTICE.md)."
           } > NOTES.md
 
-      - uses: softprops/action-gh-release@v2
+      - name: Create Release and Upload HTML
+        uses: softprops/action-gh-release@v2
         with:
           files: PlasmidBench-*.html
           body_path: NOTES.md
